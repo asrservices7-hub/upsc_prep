@@ -1,0 +1,8 @@
+#!/usr/bin/expect
+set timeout 30
+spawn npx firebase-tools init database --project upsc-prep-b2336
+expect "Please choose the location for your default Realtime Database instance:"
+send "\r"
+expect "What file should be used for Realtime Database Security Rules?"
+send "\r"
+expect eof

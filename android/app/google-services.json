@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891748690569",
+    "project_id": "upsc-prep-b2336",
+    "storage_bucket": "upsc-prep-b2336.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891748690569:android:4c2310e867988dd2723458",
+        "android_client_info": {
+          "package_name": "com.example.upsc_prep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8JEjGNJv6dmr9fCkLeboo6xa_pcGFs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

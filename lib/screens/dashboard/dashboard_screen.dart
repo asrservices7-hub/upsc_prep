@@ -4,6 +4,7 @@ import '../current_affairs/current_affairs_screen.dart';
 import '../notes/notes_screen.dart';
 import '../tests/tests_screen.dart';
 import '../profile/profile_screen.dart';
+import '../live/live_list_screen.dart';
 
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({super.key});
@@ -19,6 +20,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
     CurrentAffairsScreen(),
     NotesScreen(),
     TestsScreen(),
+    LiveListScreen(),
     ProfileScreen(),
   ];
 
@@ -31,6 +33,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
       ),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _currentIndex,
+        type: BottomNavigationBarType.fixed,
         onTap: (index) {
           setState(() {
             _currentIndex = index;
@@ -51,6 +54,11 @@ class _DashboardScreenState extends State<DashboardScreen> {
             icon: Icon(Icons.quiz_outlined),
             activeIcon: Icon(Icons.quiz),
             label: 'Tests',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.live_tv_outlined),
+            activeIcon: Icon(Icons.live_tv),
+            label: 'Live',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person_outline),

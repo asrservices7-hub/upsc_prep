@@ -1,33 +1,41 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import '../../providers/exam_provider.dart';
+import '../../widgets/exam_switcher.dart';
 
 class TestsScreen extends StatelessWidget {
   const TestsScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
-    final List<Map<String, dynamic>> testSeries = [
-      {
-        'title': 'Prelims Full Mock Test 1',
-        'questions': 100,
-        'duration': '120 mins',
-        'isPremium': false,
-      },
-      {
-        'title': 'CSAT Practice Test (Math)',
-        'questions': 80,
-        'duration': '120 mins',
-        'isPremium': true,
-      },
-      {
-        'title': 'Polity Sectional Test',
-        'questions': 50,
-        'duration': '60 mins',
-        'isPremium': true,
-      },
-    ];
+    return Consumer<ExamProvider>(
+      builder: (context, examProvider, child) {
+        final List<Map<String, dynamic>> testSeries = [
+          {
+            'title': 'Prelims Full Mock Test 1',
+            'questions': 100,
+            'duration': '120 mins',
+            'isPremium': false,
+          },
+          {
+            'title': 'CSAT Practice Test (Math)',
+            'questions': 80,
+            'duration': '120 mins',
+            'isPremium': true,
+          },
+          {
+            'title': 'Polity Sectional Test',
+            'questions': 50,
+            'duration': '60 mins',
+            'isPremium': true,
+          },
+        ];
 
-    return Scaffold(
-      appBar: AppBar(title: const Text('Test Series')),
+        return Scaffold(
+          appBar: AppBar(
+            title: const Text('Test Series'),
+            actions: const [ExamSwitcher()],
+          ),
       body: ListView.builder(
         padding: const EdgeInsets.all(16),
         itemCount: testSeries.length,
@@ -83,6 +91,8 @@ class TestsScreen extends StatelessWidget {
           );
         },
       ),
+    );
+      },
     );
   }
 }

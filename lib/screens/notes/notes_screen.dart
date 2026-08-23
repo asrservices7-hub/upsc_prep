@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import '../../widgets/exam_switcher.dart';
+import 'notes_list_screen.dart';
 
 class NotesScreen extends StatelessWidget {
   const NotesScreen({super.key});
@@ -15,7 +17,10 @@ class NotesScreen extends StatelessWidget {
     ];
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Handwritten Notes')),
+      appBar: AppBar(
+        title: const Text('Handwritten Notes'),
+        actions: const [ExamSwitcher()],
+      ),
       body: GridView.builder(
         padding: const EdgeInsets.all(16),
         gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
@@ -33,7 +38,12 @@ class NotesScreen extends StatelessWidget {
             child: InkWell(
               borderRadius: BorderRadius.circular(16),
               onTap: () {
-                // Open category notes
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => NotesListScreen(category: category['title']),
+                  ),
+                );
               },
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,

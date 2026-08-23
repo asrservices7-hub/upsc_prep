@@ -1,16 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:provider/provider.dart';
+import 'firebase_options.dart';
 import 'theme/app_theme.dart';
 import 'screens/auth/login_screen.dart';
+import 'services/auth_service.dart';
+import 'providers/exam_provider.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  // Firebase.initializeApp() will be called here once configured.
-  // try {
-  //   await Firebase.initializeApp();
-  // } catch (e) {
-  //   debugPrint('Firebase init failed: $e');
-  // }
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const UPSCPrepApp());
 }
 
@@ -19,11 +20,17 @@ class UPSCPrepApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'UPSC Prep',
-      debugShowCheckedModeBanner: false,
-      theme: AppTheme.lightTheme,
-      home: const LoginScreen(),
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => AuthService()),
+        ChangeNotifierProvider(create: (_) => ExamProvider()),
+      ],
+      child: MaterialApp(
+        title: 'UPSC Prep',
+        debugShowCheckedModeBanner: false,
+        theme: AppTheme.lightTheme,
+        home: const LoginScreen(),
+      ),
     );
   }
 }

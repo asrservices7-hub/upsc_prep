@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:google_sign_in/google_sign_in.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+import 'package:provider/provider.dart';
+import '../../services/auth_service.dart';
 import '../dashboard/dashboard_screen.dart';
+import '../admin/admin_dashboard_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -15,33 +16,52 @@ class _LoginScreenState extends State<LoginScreen> {
   final _passwordController = TextEditingController();
   bool _isLoading = false;
 
-  // Placeholder for real Firebase Auth implementation
   Future<void> _signInWithEmail() async {
-    setState(() => _isLoading = true);
-    // TODO: Connect to FirebaseAuth.instance.signInWithEmailAndPassword
-    await Future.delayed(const Duration(seconds: 1)); // Simulate network
-    setState(() => _isLoading = false);
-    
-    if (mounted) {
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (_) => const DashboardScreen()),
+    if (_emailController.text.isEmpty || _passwordController.text.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Please enter both email and password')),
       );
+      return;
+    }
+
+    setState(() => _isLoading = true);
+    try {
+      final authService = context.read<AuthService>();
+      await authService.signInWithEmailPassword(
+        _emailController.text.trim(),
+        _passwordController.text.trim(),
+      );
+      
+      if (mounted) {
+        if (authService.isAdmin) {
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (_) => const AdminDashboardScreen()),
+          );
+        } else {
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (_) => const DashboardScreen()),
+          );
+        }
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Login failed: ${e.toString()}')),
+        );
+      }
+    } finally {
+      if (mounted) {
+        setState(() => _isLoading = false);
+      }
     }
   }
 
   Future<void> _signInWithGoogle() async {
-    setState(() => _isLoading = true);
-    // TODO: Connect to GoogleSignIn and FirebaseAuth
-    await Future.delayed(const Duration(seconds: 1)); // Simulate network
-    setState(() => _isLoading = false);
-    
-    if (mounted) {
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (_) => const DashboardScreen()),
-      );
-    }
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Google Sign-In coming soon!')),
+    );
   }
 
   @override

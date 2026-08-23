@@ -1,0 +1,8 @@
+#!/usr/bin/expect -f
+set timeout -1
+spawn surge ./build/web upsc-prep-demo-app.surge.sh
+expect "email:"
+send "srijan.upsc.demo@example.com\r"
+expect "password:"
+send "UpscDemoPassword123!\r"
+expect eof

@@ -1,108 +1,259 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_database/firebase_database.dart';
+import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
+import '../../providers/exam_provider.dart';
+import '../../widgets/exam_switcher.dart';
 
 class CurrentAffairsScreen extends StatelessWidget {
   const CurrentAffairsScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
-    final List<Map<String, String>> mockAffairs = [
-      {
-        'title': 'New Economic Policy Reforms announced',
-        'date': 'Aug 05, 2026',
-        'summary': 'The government has announced sweeping changes to the current economic framework, focusing on sustainable development and digital infrastructure...',
-        'category': 'Economy',
-      },
-      {
-        'title': 'Supreme Court rules on Environmental Protection',
-        'date': 'Aug 04, 2026',
-        'summary': 'In a landmark judgment, the Supreme Court has mandated strict ecological assessments for all future industrial projects near coastal regions.',
-        'category': 'Polity & Environment',
-      },
-      {
-        'title': 'G20 Summit: Key Takeaways for India',
-        'date': 'Aug 03, 2026',
-        'summary': 'India secured several strategic partnerships in renewable energy and cyber security during the latest G20 summit.',
-        'category': 'International Relations',
-      },
-    ];
-
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Daily Current Affairs'),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.search),
-            onPressed: () {},
-          )
-        ],
-      ),
-      body: ListView.builder(
-        padding: const EdgeInsets.all(16),
-        itemCount: mockAffairs.length,
-        itemBuilder: (context, index) {
-          final item = mockAffairs[index];
-          return Card(
-            margin: const EdgeInsets.only(bottom: 16),
-            child: InkWell(
-              borderRadius: BorderRadius.circular(16),
-              onTap: () {
-                // Open full article
+    return Consumer<ExamProvider>(
+      builder: (context, examProvider, child) {
+        return Scaffold(
+          appBar: AppBar(
+            title: const Text('Daily Feed'),
+            actions: [
+              const ExamSwitcher(),
+              IconButton(
+                icon: const Icon(Icons.search),
+                onPressed: () {},
+              )
+            ],
+          ),
+          body: StreamBuilder<DatabaseEvent>(
+            stream: FirebaseDatabase.instance
+                .ref()
+                .child('current_affairs')
+                .child(examProvider.selectedExam)
+                .orderByChild('timestamp')
+                .onValue,
+            builder: (context, snapshot) {
+          if (snapshot.hasError || snapshot.data?.snapshot.value == null) {
+            final mockAffairs = [
+              {
+                'title': 'India Achieves Record FDI Inflows in FY2026',
+                'category': 'Economy',
+                'date': 'Aug 24, 2026',
+                'summary': 'India attracted record Foreign Direct Investment (FDI) inflows of over \$85 billion in FY2025-26, marking a 12% increase over the previous year. The sectors that received maximum FDI include services, computer software & hardware, telecommunications, and automobile.',
+                'source_url': 'https://dpiit.gov.in/'
               },
-              child: Padding(
-                padding: const EdgeInsets.all(16.0),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        Chip(
-                          label: Text(
-                            item['category']!,
-                            style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
+              {
+                'title': 'Supreme Court Upholds Right to Privacy in Digital Age',
+                'category': 'Polity',
+                'date': 'Aug 24, 2026',
+                'summary': 'The Supreme Court in a landmark judgment reinforced the right to privacy in the context of digital data collection by government agencies. The 5-judge bench ruled that citizens\' data collected must comply with the Data Protection Act 2023.',
+                'source_url': 'https://main.sci.gov.in/'
+              },
+              {
+                'title': 'India and EU Sign Green Hydrogen Partnership Agreement',
+                'category': 'Intl Relations',
+                'date': 'Aug 23, 2026',
+                'summary': 'India and the European Union signed a strategic partnership agreement on green hydrogen production and trade. Under this agreement, the EU will invest €2 billion in India\'s National Green Hydrogen Mission.',
+                'source_url': 'https://www.mea.gov.in/'
+              }
+            ];
+
+            return ListView.builder(
+              padding: const EdgeInsets.all(16),
+              itemCount: mockAffairs.length,
+              itemBuilder: (context, index) {
+                final data = mockAffairs[index];
+                
+                final title = data['title'] as String;
+                final category = data['category'] as String;
+                final date = data['date'] as String;
+                final summary = data['summary'] as String;
+                final sourceUrl = data['source_url'] as String;
+
+                return Card(
+                  margin: const EdgeInsets.only(bottom: 16),
+                  child: InkWell(
+                    borderRadius: BorderRadius.circular(16),
+                    onTap: () async {
+                      if (sourceUrl.isNotEmpty) {
+                        final url = Uri.parse(sourceUrl);
+                        if (await canLaunchUrl(url)) {
+                          await launchUrl(url);
+                        } else {
+                          if (context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              const SnackBar(content: Text('Could not launch URL')),
+                            );
+                          }
+                        }
+                      }
+                    },
+                    child: Padding(
+                      padding: const EdgeInsets.all(16.0),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              Chip(
+                                label: Text(
+                                  category,
+                                  style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
+                                ),
+                                backgroundColor: Theme.of(context).primaryColor.withOpacity(0.1),
+                                labelStyle: TextStyle(color: Theme.of(context).primaryColor),
+                              ),
+                              Text(
+                                date,
+                                style: Theme.of(context).textTheme.bodyMedium,
+                              ),
+                            ],
                           ),
-                          backgroundColor: Theme.of(context).primaryColor.withOpacity(0.1),
-                          labelStyle: TextStyle(color: Theme.of(context).primaryColor),
+                          const SizedBox(height: 12),
+                          Text(
+                            title,
+                            style: Theme.of(context).textTheme.titleLarge?.copyWith(fontSize: 18),
+                          ),
+                          const SizedBox(height: 8),
+                          Text(
+                            summary,
+                            style: Theme.of(context).textTheme.bodyMedium,
+                            maxLines: 3,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                          if (sourceUrl.isNotEmpty) ...[
+                            const SizedBox(height: 12),
+                            Row(
+                              children: [
+                                Text(
+                                  'Read Full Article',
+                                  style: TextStyle(
+                                    color: Theme.of(context).colorScheme.secondary,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                                const SizedBox(width: 4),
+                                Icon(Icons.open_in_new, size: 16, color: Theme.of(context).colorScheme.secondary),
+                              ],
+                            )
+                          ],
+                        ],
+                      ),
+                    ),
+                  ),
+                );
+              },
+            );
+          }
+
+          final Map<dynamic, dynamic> affairsMap = snapshot.data!.snapshot.value as Map<dynamic, dynamic>;
+          
+          // Convert to list and sort by timestamp descending
+          final affairsList = affairsMap.entries.map((e) => {
+            'id': e.key,
+            ...Map<String, dynamic>.from(e.value as Map)
+          }).toList();
+          
+          affairsList.sort((a, b) {
+            final int timeA = a['timestamp'] ?? 0;
+            final int timeB = b['timestamp'] ?? 0;
+            return timeB.compareTo(timeA); // Descending
+          });
+
+          if (affairsList.isEmpty) {
+            return const Center(child: Text('No current affairs found.'));
+          }
+
+          return ListView.builder(
+            padding: const EdgeInsets.all(16),
+            itemCount: affairsList.length,
+            itemBuilder: (context, index) {
+              final data = affairsList[index];
+              
+              final title = data['title'] ?? 'No Title';
+              final category = data['category'] ?? 'Uncategorized';
+              final date = data['date'] ?? '';
+              final summary = data['summary'] ?? '';
+              final sourceUrl = data['source_url'] ?? '';
+
+              return Card(
+                margin: const EdgeInsets.only(bottom: 16),
+                child: InkWell(
+                  borderRadius: BorderRadius.circular(16),
+                  onTap: () async {
+                    if (sourceUrl.isNotEmpty) {
+                      final url = Uri.parse(sourceUrl);
+                      if (await canLaunchUrl(url)) {
+                        await launchUrl(url);
+                      } else {
+                        if (context.mounted) {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            const SnackBar(content: Text('Could not launch URL')),
+                          );
+                        }
+                      }
+                    }
+                  },
+                  child: Padding(
+                    padding: const EdgeInsets.all(16.0),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Chip(
+                              label: Text(
+                                category,
+                                style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
+                              ),
+                              backgroundColor: Theme.of(context).primaryColor.withOpacity(0.1),
+                              labelStyle: TextStyle(color: Theme.of(context).primaryColor),
+                            ),
+                            Text(
+                              date,
+                              style: Theme.of(context).textTheme.bodyMedium,
+                            ),
+                          ],
                         ),
+                        const SizedBox(height: 12),
                         Text(
-                          item['date']!,
+                          title,
+                          style: Theme.of(context).textTheme.titleLarge?.copyWith(fontSize: 18),
+                        ),
+                        const SizedBox(height: 8),
+                        Text(
+                          summary,
                           style: Theme.of(context).textTheme.bodyMedium,
+                          maxLines: 3,
+                          overflow: TextOverflow.ellipsis,
                         ),
+                        if (sourceUrl.isNotEmpty) ...[
+                          const SizedBox(height: 12),
+                          Row(
+                            children: [
+                              Text(
+                                'Read Full Article',
+                                style: TextStyle(
+                                  color: Theme.of(context).colorScheme.secondary,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              const SizedBox(width: 4),
+                              Icon(Icons.open_in_new, size: 16, color: Theme.of(context).colorScheme.secondary),
+                            ],
+                          )
+                        ],
                       ],
                     ),
-                    const SizedBox(height: 12),
-                    Text(
-                      item['title']!,
-                      style: Theme.of(context).textTheme.titleLarge?.copyWith(fontSize: 18),
-                    ),
-                    const SizedBox(height: 8),
-                    Text(
-                      item['summary']!,
-                      style: Theme.of(context).textTheme.bodyMedium,
-                      maxLines: 3,
-                      overflow: TextOverflow.ellipsis,
-                    ),
-                    const SizedBox(height: 12),
-                    Row(
-                      children: [
-                        Text(
-                          'Read more',
-                          style: TextStyle(
-                            color: Theme.of(context).colorScheme.secondary,
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                        const SizedBox(width: 4),
-                        Icon(Icons.arrow_forward, size: 16, color: Theme.of(context).colorScheme.secondary),
-                      ],
-                    )
-                  ],
+                  ),
                 ),
-              ),
-            ),
+              );
+            },
           );
         },
       ),
+    );
+      },
     );
   }
 }
