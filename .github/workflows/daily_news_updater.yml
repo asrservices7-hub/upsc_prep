@@ -9,20 +9,39 @@ on:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Need write permission to commit back to repo
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip'
 
-      - name: Install Dependencies
+      - name: Run News Updater Script (Static Generation)
+        run: python generate_static_data.py
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          cache: true
+
+      - name: Install Flutter Dependencies
+        run: flutter pub get
+
+      - name: Build Flutter Web
+        run: flutter build web --release
+
+      - name: Commit and Push Changes
         run: |
-          python -m pip install --upgrade pip
-          pip install requests feedparser firebase-admin
-
-      - name: Run News Updater Script
-        run: python scripts/daily_news_updater.py
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f lib/data/static_data.dart
+          git add -f build/web
+          git commit -m "Automated Daily News & Content Update" || exit 0
+          git push

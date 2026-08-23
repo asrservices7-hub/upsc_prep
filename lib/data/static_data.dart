@@ -2,163 +2,318 @@ class StaticData {
   static const Map<String, List<Map<String, String>>> notes = {
     'Indian Polity': [
       {
+        'title': 'Historical Background',
+        'summary': 'Regulating Act 1773, Pitt’s India Act 1784, Charter Acts (1813, 1833, 1853). Crown Rule: Govt of India Act 1858, Indian Councils Acts, Morley-Minto Reforms 1909, Montagu-Chelmsford 1919, GOI Act 1935.',
+        'pdfUrl': ''
+      },
+      {
         'title': 'Making of the Constitution',
-        'summary': 'Cabinet Mission Plan, Constituent Assembly formation, Drafting Committee led by Dr. B.R. Ambedkar.',
+        'summary': 'Demand for Constituent Assembly (M.N. Roy, 1934). Cabinet Mission Plan. Drafting Committee headed by Dr. B.R. Ambedkar. Adopted on Nov 26, 1949.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Salient Features & Preamble',
+        'summary': 'Lengthiest written constitution, drawn from various sources. Preamble is the identity card (N.A. Palkhivala). Sovereign, Socialist, Secular, Democratic, Republic. Berubari Union and Kesavananda Bharati cases.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Union and its Territory',
+        'summary': 'Articles 1 to 4 under Part I. Article 3 allows Parliament to form new states. Dhar Commission, JVP Committee, Fazl Ali Commission for reorganization of states.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Citizenship',
+        'summary': 'Part II (Articles 5-11). Citizenship Act 1955: Acquisition by Birth, Descent, Registration, Naturalization. Loss by Renunciation, Termination, Deprivation. CAA 2019.',
         'pdfUrl': ''
       },
       {
         'title': 'Fundamental Rights (Part III)',
-        'summary': 'Articles 12-35. Magna Carta of India. Justiciable in nature.',
+        'summary': 'Articles 12-35. Magna Carta of India. Right to Equality (14-18), Freedom (19-22), Against Exploitation (23-24), Religion (25-28), Cultural & Educational (29-30), Constitutional Remedies (32 - Writs).',
         'pdfUrl': ''
       },
       {
         'title': 'Directive Principles of State Policy',
-        'summary': 'Part IV. Non-justiciable. Inspired by the Irish Constitution.',
+        'summary': 'Part IV (Articles 36-51). Novel features. Socialistic, Gandhian, Liberal-Intellectual principles. Fundamental in governance. Minerva Mills case.',
         'pdfUrl': ''
       },
       {
-        'title': 'Parliament of India',
-        'summary': 'Rajya Sabha and Lok Sabha. Legislative procedures, budget passing, committees.',
+        'title': 'Fundamental Duties',
+        'summary': 'Part IVA, Article 51A. Added by 42nd Amendment (1976) via Swaran Singh Committee. 11th duty added by 86th Amendment (2002).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'President & Vice-President',
+        'summary': 'Union Executive (Articles 52-78). Election process, Electoral College. Veto powers, Pardoning powers (Art 72). Ordinance making power (Art 123). Impeachment process (Art 61).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Prime Minister & Council of Ministers',
+        'summary': 'Real executive authority. Article 74 (CoM to aid and advise). Article 75 (Collective responsibility to Lok Sabha). Cabinet vs CoM.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Parliament',
+        'summary': 'Rajya Sabha (Council of States) & Lok Sabha (House of the People). Sessions, Prorogation, Dissolution. Question Hour, Zero Hour. Bills: Ordinary, Money (Art 110), Finance, Constitutional Amendment (Art 368).',
         'pdfUrl': ''
       },
       {
         'title': 'Supreme Court of India',
-        'summary': 'Original, Appellate, and Advisory jurisdiction. Judicial Review.',
+        'summary': 'Part V (Articles 124-147). Independence of Judiciary. Collegium system (Judges Cases). Original, Appellate, Advisory, Writ jurisdictions. Judicial Review and Judicial Activism.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'State Government',
+        'summary': 'Governor, Chief Minister, State Legislature. Ordinances (Art 213). High Courts and Subordinate Courts.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Panchayati Raj & Municipalities',
+        'summary': 'Local Self Government. 73rd and 74th Amendments (1992). Balwant Rai Mehta, Ashok Mehta committees. 11th and 12th Schedules.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Constitutional Bodies',
+        'summary': 'Election Commission (Art 324), UPSC (Art 315), Finance Commission (Art 280), CAG (Art 148), Attorney General (Art 76).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Non-Constitutional Bodies',
+        'summary': 'NITI Aayog, NHRC, SHRC, CIC, SIC, CVC, CBI, Lokpal and Lokayuktas.',
         'pdfUrl': ''
       },
     ],
     'Modern History': [
       {
+        'title': 'Advent of Europeans',
+        'summary': 'Portuguese (Vasco da Gama), Dutch, English (EIC 1600), French. Anglo-French Carnatic Wars. Battle of Plassey (1757) and Buxar (1764).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'British Expansion',
+        'summary': 'Anglo-Mysore Wars, Anglo-Maratha Wars, Anglo-Sikh Wars. Subsidiary Alliance (Wellesley) and Doctrine of Lapse (Dalhousie).',
+        'pdfUrl': ''
+      },
+      {
         'title': 'Revolt of 1857',
-        'summary': 'First War of Independence. Causes: Doctrine of Lapse, Enfield Rifles, Economic exploitation.',
+        'summary': 'First War of Independence. Causes: Economic exploitation, socio-religious reforms, greased cartridges. Leaders: Nana Saheb, Rani Lakshmibai, Kunwar Singh. Result: Crown takes over.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Socio-Religious Reform Movements',
+        'summary': 'Brahmo Samaj (Raja Ram Mohan Roy), Arya Samaj (Dayanand Saraswati), Ramakrishna Mission (Vivekananda), Aligarh Movement (Syed Ahmed Khan).',
         'pdfUrl': ''
       },
       {
         'title': 'Formation of INC (1885)',
-        'summary': 'Founded by A.O. Hume. Early moderate phase led by Dadabhai Naoroji.',
+        'summary': 'Founded by A.O. Hume. Moderate phase (1885-1905) led by Dadabhai Naoroji, G.K. Gokhale. Demand for constitutional reforms and economic critique (Drain Theory).',
         'pdfUrl': ''
       },
       {
-        'title': 'Swadeshi Movement (1905)',
-        'summary': 'Response to Partition of Bengal by Lord Curzon. Boycott of foreign goods.',
+        'title': 'Extremist Phase & Swadeshi (1905-1917)',
+        'summary': 'Partition of Bengal (Curzon, 1905). Lal-Bal-Pal. Swadeshi and Boycott movement. Surat Split (1907). Morley-Minto Reforms (1909) and separate electorates.',
         'pdfUrl': ''
       },
       {
-        'title': 'Non-Cooperation Movement (1920)',
-        'summary': 'Led by Gandhi. Surrender of titles, boycott of schools/courts. Called off after Chauri Chaura.',
+        'title': 'Gandhian Era Begins',
+        'summary': 'Gandhi returns (1915). Champaran (1917), Kheda (1918), Ahmedabad Mill Strike. Rowlatt Act and Jallianwala Bagh Massacre (1919).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Non-Cooperation & Khilafat (1920-22)',
+        'summary': 'Boycott of schools, courts, foreign goods. Surrender of titles. Chauri Chaura incident (1922) led to withdrawal.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Civil Disobedience Movement',
+        'summary': 'Simon Commission (1927), Nehru Report (1928), Lahore Session (1929 - Purna Swaraj). Dandi March (1930) and Salt Satyagraha. Round Table Conferences. Gandhi-Irwin Pact (1931).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Revolutionary Nationalism',
+        'summary': 'Bhagat Singh, Chandrashekhar Azad (HSRA). Surya Sen (Chittagong Armoury Raid). Kakori Conspiracy.',
         'pdfUrl': ''
       },
       {
         'title': 'Quit India Movement (1942)',
-        'summary': 'Do or Die slogan. Spontaneous mass uprising across India.',
+        'summary': 'Failure of Cripps Mission. Gowalia Tank, Bombay. \'Do or Die\'. Parallel governments in Ballia, Tamluk, Satara.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Towards Freedom & Partition',
+        'summary': 'INA and Subhas Chandra Bose. Cabinet Mission Plan (1946). Direct Action Day. Mountbatten Plan (June 3 Plan). Indian Independence Act 1947.',
         'pdfUrl': ''
       },
     ],
     'Geography': [
       {
-        'title': 'Physical Features of India',
-        'summary': 'Himalayas, Northern Plains, Peninsular Plateau, Coastal Plains, Islands.',
+        'title': 'Geomorphology',
+        'summary': 'Interior of Earth, Continental Drift Theory (Wegener), Plate Tectonics. Earthquakes and Volcanoes. Landforms formed by river, wind, and glaciers.',
         'pdfUrl': ''
       },
       {
-        'title': 'Indian Monsoon System',
-        'summary': 'Mechanism of South-West Monsoon, El Nino, La Nina impacts.',
+        'title': 'Climatology',
+        'summary': 'Structure and composition of Atmosphere. Insolation and Heat Budget. Pressure belts and Wind systems (Planetary, Local). Cyclones (Tropical and Extra-Tropical).',
         'pdfUrl': ''
       },
       {
-        'title': 'Drainage Systems',
-        'summary': 'Himalayan Rivers (Ganga, Indus, Brahmaputra) vs Peninsular Rivers (Godavari, Krishna, Cauvery).',
+        'title': 'Oceanography',
+        'summary': 'Bottom relief of oceans. Temperature and salinity distribution. Ocean currents (Atlantic, Pacific, Indian). Tides and Coral Reefs.',
         'pdfUrl': ''
       },
       {
-        'title': 'Soils of India',
-        'summary': 'Alluvial, Black, Red, Laterite. Distribution and characteristics.',
+        'title': 'Physical Geography of India',
+        'summary': 'Geological structure. Physiographic divisions: Himalayas, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, Islands.',
         'pdfUrl': ''
       },
       {
-        'title': 'Earthquakes and Volcanism',
-        'summary': 'Plate tectonics, Pacific Ring of Fire, measuring scales (Richter vs Mercalli).',
+        'title': 'Drainage System of India',
+        'summary': 'Himalayan Rivers (Indus, Ganga, Brahmaputra). Peninsular Rivers (East flowing: Mahanadi, Godavari, Krishna, Cauveri; West flowing: Narmada, Tapi).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Climate of India',
+        'summary': 'Monsoon mechanism: Thermal concept, Jet Stream theory, El Nino & La Nina. Seasons in India. Distribution of rainfall.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Soils and Natural Vegetation',
+        'summary': 'ICAR soil classification: Alluvial, Black (Regur), Red, Laterite. Types of forests: Tropical Evergreen, Deciduous, Thorny, Montane, Mangrove.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Economic Geography',
+        'summary': 'Agriculture (Kharif, Rabi, Zaid, Green Revolution). Mineral resources (Iron, Coal, Petroleum). Industries (Iron & Steel, Cotton). Transport.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Human Geography',
+        'summary': 'Population distribution, density, and growth. Demographic Transition Theory. Migration. Urbanization patterns.',
         'pdfUrl': ''
       },
     ],
     'Economy': [
       {
-        'title': 'National Income Accounting',
-        'summary': 'GDP, GNP, NDP, NNP. Methods of calculation: Product, Income, Expenditure.',
+        'title': 'National Income',
+        'summary': 'Concepts of GDP, GNP, NDP, NNP at Factor Cost and Market Price. Real vs Nominal GDP. Methods of estimation (Value added, Income, Expenditure).',
         'pdfUrl': ''
       },
       {
-        'title': 'Reserve Bank of India (RBI)',
-        'summary': 'Functions of RBI, Monetary Policy Tools (Repo Rate, CRR, SLR).',
+        'title': 'Inflation and Business Cycles',
+        'summary': 'Types: Creeping, Galloping, Hyperinflation. Causes: Demand-pull, Cost-push. Measurement: WPI vs CPI. Impact of inflation. Phillips Curve.',
         'pdfUrl': ''
       },
       {
-        'title': 'Inflation',
-        'summary': 'Demand-pull, Cost-push. Measured by CPI and WPI.',
+        'title': 'Money and Banking',
+        'summary': 'Functions of Money. RBI: Functions and Monetary Policy Instruments (Repo, Reverse Repo, CRR, SLR, OMO). Commercial Banks, NPA crisis, Basel Norms, NBFCs.',
         'pdfUrl': ''
       },
       {
-        'title': 'Taxation System in India',
-        'summary': 'Direct vs Indirect Taxes. GST (Goods and Services Tax) structure.',
+        'title': 'Financial Markets',
+        'summary': 'Money Market (Treasury bills, Call money) vs Capital Market (Shares, Bonds, Debentures). SEBI functions.',
         'pdfUrl': ''
       },
       {
-        'title': 'Five Year Plans',
-        'summary': 'From Harrod-Domar model (1st plan) to Mahalanobis model (2nd plan). Replaced by NITI Aayog.',
+        'title': 'Public Finance & Budgeting',
+        'summary': 'Fiscal Policy. Components of Budget: Revenue and Capital account. Deficits: Fiscal, Revenue, Primary. FRBM Act. Taxation (Direct, Indirect, GST), Finance Commission.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Balance of Payments (BoP)',
+        'summary': 'Current Account vs Capital Account. Convertibility of Rupee. Foreign Exchange Reserves. Exchange Rate systems (Fixed, Floating, Managed float).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'International Economic Organizations',
+        'summary': 'IMF (SDRs, Quota), World Bank (IBRD, IDA), WTO (Doha Round, Subsidies - Amber/Blue/Green box).',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Agriculture & Food Security',
+        'summary': 'Cropping patterns, MSP (Minimum Support Price), PDS (Public Distribution System), FCI, Subsidies. Food processing industries.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Infrastructure & Investment Models',
+        'summary': 'Energy, Transport, Communication. PPP (Public-Private Partnership) models: BOT, HAM, EPC.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Poverty and Unemployment',
+        'summary': 'Committees (Tendulkar, Rangarajan). Types of unemployment (Structural, Disguised, Frictional). Skill India, MGNREGA.',
         'pdfUrl': ''
       },
     ],
     'Environment': [
       {
-        'title': 'Biodiversity Hotspots',
-        'summary': 'Western Ghats, Himalayas, Indo-Burma, Sundaland. Endemism.',
+        'title': 'Ecology and Ecosystem',
+        'summary': 'Components (Biotic, Abiotic). Ecotone, Niche, Edge Effect. Food chain, Food web, Ecological Pyramids. Biogeochemical cycles (Carbon, Nitrogen, Phosphorus).',
         'pdfUrl': ''
       },
       {
-        'title': 'Climate Change Conferences',
-        'summary': 'UNFCCC, Kyoto Protocol, Paris Agreement (COP21), Net Zero targets.',
+        'title': 'Biodiversity',
+        'summary': 'Levels (Genetic, Species, Ecosystem). Measurement (Alpha, Beta, Gamma). Biodiversity Hotspots. Causes of loss (Habitat destruction, Invasive species).',
         'pdfUrl': ''
       },
       {
-        'title': 'National Parks and Wildlife Sanctuaries',
-        'summary': 'Project Tiger (1973), Project Elephant. Biosphere Reserves.',
+        'title': 'Conservation Efforts',
+        'summary': 'In-situ (National Parks, Wildlife Sanctuaries, Biosphere Reserves). Ex-situ (Zoos, Seed banks). Project Tiger, Elephant, Rhino.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Climate Change',
+        'summary': 'Greenhouse Effect, Global Warming, Ocean Acidification, Ozone Depletion (Montreal Protocol). Impact on agriculture, sea levels.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'International Conventions',
+        'summary': 'UNFCCC (COP summits, Kyoto, Paris). CBD (Convention on Biological Diversity, Cartagena, Nagoya). UNCCD (Desertification). CITES, CMS, Ramsar Convention.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Environmental Legislation in India',
+        'summary': 'Wildlife Protection Act 1972, Water Act 1974, Air Act 1981, Environment Protection Act 1986, Forest Rights Act 2006. NGT (National Green Tribunal).',
         'pdfUrl': ''
       },
       {
         'title': 'Pollution',
-        'summary': 'Air Quality Index (AQI), Smog, Eutrophication, Biomagnification.',
-        'pdfUrl': ''
-      },
-      {
-        'title': 'Renewable Energy in India',
-        'summary': 'Solar (ISA), Wind, Hydro. Targets of 500 GW non-fossil capacity by 2030.',
+        'summary': 'Air (PM2.5, PM10, Smog, Acid Rain). Water (BOD, Eutrophication, Biomagnification). Soil, Noise, Radioactive, E-waste. Solid Waste Management Rules.',
         'pdfUrl': ''
       },
     ],
     'Science & Tech': [
       {
-        'title': 'Space Missions of ISRO',
-        'summary': 'Chandrayaan-3, Aditya-L1, Gaganyaan. Launch vehicles: PSLV, GSLV, LVM3.',
+        'title': 'Space Technology',
+        'summary': 'Orbits (LEO, MEO, GEO, SSO). Launch Vehicles (SLV, ASLV, PSLV, GSLV, LVM3). ISRO Missions: Chandrayaan, Mangalyaan, Aditya-L1, Gaganyaan. Space debris.',
         'pdfUrl': ''
       },
       {
         'title': 'Biotechnology',
-        'summary': 'CRISPR-Cas9 gene editing, Genetically Modified (GM) crops, Stem cells.',
+        'summary': 'DNA, RNA, Gene Editing (CRISPR-Cas9). Recombinant DNA technology. GM Crops (Bt Cotton, Bt Brinjal, GM Mustard). Stem cells. Cloning.',
         'pdfUrl': ''
       },
       {
-        'title': 'Artificial Intelligence (AI)',
-        'summary': 'Machine Learning, Deep Learning, Generative AI (LLMs). Applications and Ethics.',
-        'pdfUrl': ''
-      },
-      {
-        'title': 'Defense Technology',
-        'summary': 'Missile systems (Agni, BrahMos), Submarines (Project 75), Tejas LCA.',
+        'title': 'Information Technology & Computers',
+        'summary': 'Generations of computers. Supercomputers (Param). Internet of Things (IoT), Big Data, Cloud Computing, Artificial Intelligence (AI), Machine Learning, Blockchain technology, Web 3.0.',
         'pdfUrl': ''
       },
       {
         'title': 'Nanotechnology',
-        'summary': 'Carbon nanotubes, Graphene, targeted drug delivery.',
+        'summary': 'Nanomaterials (Carbon nanotubes, Graphene). Applications in medicine (targeted drug delivery), agriculture, electronics, and water purification.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Nuclear Technology',
+        'summary': 'Nuclear Fission vs Fusion. India’s Three-Stage Nuclear Power Programme (Homi Bhabha). Fast Breeder Reactors. ITER project.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Defense Technology',
+        'summary': 'IGMDP (Prithvi, Agni, Trishul, Nag, Akash). BrahMos cruise missile. Ballistic vs Cruise missiles. Submarines (Project 75 - Scorpene class), Aircraft Carriers.',
+        'pdfUrl': ''
+      },
+      {
+        'title': 'Health and Diseases',
+        'summary': 'Communicable vs Non-communicable diseases. Viruses, Bacteria, Protozoa. Vaccines (mRNA, Vector). Antimicrobial Resistance (AMR).',
         'pdfUrl': ''
       },
     ],
@@ -246,7 +401,7 @@ class StaticData {
       'title': 'Assam in final stage of partner selection to build satellite, says CM',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'Chief Minister Himanta Biswa Sarma says \'AssamSAT\' marks a landmark shift — from Assam being a user of satellite data to an active participant in the space-tech ecosystem, enabling faster and evidence...',
+      'summary': 'Chief Minister Himanta Biswa Sarma says \'AssamSAT\' marks a landmark shift — from Assam being a user of satellite data to an active participant in the space-tech ecosystem, enabling faster and evidence-based governance',
       'source_url': 'https://www.thehindu.com/news/national/assam/assam-in-final-stage-of-partner-selection-to-build-satellite-says-cm/article71382102.ece'
     },
     {
@@ -274,7 +429,7 @@ class StaticData {
       'title': 'DMK’s regional satraps among 22 who will lose district secretary posts',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'Thirty-three additional district units will be created and 55 new faces are likely to assume office as the DMK is set for a revamp following its defeat in the recent Assembly election, say party sourc...',
+      'summary': 'Thirty-three additional district units will be created and 55 new faces are likely to assume office as the DMK is set for a revamp following its defeat in the recent Assembly election, say party sources',
       'source_url': 'https://www.thehindu.com/news/national/dmks-regional-satraps-among-22-who-will-lose-district-secretary-posts/article71381677.ece'
     },
     {
@@ -330,7 +485,7 @@ class StaticData {
       'title': 'No new H1N1 strain in India, existing vaccines sufficient, says ICMR',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'Influenza strains currently circulating are well matched with the vaccine strains, and the seasonal flu is self-limiting, ICMR said, adding that people with underlying medical conditions are at risk o...',
+      'summary': 'Influenza strains currently circulating are well matched with the vaccine strains, and the seasonal flu is self-limiting, ICMR said, adding that people with underlying medical conditions are at risk of complication',
       'source_url': 'https://www.thehindu.com/sci-tech/health/no-new-strain-of-h1n1-say-icmr-sources-as-swine-flu-cases-rise/article71381463.ece'
     },
     {
@@ -376,144 +531,354 @@ class StaticData {
       'source_url': 'https://www.thehindu.com/news/national/bjp-chief-holds-strategy-meet-for-next-round-of-assembly-polls/article71381525.ece'
     },
     {
-      'title': 'Rajamahendravaram’s ode to history in art and sculpture',
+      'title': 'A businessman bought a 23,000-acre Scottish sporting estate and spent two decades rewilding it',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'An artist and sculptor, Hari Thadoju, opened StroCurve, an academy for arts and cultural excellence in Rajamahendravaram city, a century after Damerla opened a similar academy in 1923.',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/rajamahendravarams-ode-to-history-in-art-and-sculpture/article71380970.ece'
+      'summary': 'An ambitious English businessman has reimagined a historic Scottish hunting estate as a lush wilderness reserve. His initiative, which includes the planting of over one million native trees, has revived populations of red squirrels in the glens. The project also emphasizes the restoration of peatlands and the breeding of Scottish wildcats, with fun...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/uk/a-businessman-bought-a-23000-acre-scottish-sporting-estate-and-spent-two-decades-rewilding-it-one-million-native-trees-later-red-squirrels-have-been-reintroduced/articleshow/133446238.cms'
     },
     {
-      'title': '3,500 aspirants appear for eligibility test for free police recruitment coaching in Adilabad',
+      'title': 'In 2019, Florida began sinking mermaid-shaped reef sculptures; the project now has more than...',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'A remarkable endeavor has come to fruition with over 300 artistically crafted reef modules now anchored in the depths off South Florida. This seven-year journey melds art with conservation, creating artificial habitats from sustainable concrete that nurture marine species. Supported by local governments, this innovative project aims to enhance tour...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-2019-florida-began-sinking-mermaid-shaped-reef-sculptures-the-project-now-has-more-than-300-habitat-and-art-modules-in-south-florida/articleshow/133445988.cms'
+    },
+    {
+      'title': 'A British couple bought a derelict 85-foot, seven-storey Victorian water tower at auction',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'In Kennington, a neglected Victorian water tower dating back to 1877 has been transformed into a stunning family residence. This Grade II-listed landmark, originally built for an asylum, underwent a lavish restoration by a British couple. They incorporated a contemporary glass cube and an additional utility tower, resulting in a remarkable home boa...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/uk/a-british-couple-bought-a-derelict-85-foot-seven-storey-victorian-water-tower-at-auction-after-years-of-painstaking-work-the-former-asylum-water-supply-became-their-family-home/articleshow/133445009.cms'
+    },
+    {
+      'title': 'Wash rice twice, not 7 times: Drought-hit England targets faith, cultural habits',
       'category': 'National News',
       'date': 'Aug 24, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/3500-aspirants-appear-for-eligibility-test-for-free-police-recruitment-coaching-in-adilabad/article71381708.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/uk/wash-rice-twice-not-7-times-drought-hit-england-targets-faith-cultural-habits/articleshow/133445641.cms'
     },
     {
-      'title': 'Piyush Goyal heads for Japan with business delegation to boost trade, investments',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'The visit is expected to give fresh momentum to bilateral trade and investment ties, and open new avenues of cooperation in high-technology manufacturing and next-generation industries',
-      'source_url': 'https://www.thehindu.com/news/national/piyush-goyal-heads-for-japan-with-business-delegation-to-boost-trade-investments/article71381513.ece'
-    },
-    {
-      'title': 'Five held for kidnapping, assaulting dry fruit traders in Begum Bazar',
+      'title': 'Iran hackers shut UK power facility for 4 days',
       'category': 'National News',
       'date': 'Aug 24, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/five-held-for-kidnapping-assaulting-dry-fruit-traders-in-begum-bazar/article71381705.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/uk/iran-hackers-shut-uk-power-facility-for-4-days/articleshow/133445525.cms'
     },
     {
-      'title': 'District-level Onam celebrations in Kannur from August 24',
+      'title': 'Meghan Markle\'s father Thomas \'hurt\' as she and Harry return to UK without meeting Archie, Lilibet',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'The celebrations will be formally inaugurated by Electricity Minister Sunny Joseph on August 24, 2026',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/district-level-onam-celebrations-in-kannur-from-august-24/article71380968.ece'
+      'summary': 'Meghan Markle’s estranged father Thomas Markle says he is “hurt and upset” after learning that Meghan and Prince Harry are reportedly returning to the UK with their children, Archie and Lilibet. The 82-year-old, who has never met his grandchildren, says he fears their move will end his hopes of ever meeting them.',
+      'source_url': 'https://timesofindia.indiatimes.com/world/uk/meghan-markles-estranged-father-thomas-markle-hurt-and-upset-as-she-and-harry-return-to-uk-without-meeting-archie-and-lilibet-she-doesnt-give-a-damn-about-me/articleshow/133445212.cms'
     },
     {
-      'title': 'Indian expat killed, 9 others injured after vehicle crashes in Oman',
+      'title': 'In 2020, Phoenix coated 36 miles of roads to fight extreme heat; surfaces became 12°F cooler at noon',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/international/indian-expat-killed-9-others-injured-after-vehicle-crashes-in-oman/article71381743.ece'
+      'summary': 'Phoenix has implemented a reflective coating on its roads to mitigate urban heat island effects, effectively reducing asphalt temperatures during daylight hours. However, researchers observed that this treatment inadvertently intensified heat radiation exposure for pedestrians in close proximity. They concluded that incorporating shade from trees a...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-2020-phoenix-coated-36-miles-of-roads-to-fight-extreme-heat-surfaces-became-12f-cooler-at-noon-but-heat-exposure-for-pedestrians-rose-5-5f/articleshow/133443095.cms'
     },
     {
-      'title': '‘Operation Scan’ to target unauthorised online service centres in Wayanad',
+      'title': 'Alaska eradicated rats from a 6,869-acre Aleutian island more than two centuries after they...',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'The campaign will be undertaken in association with the Local Self-Government department and the State IT Mission',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/operation-scan-to-target-unauthorised-online-service-centres-in-wayanad/article71381447.ece'
+      'summary': 'After two hundred years of invasive rat habitation, Hawadax Island witnessed a remarkable transformation. Within just two years of their removal, native bird populations surged by over 200 percent. Seabirds previously thought extinct began to return, nesting on the island\'s enchanting cliffs. The restoration of the island\'s original name, Hawadax, ...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/alaska-eradicated-rats-from-a-6869-acre-aleutian-island-more-than-two-centuries-after-they-arrived-in-a-shipwreck-within-two-years-some-native-bird-populations-had-increased-200-or-more-and-missing-seabirds-began-returning/articleshow/133442819.cms'
     },
     {
-      'title': 'Vigilance seeks sanction to register cases over alleged school record manipulation in Kannur',
+      'title': 'World\'s highest-ranking penguin Sir Nils set to become a dad after partner lays egg at Edinburgh Zoo',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'Student strength allegedly inflated to retain sanctioned teaching posts; irregularities detected in at least 11 schools; loss to exchequer runs into several crores',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/vigilance-seeks-sanction-to-register-cases-over-alleged-school-record-manipulation-in-kannur/article71380894.ece'
+      'summary': 'The world’s highest-ranking penguin, Major General Sir Nils Olav III, is set to become a father after his partner Connie laid an egg at Edinburgh Zoo. The surprise arrival marks the zoo’s first king penguin egg in 17 years. Keepers are closely monitoring the inexperienced parents as they take turns protecting and warming the egg.',
+      'source_url': 'https://timesofindia.indiatimes.com/world/uk/meet-the-worlds-highest-ranking-penguin-sir-nils-olav-iii-set-to-become-a-father-after-partner-lays-egg-edinburgh-zoo-welcomes-first-king-penguin-egg-in-17-years/articleshow/133442676.cms'
     },
     {
-      'title': 'Revanth thanks Kharge for standing by him on Centre’s denial of his U.S. visit',
+      'title': 'In 2021, Alabama students began placing discarded Christmas trees along dunes to trap sand',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/revanth-thanks-kharge-for-standing-by-him-on-centres-denial-of-his-us-visit/article71381676.ece'
+      'summary': 'Alabama\'s fragile sand dunes are being restored with discarded holiday trees, as students and volunteers team up to plant native vegetation along the coast. This innovative project marries sand trapping techniques with the introduction of native plants to stabilize the dunes. This effort not only protects essential infrastructure but also fosters c...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-2021-alabama-students-began-placing-discarded-christmas-trees-along-gulf-coast-dunes-to-trap-sand-each-year-about-200-students-now-add-roughly-3000-native-plants-around-them/articleshow/133441622.cms'
     },
     {
-      'title': 'Moozhiyar police in Keralam turn Onam invite into a helping hand for tribal families',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'During a visit to a tribal settlement to invite its residents to the Onam feast at the police station, police team discovers that four families were struggling even to find their next meal and arrange...',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/moozhiyar-police-in-keralam-turn-onam-invite-into-a-helping-hand-for-tribal-families/article71380992.ece'
-    },
-    {
-      'title': 'Cochin University Employees Association opposes move to restrict Onam celebrations to a single day',
+      'title': 'Vancouver turns sewage heat into renewable energy for buildings',
       'category': 'National News',
       'date': 'Aug 24, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/cochin-university-employees-association-opposes-move-to-restrict-onam-celebrations-to-a-single-day/article71381435.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/vancouver-captures-heat-that-normally-disappears-down-showers-sinks-and-toilets-and-sends-it-back-into-buildings-sewage-now-supplies-most-of-one-districts-renewable-heat/articleshow/133439185.cms'
     },
     {
-      'title': 'CJP to review status of Centre\'s assurances; keeps option to launch fresh stir open',
+      'title': 'Ohio mother says son\'s body parts were removed as \'anatomical gifts\' without her consent after death',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'The outfit asks students, young citizens, its supporters and volunteers to remain prepared for the outcome of the August 23 meeting',
-      'source_url': 'https://www.thehindu.com/news/national/cjp-to-review-status-of-centres-assurances-keeps-option-to-launch-fresh-stir-open/article71381480.ece'
+      'summary': 'Andrea Mauk says her 18-year-old son Damon’s eyes, skin, heart valves, ligaments and other tissues were recovered as “anatomical gifts” after his fatal Ohio crash, without her knowledge. She was in Costa Rica when he died and says the hospital never contacted her. Her grief has since become a campaign for stronger family consent and notification la...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/ohio-mother-was-in-costa-rica-when-18-year-old-son-died-in-car-crash-hospital-never-contacted-her-she-later-learned-his-body-parts-were-removed-as-anatomical-gifts-without-consent/articleshow/133441811.cms'
     },
     {
-      'title': 'Diarrhoea situation in A.P.’s Vuyyuru under control, says State government',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'State-level medical team visits affected areas to conduct a field-level assessment, a preliminary report has been submitted to Health Minister Satya Kumar Yadav',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/diarrhoea-situation-in-aps-vuyyuru-under-control-says-state-government/article71381663.ece'
-    },
-    {
-      'title': 'CBI books ex-DGCA flying training director, aviation firms for ‘corruption’, ‘favouritism’',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'The FIR has alleged that probe brought to light a “systematic network of corporate entities” controlled and managed by the immediate and extended family members of Captain Anil Gill',
-      'source_url': 'https://www.thehindu.com/news/national/cbi-books-ex-dgca-flying-training-director-aviation-firms-for-corruption-favouritism/article71381537.ece'
-    },
-    {
-      'title': 'India has big opportunity to become global shipbuilding hub, says Rajnath Singh',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'Defence Minister virtually presides over the Bhumi Pujan ceremony for three expansion projects of Garden Reach Shipbuilders & Engineers and two projects of Yantra India Limited',
-      'source_url': 'https://www.thehindu.com/news/national/west-bengal/bengal-kolkata-five-expansion-projects-rajnath-singh/article71380496.ece'
-    },
-    {
-      'title': 'Original reporting key to regaining public trust in media: N. Ram',
+      'title': 'Iran discovers over 7.5 trillion cubic feet of gas reserves as US blockade squeezes energy sector',
       'category': 'National News',
       'date': 'Aug 24, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/original-reporting-key-to-regaining-public-trust-in-media-n-ram/article71381481.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/iran-discovers-over-7-5-trillion-cubic-feet-of-gas-reserves-as-us-blockade-squeezes-energy-sector/articleshow/133441497.cms'
     },
     {
-      'title': 'HDK claims lack of Assembly support prevented him from scrapping NICE project in 2006-07',
+      'title': 'Detroit couple has turned abandoned 1925 bank into \$1.3 million home',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'A Detroit couple turned a vacant 1925 bank into a two-bedroom home after buying the abandoned building for \$66,000 in 2013. They moved in while construction was still underway and restored much of it themselves, preserving features such as the old vaults, marble windowsills and copper entrance. The unusual home is now listed for \$1.3 million.',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/a-detroit-couple-bought-a-vacant-1925-bank-and-neighboring-bar-for-66000-13-years-later-one-old-bank-vault-is-a-den-and-another-is-a-wine-cellar/articleshow/133439456.cms'
+    },
+    {
+      'title': 'In 1967, Henry Pigott sold his North Carolina island home to help create national seashore',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Portsmouth Village, an 18th-century settlement, saw its final male resident Henry Pigott live out his life. Pigott sold his ancestral home to the government for Cape Lookout National Seashore. He retained a life estate, allowing him to remain until his death in 1971. After Pigott\'s passing, the remaining residents departed, leaving the village comp...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-1967-henry-pigott-sold-his-north-carolina-island-home-to-help-create-cape-lookout-national-seashore-a-life-estate-let-him-stay-until-his-death-as-portsmouth-villages-last-male-resident/articleshow/133440025.cms'
+    },
+    {
+      'title': '\'Could destroy Ukraine\': Zelenskyy\'s big warning as calls grow for fresh elections',
       'category': 'National News',
       'date': 'Aug 24, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/karnataka/hdk-claims-lack-of-assembly-support-prevented-him-from-scrapping-nice-project-in-2006-07/article71381692.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/europe/could-destroy-ukraine-zelenskyys-big-warning-as-calls-grow-for-fresh-elections-amid-ongoing-war/articleshow/133440362.cms'
     },
     {
-      'title': ' Karnataka: Employment push to reduce migration ',
+      'title': '17-year-old builds AI to decode protein structures, wins \$90,000',
       'category': 'National News',
       'date': 'Aug 24, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/karnataka/employment-scheme-helps-reduce-migration-in-kalyana-karnataka/article71381612.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/science/meet-jerry-xu-the-17-year-old-massachusetts-student-who-built-an-ai-program-that-turns-protein-structures-into-strings-of-numbers-he-won-90000/articleshow/133438450.cms'
     },
     {
-      'title': 'Press clubs unite to strengthen journalists’ rights',
+      'title': 'Exhausted owl stranded 70 miles offshore tries to board British Army boat, sailors bring it ashore',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/cities/Hyderabad/press-clubs-unite-to-strengthen-journalists-rights/article71381666.ece'
+      'summary': 'A British Army sailing crew found an exhausted barn owl 70 nautical miles from shore during the RORC Round Britain and Ireland Race. The bird fell into the sea three times before managing to reach their boat and collapsing on the deck. The sailors cared for the owl, named Little Regina, until a lifeboat took it back to land for treatment at a wildl...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/europe/a-tiny-owl-flew-70-miles-out-to-sea-and-collapsed-on-a-yacht-exhausted-and-too-weak-to-fly-she-found-an-unlikely-group-of-rescuers-who-refused-to-leave-her-behind/articleshow/133437943.cms'
     },
     {
-      'title': 'Pinarayi accuses UDF govt. in Keralam of surrendering to BJP, RSS on Waqf issue',
+      'title': 'Her ‘picture-perfect’ home has now become a burden',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'Leader of the Opposition questions why the government should allow non-Muslims to be appointed to a Muslim religious institution',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/pinarayi-accuses-udf-govt-in-keralam-of-surrendering-to-bjp-rss-on-waqf-issue/article71381658.ece'
+      'summary': 'Residents in the Faroe Islands face challenges as tourists treat their homes like exhibits.  Visitors often disregard private boundaries, peeking into windows and leaning on fences.  This constant intrusion disrupts daily life and erodes personal privacy for homeowners.  The article highlights the need for responsible tourism and respecting local r...',
+      'source_url': 'https://timesofindia.indiatimes.com/life-style/travel/news/this-is-my-tiny-house-though-it-looks-straight-out-of-a-postcard-i-live-here-woman-reveals-the-issues-she-is-facing-living-in-a-picture-perfect-house/articleshow/133437958.cms'
+    },
+    {
+      'title': 'New Zealand removed 200,000 mice from an island; native bird populations more than doubled',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'New Zealand\'s 2016 effort to remove an estimated 200,000 mice from Antipodes Island has been followed by a clear recovery in native bird populations. Monitoring confirmed the mice were gone in 2018, while surveys over the next six years found Antipodes Island pipit and snipe numbers had more than doubled.',
+      'source_url': 'https://timesofindia.indiatimes.com/science/in-2016-new-zealand-targeted-an-estimated-200000-mice-on-antipodes-island-two-years-later-they-were-declared-gone-and-subsequent-surveys-found-two-native-bird-populations-had-more-than-doubled/articleshow/133437186.cms'
+    },
+    {
+      'title': 'Two MLAs among six injured in car crash near PWD office in Delhi',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The Innova was carrying Anil Jha, the sitting MLA from Kirari, and Abhay Patil, an MLA from Karnataka.',
+      'source_url': 'https://www.hindustantimes.com/india-news/two-mlas-among-six-injured-in-car-crash-near-pwd-office-in-delhi-101787509910958.html'
+    },
+    {
+      'title': 'Operation Sindoor, Wagah-Attari shut: How 150 Pakistani-Sindhi brides reached India amid strained ties',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The tensions between India and Pakistan following Operation Sindoor had reportedly put the weddings of at least 150 Pakistani women on hold.&nbsp;',
+      'source_url': 'https://www.hindustantimes.com/india-news/operation-sindoor-wagah-shut-how-150-pakistani-sindhi-brides-reached-india-amid-strained-ties-travel-via-dubai-oman-101787499431108.html'
+    },
+    {
+      'title': 'Several detained after 300 people gathered at Delhi\'s Connaught Place to protest reservation',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Over 20 people, who had gathered for the stir at Connaught Place, were detained and removed because no permission had been granted for the agitation.',
+      'source_url': 'https://www.hindustantimes.com/india-news/several-detained-after-300-people-gathered-at-delhis-connaught-place-to-protest-reservation-hatao-andolan-101787500587671.html'
+    },
+    {
+      'title': 'Stray dog attacks, bites 5-year-old girl in Rajasthan’s Kota; incident caught on cam',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The girl was in a lane outside her house when the dog charged at her, knocking her down and biting her multiple times as she screamed and cried.',
+      'source_url': 'https://www.hindustantimes.com/india-news/stray-dog-attacks-bites-5-year-old-girl-in-rajasthans-kota-incident-caught-on-cam-101787499288181.html'
+    },
+    {
+      'title': 'Denied US tour permission, Telangana CM Revanth Reddy to return to Hyderabad',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'CM Reddy was scheduled to travel from London to Boston. However, following the denial of permission by the MEA, he said he would board a flight to Hyderabad.',
+      'source_url': 'https://www.hindustantimes.com/india-news/denied-us-tour-permission-telangana-cm-revanth-reddy-to-return-to-hyderabad-101787500785170.html'
+    },
+    {
+      'title': 'CPI(M) accuses ED of ‘politically targeting’ Pinarayi Vijayan in money laundering case',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'CPI(M) state secretary M V Govindan alleged that the ED was conducting the investigation with an ulterior political motive.&nbsp;',
+      'source_url': 'https://www.hindustantimes.com/india-news/cpim-accuses-ed-of-politically-targeting-pinarayi-vijayan-in-cmrl-case-101787500365159.html'
+    },
+    {
+      'title': 'Maharashtra teen who died over iPhone attempted suicide from same cliff in 2025 too',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Three members of a family died at Khavda Hill in the Tisgaon area after an alleged domestic dispute over an iPhone.',
+      'source_url': 'https://www.hindustantimes.com/india-news/maharashtra-teen-who-died-over-iphone-attempted-suicide-from-same-cliff-in-2025-too-chhatrapati-sambhajinagar-101787496548490.html'
+    },
+    {
+      'title': 'Ajit Doval to visit China for boundary talks ahead of Xi’s India trip',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month',
+      'source_url': 'https://www.hindustantimes.com/india-news/ajit-doval-to-visit-china-for-boundary-talks-ahead-of-xi-s-india-trip-101787498665623.html'
+    },
+    {
+      'title': 'CJP\'s Saurav Das rejects Mohandas Pai\'s suggestion on inspecting schools: ‘Boring, unconnected from reality\'',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The war of words between Mohandas Pai and CJP\'s Saurav Das began after CJP alleged that the volunteers were attacked in Jaipur on their way to inspect a school.',
+      'source_url': 'https://www.hindustantimes.com/india-news/cjp-saurav-das-rejects-suggestion-inspecting-schools-respectfully-slow-boring-unconnected-from-reality-mohandas-pai-101787495989261.html'
+    },
+    {
+      'title': 'Indira Gandhi\'s ‘antakshari’ games to Modi\'s ‘sabudana khichdi’ recipe: Behind PMs\' dining tables',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The book documents seven decades of Indian food and culture. It captures how the food culture around the Prime Ministers shifted.&nbsp;',
+      'source_url': 'https://www.hindustantimes.com/india-news/indira-gandhis-antakshari-games-to-narendra-modis-sabudana-khichdi-recipe-behind-pms-dining-tables-101787490658966.html'
+    },
+    {
+      'title': '‘India will establish its own space station by 2035’: Isro chief V Narayanan',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Narayanan highlighted India\'s growing capabilities in space technology and said the country is now using space-based applications across more than 50 areas.',
+      'source_url': 'https://www.hindustantimes.com/india-news/india-will-establish-its-own-space-station-by-2035-isro-chief-v-narayanan-101787495251095.html'
+    },
+    {
+      'title': 'India\'s first 100% indigenised AK-203 ‘Sher’ rifle made, test-fired at factory in UP\'s Amethi',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': '“We have successfully produced and fired the first AK-203 (Sher) rifle made with 100% Indian components and input materials,” IRRPL CEO Major Gen Sharma said.',
+      'source_url': 'https://www.hindustantimes.com/india-news/india-first-100-percent-indigenised-ak-203-sher-rifle-made-test-fired-at-factory-in-up-amethi-army-trials-in-september-101787490014810.html'
+    },
+    {
+      'title': 'Deepender Hooda makes U-turn after backlash over Sajjan Kumar \'role model\' remark',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Asked by reporters in Gurugram on Sunday whether he had called Sajjan Kumar a role model, Deepender Hooda said, “I did not use the words.”',
+      'source_url': 'https://www.hindustantimes.com/india-news/deepender-hooda-makes-u-turn-after-backlash-over-sajjan-kumar-role-model-remark-101787492539168.html'
+    },
+    {
+      'title': 'Assam, Meghalaya cab operators agree to truce, resume movement till September 10',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Meghalaya deputy chief minister in-charge of transport Sniawbhalang Dhar said tourist taxi associations agreed to lift their proposed blockade following an emergency meeting',
+      'source_url': 'https://www.hindustantimes.com/india-news/assam-cab-operators-warn-of-protest-as-meghalaya-blockade-continues-despite-talks-101787494464976.html'
+    },
+    {
+      'title': 'Trump forgot India\'s ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Sergio Gor claimed that the ministry of external affairs had asked for “no questions” after the meeting between Modi and Trump.',
+      'source_url': 'https://www.hindustantimes.com/india-news/trump-forgot-indias-no-questions-request-at-g7-held-45-minute-presser-with-pm-modi-recalls-us-envoy-sergio-gor-101787491676776.html'
+    },
+    {
+      'title': '‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Navdeep Suri said that after he was told that his documents do not match, he was asked to come again with documents that show that he is an Indian citizen.',
+      'source_url': 'https://www.hindustantimes.com/india-news/-represented-india-in-3-nations-ex-envoy-navdeep-suri-shares-ordeal-as-punjab-sir-details-do-not-match-101787488664144.html'
+    },
+    {
+      'title': 'Tripura floods: CM Saha orders relief as heavy rain leaves 974 people homeless',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The Meteorological Department predicted light to moderate rainfall over the state’s districts in the next 24 hours',
+      'source_url': 'https://www.hindustantimes.com/india-news/tripura-floods-cm-saha-orders-relief-as-heavy-rain-leaves-974-people-homeless-101787491104048.html'
+    },
+    {
+      'title': 'KPSC \'scam\' case ED raids IAS officer Gangwar\'s premises in Karnataka, UP',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Gangwar is a 2016-batch Indian Administrative Service (IAS) officer and is currently posted as Director-MSME.',
+      'source_url': 'https://www.hindustantimes.com/india-news/kpsc-scam-case-ed-raids-ias-officer-gangwars-premises-in-karnataka-up-101787489699509.html'
+    },
+    {
+      'title': 'Ramdev says ‘don’t want to escalate’ war of words with Kangana Ranaut after ‘Gen Z, jawani\' remarks row',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'When Ramdev was asked about Kangana Ranaut\'s remarks, he questioned her education and past, while criticising her description of the younger generation.',
+      'source_url': 'https://www.hindustantimes.com/india-news/ramdev-says-don-t-want-to-escalate-war-of-words-with-kangana-ranaut-after-gen-z-jawani-remarks-row-101787487903162.html'
+    },
+    {
+      'title': '3 dead, 21 injured as pickup vehicle crashes into pole in Karnataka: Police',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Police registered a case at the Bhimarayanagudi police station, under section 106(1) of the Bharatiya Nyaya Sanhita',
+      'source_url': 'https://www.hindustantimes.com/india-news/3-killed-21-injured-as-pickup-vehicle-crashes-into-pole-in-karnataka-police-101787487803012.html'
+    },
+    {
+      'title': 'Delhi\'s Marche Retail faces FSSAI action; license suspended over hygiene, training lapses',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'FSSAI said Marche Retail was found operating with deficiencies relating to design, operational controls, sanitation, personal hygiene, etc',
+      'source_url': 'https://www.hindustantimes.com/india-news/delhi-marche-retail-faces-fssai-action-license-suspended-over-hygiene-training-lapses-sdp-industries-ghee-sale-ban-101787484137991.html'
+    },
+    {
+      'title': '3 FIRs filed against 28 named, 900 unnamed people over police-students clash in Jharkhand',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'FIRs were registered at Ranchi\'s Kotwali police station against 14 named and 200 unidentified people for obstructing government work and clashing with police.',
+      'source_url': 'https://www.hindustantimes.com/india-news/3-firs-filed-against-28-named-900-unnamed-people-over-police-students-clash-in-jharkhand-101787484626542.html'
+    },
+    {
+      'title': 'No new H1N1 strain in circulation, current vaccines effective: ICMR officials amid rising cases',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'ICMR officials said no new H1N1 strain is circulating in India and the current viruses are well matched with vaccines recommended for the Northern Hemisphere.',
+      'source_url': 'https://www.hindustantimes.com/india-news/no-new-h1n1-strain-in-circulation-current-vaccines-effective-icmr-officials-101787485342315.html'
+    },
+    {
+      'title': 'Bengaluru woman dies by suicide after ‘ex-classmate’ blackmails, harasses her',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'She was staying at a paying guest accommodation in HSR Layout\'s Sector-1 and worked in the sales department of a jewellery store in the area.',
+      'source_url': 'https://www.hindustantimes.com/india-news/bengaluru-woman-dies-by-suicide-after-ex-classmate-blackmails-harasses-her-101787483546590.html'
+    },
+    {
+      'title': '2 rescued, 22 missing after China-bound iron ore vessel sinks off Odisha coast',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Two of the 24 crew members aboard the ship were rescued from life rafts, while an intensive search is underway for the remaining seafarers,',
+      'source_url': 'https://www.hindustantimes.com/india-news/2-rescued-22-missing-after-china-bound-iron-ore-vessel-sinks-off-odisha-coast-101787484142328.html'
+    },
+    {
+      'title': '‘Mai yahan ka khiladi hun’: Kiren Rijiju hits back at comparison with Rahul Gandhi over fitness',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Union minister Kiren Rijiju shared a video of himself swimming in gushing waters of Arunachal Pradesh as he went on to explain why it is not an easy task.',
+      'source_url': 'https://www.hindustantimes.com/india-news/mai-yahan-ka-khiladi-hun-kiren-rijiju-hits-back-at-comparison-with-rahul-gandhi-over-fitness-101787481195380.html'
+    },
+    {
+      'title': 'Alwar school principal suspended over video of him bathing with girl students',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Alwar district education officer Manoj Sharma said serious allegations had been levelled against the principal by local residents',
+      'source_url': 'https://www.hindustantimes.com/india-news/alwar-school-principal-suspended-over-video-of-him-bathing-with-girl-students-101787483185202.html'
+    },
+    {
+      'title': '‘Put Abhijeet Dipke’s photos in office’: Sanjay Raut\'s dig at Fadnavis over Gen Z outreach',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Sanjay Raut claimed that the BJP leaders should credit Dipke for making them aware of the issues faced by Gen-Z.',
+      'source_url': 'https://www.hindustantimes.com/india-news/put-abhijeet-dipke-s-photos-in-office-sanjay-rauts-dig-at-devendra-fadnavis-over-gen-z-outreach-cjp-founder-101787480834271.html'
+    },
+    {
+      'title': '‘Three claps for marvellous set of Gen Z faces’: CJP\'s Saurav Das takes swipe at BJP\'s youth outreach initiative',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Saurav Das’s reaction comes after BJP on Saturday constituted a dedicated team to spearhead its upcoming Gen Z Outreach Programme.',
+      'source_url': 'https://www.hindustantimes.com/india-news/cjp-saurav-das-slams-bjp-for-new-gen-z-outreach-campaign-jibes-nitin-nabin-smriti-irani-latest-news-101787481918339.html'
+    },
+    {
+      'title': 'CBI registers case against former DGCA Director Anil Gill and others in corruption case',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The CBI registered a case on August 21 under Sections 11 and 12 of the Prevention of Corruption Act, 1988, as amended in 2018, and Section 120B of the IPC.',
+      'source_url': 'https://www.hindustantimes.com/india-news/cbi-registers-case-against-former-dgca-director-anil-gill-and-others-in-corruption-case-101787478925920.html'
     },
   ];
 }
