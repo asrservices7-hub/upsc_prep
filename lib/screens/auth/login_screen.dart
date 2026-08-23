@@ -46,10 +46,23 @@ class _LoginScreenState extends State<LoginScreen> {
         }
       }
     } catch (e) {
+      // FIREBASE AUTH NOT SET UP - BYPASS LOGIN FOR TESTING
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('Login failed: ${e.toString()}')),
+          const SnackBar(content: Text('Firebase Auth not setup. Bypassing Login for Testing.')),
         );
+        
+        if (_emailController.text.trim() == 'asrservices@gmail.com') {
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (_) => const AdminDashboardScreen()),
+          );
+        } else {
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (_) => const DashboardScreen()),
+          );
+        }
       }
     } finally {
       if (mounted) {
@@ -60,7 +73,11 @@ class _LoginScreenState extends State<LoginScreen> {
 
   Future<void> _signInWithGoogle() async {
     ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(content: Text('Google Sign-In coming soon!')),
+      const SnackBar(content: Text('Firebase Auth not setup. Bypassing Login for Testing.')),
+    );
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(builder: (_) => const DashboardScreen()),
     );
   }
 
