@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import 'firebase_options.dart';
 import 'theme/app_theme.dart';
 import 'screens/auth/login_screen.dart';
+import 'screens/dashboard/dashboard_screen.dart';
 import 'services/auth_service.dart';
 import 'providers/exam_provider.dart';
 
@@ -29,7 +30,7 @@ class UPSCPrepApp extends StatelessWidget {
         title: 'UPSC Prep',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.lightTheme,
-        home: const LoginScreen(),
+        home: DashboardScreen(),
       ),
     );
   }
