@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../../providers/exam_provider.dart';
 import '../../widgets/exam_switcher.dart';
+import '../../data/static_data.dart';
 
 class CurrentAffairsScreen extends StatelessWidget {
   const CurrentAffairsScreen({super.key});
@@ -32,29 +33,7 @@ class CurrentAffairsScreen extends StatelessWidget {
                 .onValue,
             builder: (context, snapshot) {
           if (snapshot.hasError || snapshot.data?.snapshot.value == null) {
-            final mockAffairs = [
-              {
-                'title': 'India Achieves Record FDI Inflows in FY2026',
-                'category': 'Economy',
-                'date': 'Aug 24, 2026',
-                'summary': 'India attracted record Foreign Direct Investment (FDI) inflows of over \$85 billion in FY2025-26, marking a 12% increase over the previous year. The sectors that received maximum FDI include services, computer software & hardware, telecommunications, and automobile.',
-                'source_url': 'https://dpiit.gov.in/'
-              },
-              {
-                'title': 'Supreme Court Upholds Right to Privacy in Digital Age',
-                'category': 'Polity',
-                'date': 'Aug 24, 2026',
-                'summary': 'The Supreme Court in a landmark judgment reinforced the right to privacy in the context of digital data collection by government agencies. The 5-judge bench ruled that citizens\' data collected must comply with the Data Protection Act 2023.',
-                'source_url': 'https://main.sci.gov.in/'
-              },
-              {
-                'title': 'India and EU Sign Green Hydrogen Partnership Agreement',
-                'category': 'Intl Relations',
-                'date': 'Aug 23, 2026',
-                'summary': 'India and the European Union signed a strategic partnership agreement on green hydrogen production and trade. Under this agreement, the EU will invest €2 billion in India\'s National Green Hydrogen Mission.',
-                'source_url': 'https://www.mea.gov.in/'
-              }
-            ];
+            final mockAffairs = StaticData.currentAffairs;
 
             return ListView.builder(
               padding: const EdgeInsets.all(16),

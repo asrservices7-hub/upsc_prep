@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../../providers/exam_provider.dart';
 import '../../widgets/exam_switcher.dart';
+import '../../data/static_data.dart';
 
 class NotesListScreen extends StatelessWidget {
   final String category;
@@ -29,32 +31,7 @@ class NotesListScreen extends StatelessWidget {
             builder: (context, snapshot) {
               if (snapshot.hasError || snapshot.data?.snapshot.value == null) {
                 // FALLBACK MOCK DATA IF FIREBASE IS EMPTY
-                final mockNotes = [
-                  {
-                    'title': 'Indian Polity — Fundamental Rights',
-                    'summary': 'Part III (Art 12-35). Covers Right to Equality, Freedom, etc. Art 32 is Heart & Soul of Constitution (Ambedkar).',
-                    'timestamp': DateTime.now().millisecondsSinceEpoch,
-                    'pdfUrl': ''
-                  },
-                  {
-                    'title': 'Indian Polity by M. Laxmikant',
-                    'summary': 'The Bible of UPSC Polity. Covers Constitution, Parliament, Judiciary, Local Govt, and all Constitutional/Non-Constitutional bodies.',
-                    'timestamp': DateTime.now().millisecondsSinceEpoch - 1000,
-                    'pdfUrl': ''
-                  },
-                  {
-                    'title': 'Modern History — Revolt of 1857',
-                    'summary': 'Started on 10 May 1857 at Meerut. Causes include Doctrine of Lapse, economic drain, military discrimination.',
-                    'timestamp': DateTime.now().millisecondsSinceEpoch - 2000,
-                    'pdfUrl': ''
-                  },
-                  {
-                    'title': 'Economy — Banking & Monetary Policy',
-                    'summary': 'RBI established 1935. MPC has 6 members, sets repo rate. Target CPI inflation 4% (±2%).',
-                    'timestamp': DateTime.now().millisecondsSinceEpoch - 3000,
-                    'pdfUrl': ''
-                  }
-                ];
+                final mockNotes = StaticData.notes[category] ?? StaticData.notes['Indian Polity']!;
 
                 return ListView.builder(
                   padding: const EdgeInsets.all(16),
