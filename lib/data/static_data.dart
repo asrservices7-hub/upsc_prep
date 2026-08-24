@@ -321,6 +321,62 @@ class StaticData {
 
   static const List<Map<String, String>> currentAffairs = [
     {
+      'title': 'Belagavi MLA Abhay Patil injured in Delhi car accident, out of danger: Police',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': '',
+      'source_url': 'https://www.thehindu.com/news/national/karnataka/belagavi-mla-abhay-patil-injured-in-delhi-car-accident-out-of-danger-police/article71382374.ece'
+    },
+    {
+      'title': 'Police used excessive force during Delhi protests: Amnesty',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Amnesty said witness testimony and visual evidence it had verified confirmed the use of “pellet-firing shotguns, tear gas launchers, grenades, batons and electric shock devices against protesters” in Delhi, Bihar',
+      'source_url': 'https://www.thehindu.com/news/national/police-used-excessive-force-during-delhi-protests-amnesty/article71383010.ece'
+    },
+    {
+      'title': 'Former Supreme Court judge flags ‘silence’ of journalists over media laws',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Former Supreme Court judge B. Sudarshan Reddy called upon journalists to mount a collective fight to protect their rights by seeking wider support from society',
+      'source_url': 'https://www.thehindu.com/news/cities/Hyderabad/former-sc-judge-flags-silence-of-journalists-over-media-laws/article71381975.ece'
+    },
+    {
+      'title': ' Liquor sales expected to go up during Onam season',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Bevco sold liquor to the tune of ₹970.74 crore during the Onam season in 2025, compared to the ₹842.07 crore the year before',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/liquor-sales-expected-to-go-up-during-onam-season/article71381047.ece'
+    },
+    {
+      'title': 'Digging for gold',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Parliament passed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, which put the extraction and management of minerals in the hands of the Central government. Many in Odisha, one of India’s most mineral-rich States, fear that the new law will impact the State’s fiscal health, while also disrupting the Centre-State relations...',
+      'source_url': 'https://www.thehindu.com/news/national/odisha/spotlight-digging-for-gold/article71376668.ece'
+    },
+    {
+      'title': 'Two inmates arrested under POCSO Act escape from Srinagar Central Jail; search launched',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The police urged the public to share any information that could help trace or apprehend the two men by contacting the nearest police station or dialling 112',
+      'source_url': 'https://www.thehindu.com/news/national/jammu-and-kashmir/two-inmates-arrested-under-pocso-act-escape-from-srinagar-central-jail-search-launched/article71382241.ece'
+    },
+    {
+      'title': 'Aaditya Thackeray accuses BMC of giving open spaces to institutions linked to BJP lawmakers',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Aaditya Thackeray warned, he would do a sit-in outside the BMC office to reclaim the open spaces',
+      'source_url': 'https://www.thehindu.com/news/national/maharashtra/aaditya-thackeray-accuses-bmc-of-giving-open-spaces-to-institutions-linked-to-bjp-lawmakers/article71382237.ece'
+    },
+    {
+      'title': 'Tamil Nadu HR&CE Minister defends mandapam proposal at temple for devotees cured of chickenpox',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': '',
+      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/tn-minister-defends-mandapam-proposal-at-temple-for-devotees-cured-of-chickenpox/article71381377.ece'
+    },
+    {
       'title': 'Broadway bustles with Onam shoppers, but rain dampens cheer',
       'category': 'National News',
       'date': 'Aug 24, 2026',
@@ -391,11 +447,11 @@ class StaticData {
       'source_url': 'https://www.thehindu.com/news/national/ship-sinks-off-odisha-two-rescued-as-navy-coast-guard-continue-search-for-22-crew-members/article71381540.ece'
     },
     {
-      'title': 'Former SC judge flags ‘silence’ of journalists over media laws',
+      'title': 'SIR: For 3.83 lakh voters marked as ‘Others’, hearing optional before deletion ',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/cities/Hyderabad/former-sc-judge-flags-silence-of-journalists-over-media-laws/article71381975.ece'
+      'summary': 'For electors classified as Others, the ERO/AERO is permitted to mark elector as Found OK or Found Not Eligible directly or ERO/AERO can schedule the hearing also',
+      'source_url': 'https://www.thehindu.com/news/cities/bangalore/sir-for-383-lakh-voters-marked-as-others-hearing-optional-before-deletion/article71380543.ece'
     },
     {
       'title': 'Assam in final stage of partner selection to build satellite, says CM',
@@ -417,6 +473,13 @@ class StaticData {
       'date': 'Aug 24, 2026',
       'summary': '',
       'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/hero-stone-inscription-from-the-fifthcentury-unearthed/article71381007.ece'
+    },
+    {
+      'title': 'Udhayanidhi slams TVK, says Vijay leads a ‘dummy govt.’',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': '',
+      'source_url': 'https://www.thehindu.com/news/cities/Tiruchirapalli/udhayanidhi-slams-tvk-says-vijay-leads-a-dummy-govt/article71380994.ece'
     },
     {
       'title': 'Tamil Nadu life convict Selvam’s book Oru Thooku Kaithiyin Vaakumoolam wins Iyal Award of Canada',
@@ -466,69 +529,6 @@ class StaticData {
       'date': 'Aug 24, 2026',
       'summary': 'Officials said IAS officer Gyanendra Kumar Gangwar’s premises in Bengaluru and Uttar Pradesh\'s Bareilly were searched under the Prevention of Money Laundering Act (PMLA)',
       'source_url': 'https://www.thehindu.com/news/national/kpsc-scam-case-ed-raids-ias-officer-gangwars-premises-in-karnataka-up/article71381000.ece'
-    },
-    {
-      'title': 'Cyberabad Security Council marks 20 years of police-industry partnership',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/cyberabad-security-council-marks-20-years-of-police-industry-partnership/article71382007.ece'
-    },
-    {
-      'title': 'Maharashtra incentivises tribal participation to tackle high malaria burden in Gadchiroli',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'A tribal family to get ₹500 if a member approaches the health system and tests positive; a traditional healer to receive ₹500 for referring a case',
-      'source_url': 'https://www.thehindu.com/news/national/maharashtra/maharashtra-incentivises-tribal-participation-to-tackle-high-malaria-burden-in-gadchiroli/article71381547.ece'
-    },
-    {
-      'title': 'No new H1N1 strain in India, existing vaccines sufficient, says ICMR',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'Influenza strains currently circulating are well matched with the vaccine strains, and the seasonal flu is self-limiting, ICMR said, adding that people with underlying medical conditions are at risk of complication',
-      'source_url': 'https://www.thehindu.com/sci-tech/health/no-new-strain-of-h1n1-say-icmr-sources-as-swine-flu-cases-rise/article71381463.ece'
-    },
-    {
-      'title': 'Two drown in sea, two rescued at Kakinada',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/two-drown-in-sea-two-rescued-at-kakinada/article71381903.ece'
-    },
-    {
-      'title': 'BJP is wasting time over unnecessary issues, says Laxman Savadi',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'Efforts are on to strengthen the Cooperation Department, says Minister',
-      'source_url': 'https://www.thehindu.com/news/national/karnataka/bjp-is-wasting-time-over-unnecessary-issues-says-laxman-savadi/article71381026.ece'
-    },
-    {
-      'title': 'With new stores, U.P. aims to integrate khadi with employment',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'U.P. government highlights its focus on  village industries in khadi, handloom, and silk sectors for the rural economy and, for the generation of employment',
-      'source_url': 'https://www.thehindu.com/news/national/uttar-pradesh/with-new-stores-up-aims-to-integrate-khadi-with-employment/article71381711.ece'
-    },
-    {
-      'title': 'KTR calls for State-wide protests from September 2 on ‘govt. failures’',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/ktr-calls-for-state-wide-protests-from-september-2-on-govt-failures/article71381828.ece'
-    },
-    {
-      'title': 'Freedom doesn’t mean crossing limits: Mahesh Goud',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/freedom-doesnt-mean-crossing-limits-mahesh-goud/article71381859.ece'
-    },
-    {
-      'title': 'BJP chief holds strategy meet for next round of Assembly polls',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'Assembly polls are due in Punjab, Uttar Pradesh, Uttarakhand, Goa, Himachal Pradesh and Gujarat in 2027',
-      'source_url': 'https://www.thehindu.com/news/national/bjp-chief-holds-strategy-meet-for-next-round-of-assembly-polls/article71381525.ece'
     },
     {
       'title': 'A businessman bought a 23,000-acre Scottish sporting estate and spent two decades rewilding it',
@@ -671,6 +671,34 @@ class StaticData {
       'source_url': 'https://timesofindia.indiatimes.com/science/in-2016-new-zealand-targeted-an-estimated-200000-mice-on-antipodes-island-two-years-later-they-were-declared-gone-and-subsequent-surveys-found-two-native-bird-populations-had-more-than-doubled/articleshow/133437186.cms'
     },
     {
+      'title': '2 teachers, 15-year-old student drown in waterfall pool in Madhya Pradesh',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'People present at the site rescued three students in time, but two teachers and a student drowned.&nbsp;',
+      'source_url': 'https://www.hindustantimes.com/india-news/2-teachers-15-year-old-student-drown-in-waterfall-pool-in-madhya-pradesh-101787535070036.html'
+    },
+    {
+      'title': '22 missing, 2 rescued after China-bound cargo ship sinks off Odisha coast; rescue ops underway',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'The China-bound vessel left Paradip Port on Friday. It reportedly sank in deep waters of the Bay of Bengal on Saturday.',
+      'source_url': 'https://www.hindustantimes.com/india-news/odisha-china-bay-of-bengal-tanker-seafarers-iron-ore-myanmar-bangladesh-national-rescue-operations-efforts-navy-maritime-101787529775861.html'
+    },
+    {
+      'title': '2 MLAs among several injured after car crashes into SUV in Delhi',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'Delhi\'s Anil Jha and Karnataka\'s Abhay Patil were injured after a Swift car crossed a divider and collided with an Innova.',
+      'source_url': 'https://www.hindustantimes.com/india-news/2-mlas-among-several-injured-after-car-crashes-into-suv-at-delhi-ito-anil-jha-abhay-patil-101787533412410.html'
+    },
+    {
+      'title': 'PM Modi says India can ‘very quickly’ make its place in global space sector: ‘We must create an aura that…’',
+      'category': 'National News',
+      'date': 'Aug 24, 2026',
+      'summary': 'PM Modi urged private space firms to build an ecosystem that attracts global talent and investment, as India targets a larger share in the space economy',
+      'source_url': 'https://www.hindustantimes.com/india-news/pm-modi-says-india-can-very-quickly-make-its-place-in-global-space-sector-we-must-create-an-aura-that-101787528407473.html'
+    },
+    {
       'title': 'Two MLAs among six injured in car crash near PWD office in Delhi',
       'category': 'National News',
       'date': 'Aug 24, 2026',
@@ -720,10 +748,10 @@ class StaticData {
       'source_url': 'https://www.hindustantimes.com/india-news/maharashtra-teen-who-died-over-iphone-attempted-suicide-from-same-cliff-in-2025-too-chhatrapati-sambhajinagar-101787496548490.html'
     },
     {
-      'title': 'Ajit Doval to visit China for boundary talks ahead of Xi’s India trip',
+      'title': 'NSA Ajit Doval to visit China for border talks ahead of Xi Jinping’s India trip',
       'category': 'National News',
       'date': 'Aug 24, 2026',
-      'summary': 'Doval’s visit assumes greater significance as it comes ahead of Chinese President Xi Jinping’s expected trip to India next month',
+      'summary': 'Ajit Doval is expected to meet his counterpart for the Special Representatives mechanism, Chinese foreign minister Wang Yi on Tuesday.',
       'source_url': 'https://www.hindustantimes.com/india-news/ajit-doval-to-visit-china-for-boundary-talks-ahead-of-xi-s-india-trip-101787498665623.html'
     },
     {
@@ -851,34 +879,6 @@ class StaticData {
       'date': 'Aug 24, 2026',
       'summary': 'Union minister Kiren Rijiju shared a video of himself swimming in gushing waters of Arunachal Pradesh as he went on to explain why it is not an easy task.',
       'source_url': 'https://www.hindustantimes.com/india-news/mai-yahan-ka-khiladi-hun-kiren-rijiju-hits-back-at-comparison-with-rahul-gandhi-over-fitness-101787481195380.html'
-    },
-    {
-      'title': 'Alwar school principal suspended over video of him bathing with girl students',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'Alwar district education officer Manoj Sharma said serious allegations had been levelled against the principal by local residents',
-      'source_url': 'https://www.hindustantimes.com/india-news/alwar-school-principal-suspended-over-video-of-him-bathing-with-girl-students-101787483185202.html'
-    },
-    {
-      'title': '‘Put Abhijeet Dipke’s photos in office’: Sanjay Raut\'s dig at Fadnavis over Gen Z outreach',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'Sanjay Raut claimed that the BJP leaders should credit Dipke for making them aware of the issues faced by Gen-Z.',
-      'source_url': 'https://www.hindustantimes.com/india-news/put-abhijeet-dipke-s-photos-in-office-sanjay-rauts-dig-at-devendra-fadnavis-over-gen-z-outreach-cjp-founder-101787480834271.html'
-    },
-    {
-      'title': '‘Three claps for marvellous set of Gen Z faces’: CJP\'s Saurav Das takes swipe at BJP\'s youth outreach initiative',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'Saurav Das’s reaction comes after BJP on Saturday constituted a dedicated team to spearhead its upcoming Gen Z Outreach Programme.',
-      'source_url': 'https://www.hindustantimes.com/india-news/cjp-saurav-das-slams-bjp-for-new-gen-z-outreach-campaign-jibes-nitin-nabin-smriti-irani-latest-news-101787481918339.html'
-    },
-    {
-      'title': 'CBI registers case against former DGCA Director Anil Gill and others in corruption case',
-      'category': 'National News',
-      'date': 'Aug 24, 2026',
-      'summary': 'The CBI registered a case on August 21 under Sections 11 and 12 of the Prevention of Corruption Act, 1988, as amended in 2018, and Section 120B of the IPC.',
-      'source_url': 'https://www.hindustantimes.com/india-news/cbi-registers-case-against-former-dgca-director-anil-gill-and-others-in-corruption-case-101787478925920.html'
     },
   ];
 }
