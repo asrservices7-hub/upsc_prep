@@ -399,7 +399,7 @@ break
 default:s=null}s=A.a_(s,t.N)
 return s},
 b3W(){var s=A.de().b,r=s==null?null:s.canvasKitVariant
-s=A.b6z(A.aX7(B.MR,r==null?"auto":r))
+s=A.b6z(A.aX7(B.MQ,r==null?"auto":r))
 return new A.ab(s,new A.aCq(),A.a1(s).i("ab<1,t>"))},
 b5J(a,b){return b+a},
 a3c(){var s=0,r=A.D(t.m),q,p,o,n
@@ -14031,7 +14031,7 @@ case 4:s=l.a
 s===$&&A.a()
 s=A.bE(s,200)
 r=A.bE(A.a7q(l,B.p4,B.Mj),24)
-q=A.bE(A.a7q(l,B.p4,B.N_),32)
+q=A.bE(A.a7q(l,B.p4,B.MZ),32)
 p=A.bE(l.a,10)
 o=A.bE(l.a,12)
 l.d===$&&A.a()
@@ -14041,8 +14041,8 @@ break
 case 5:s=l.a
 s===$&&A.a()
 s=A.bE(A.CO(s+240),40)
-r=A.bE(A.a7q(l,B.p6,B.ND),24)
-q=A.bE(A.a7q(l,B.p6,B.NE),32)
+r=A.bE(A.a7q(l,B.p6,B.NC),24)
+q=A.bE(A.a7q(l,B.p6,B.ND),32)
 p=A.bE(l.a+15,8)
 o=A.bE(l.a+15,12)
 l.d===$&&A.a()
@@ -22483,7 +22483,7 @@ r.toString
 A.f3(r)
 q=a.h(0,"swipeEdge")
 q.toString
-return new A.os(s,r,B.MK[A.dd(q)])},
+return new A.os(s,r,B.MJ[A.dd(q)])},
 Fc:function Fc(a,b){this.a=a
 this.b=b},
 os:function os(a,b,c){this.a=a
@@ -24800,7 +24800,7 @@ if(a.as!==q)return q?-1:1
 return 0},
 aWX(a,b){var s=A.a1(b).i("ab<1,dQ>")
 s=A.a_(new A.ab(b,new A.a8k(),s),s.i("ax.E"))
-return A.aWd(!0,s,a,B.N8,!0,B.Hw,null)},
+return A.aWd(!0,s,a,B.N7,!0,B.Hw,null)},
 aEX(a){var s
 try{a.dD()}catch(s){a.Pb()}a.w=B.a8f
 try{a.bg(A.b6v())}catch(s){}},
@@ -25382,7 +25382,7 @@ _.as=!0
 _.at=!1
 _.$ti=d},
 OJ(a,b){var s
-if(a.j(0,b))return new A.M_(B.N9)
+if(a.j(0,b))return new A.M_(B.N8)
 s=A.b([],t.fJ)
 A.cc()
 a.k5(new A.abO(b,A.aG(t.u),s))
@@ -29899,7 +29899,7 @@ abm(a){var s=a/100
 return(s<=0.0031308?s*12.92:1.055*Math.pow(s,0.4166666666666667)-0.055)*255},
 aFd(a){var s=Math.pow(Math.abs(a),0.42)
 return A.re(a)*400*s/(s+27.13)},
-aFe(a){var s=A.aFz(a,B.NC),r=A.aFd(s[0]),q=A.aFd(s[1]),p=A.aFd(s[2])
+aFe(a){var s=A.aFz(a,B.NB),r=A.aFd(s[0]),q=A.aFd(s[1]),p=A.aFd(s[2])
 return Math.atan2((r+q-2*p)/9,(11*r+-12*q+p)/11)},
 aXM(a,b){var s,r,q,p,o,n=B.i.bT(b,4)<=1?0:100,m=(b&1)===0?0:100
 if(b<4){s=(a-n*0.7152-m*0.0722)/0.2126
@@ -30873,7 +30873,7 @@ wk(){var s=this.as
 s===$&&A.a()
 return s},
 wl(a,b,c,d){var s,r,q,p
-if(a<0||b<0)return B.Nh
+if(a<0||b<0)return B.Ng
 s=this.a
 s===$&&A.a()
 s=s.a
@@ -30892,7 +30892,7 @@ l.push(new A.eo(n[0],n[1],n[2],n[3],B.kF[m]))}return l},
 d_(a){var s,r,q=this.a
 q===$&&A.a()
 s=q.a.getGlyphPositionAtCoordinate(a.a,a.b)
-r=B.MM[J.aX(s.affinity.value)]
+r=B.ML[J.aX(s.affinity.value)]
 return new A.ah(J.aX(s.pos),r)},
 Lu(a){var s=this.a
 s===$&&A.a()
@@ -31667,7 +31667,7 @@ p.toString
 p=p>0}else p=!1
 if(p)return q}o=this.a9N(a,b)
 if(o.length===1)return B.b.gP(o)
-for(r=0;r<7;++r){q=A.aLz(o,new A.a9h(B.Mr[r]))
+for(r=0;r<7;++r){q=A.aLz(o,new A.a9h(B.Mq[r]))
 if(q!=null)return q}return B.b.gP(o)},
 aax(a){var s,r,q
 if(B.hI.av(0,a)){s=B.hI.h(0,a)
@@ -36090,7 +36090,7 @@ if(m.f!==B.oD){m.f=B.oD
 m.Rd()}}return m.d.a.a0Q(a)},
 Rd(){var s,r
 for(s=this.w,r=0;r<s.length;++r)s[r].$1(this.f)},
-a0P(a){if(B.b.q(B.N2,a))return this.f===B.hi
+a0P(a){if(B.b.q(B.N1,a))return this.f===B.hi
 return!1}}
 A.a8V.prototype={
 $0(){return new A.iz(Date.now(),0,!1)},
@@ -43250,7 +43250,7 @@ if(o>0)return s
 return null}}
 A.asN.prototype={
 E(a,b){this.OE(0,b,0,b.length,!1)},
-bk(a){this.OE(0,B.N6,0,0,!0)}}
+bk(a){this.OE(0,B.N5,0,0,!0)}}
 A.aBQ.prototype={
 OE(a,b,c,d,e){var s=this.b.aoL(b,c,d,e)
 if(s!=null)this.a.q3(s,0,s.length,e)}}
@@ -48454,7 +48454,7 @@ s.bi(0,b,c.cL())}else if(c instanceof A.C8){b.bq(0,148)
 s.bi(0,b,c.cL())}else s.DA(0,b,c)},
 it(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null
 switch(a){case 129:s=A.d7(j.bZ(0,b))
-return s==null?i:B.Nz[s]
+return s==null?i:B.Ny[s]
 case 130:r=j.bZ(0,b)
 r.toString
 r=J.bb(t.W.a(r),0)
@@ -50842,7 +50842,7 @@ r=A.oi(B.Up,B.f,r==null?1:r)
 r.toString
 q=p.ab(0,q.gp(q))
 if(q==null)q=1
-return A.aOc(A.aNa(null,B.z,new A.w3(q,B.MI,new A.cN(B.Cu,this.e)),s,1,B.a_G),r)}}
+return A.aOc(A.aNa(null,B.z,new A.w3(q,B.MH,new A.cN(B.Cu,this.e)),s,1,B.a_G),r)}}
 A.Kf.prototype={
 l(){var s=this,r=s.bO$
 if(r!=null)r.L(0,s.ghv())
@@ -54401,7 +54401,7 @@ A.xO.prototype={
 D(){return"_CornerId."+this.b}}
 A.mN.prototype={}
 A.w6.prototype={
-lb(){var s,r,q,p=this,o=A.b51(B.MY,new A.afI(p,p.b.gaT().Y(0,p.a.gaT()))),n=p.a
+lb(){var s,r,q,p=this,o=A.b51(B.MX,new A.afI(p,p.b.gaT().Y(0,p.a.gaT()))),n=p.a
 n.toString
 s=o.a
 r=p.pw(n,s)
@@ -55656,7 +55656,7 @@ A.ayI.prototype={
 $2(a,b){return this.a.C$.bX(a,this.b)},
 $S:15}
 A.UV.prototype={
-gDe(){return B.Mq},
+gDe(){return B.Mp},
 HV(a){var s
 switch(a.a){case 0:s=this.d.b
 break
@@ -59496,7 +59496,7 @@ A.ayX.prototype={
 $0(){return A.b([],t.q1)},
 $S:277}
 A.VL.prototype={
-gDe(){return B.My},
+gDe(){return B.Mx},
 HV(a){var s,r=this
 switch(a.a){case 0:s=r.d.ax
 break
@@ -60147,7 +60147,7 @@ return s.b}}
 A.k4.prototype={
 D(){return"_ListTileSlot."+this.b}}
 A.XD.prototype={
-gDe(){return B.MT},
+gDe(){return B.MS},
 HV(a){var s,r=this
 switch(a.a){case 0:s=r.d
 break
@@ -60479,7 +60479,7 @@ r.f=s.d},
 $S:0}
 A.Pk.prototype={
 I(a){var s=this.c.R(0,new A.j(0,40.95))
-return A.aNa(A.Mn(null,B.Gb,!0),B.Q,new A.w3(1,B.Nr,new A.cN(B.Cs,B.p)),s,1.25,B.a_H)}}
+return A.aNa(A.Mn(null,B.Gb,!0),B.Q,new A.w3(1,B.Nq,new A.cN(B.Cs,B.p)),s,1.25,B.a_H)}}
 A.rd.prototype={
 D(){return"MaterialType."+this.b}}
 A.CI.prototype={
@@ -60889,7 +60889,7 @@ $R:3,
 $S:124}
 A.Qa.prototype={
 a6m(a){var s=t.Tr
-s=A.a_(new A.ab(B.MX,new A.ahA(a),s),s.i("ax.E"))
+s=A.a_(new A.ab(B.MW,new A.ahA(a),s),s.i("ax.E"))
 return s},
 j(a,b){if(b==null)return!1
 if(this===b)return!0
@@ -65312,7 +65312,7 @@ return new A.nT(r.a.cP(s.giq()),r.b,r.c)},
 d_(a){var s=this.b
 return s.a.c.d_(a.Y(0,s.giq()))},
 qi(){var s,r,q=this.b,p=q.giq()
-if(!isFinite(p.a)||!isFinite(p.b))return B.N7
+if(!isFinite(p.a)||!isFinite(p.b))return B.N6
 s=q.f
 if(s==null){s=q.a.c.qi()
 q.f=s}if(p.j(0,B.f))r=s
@@ -74919,7 +74919,7 @@ break
 case 1:return A.B(q,r)}})
 return A.C($async$Fs,r)},
 aa4(a,b){var s,r,q,p
-if(a===b)return B.Nd
+if(a===b)return B.Nc
 s=A.b([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.jJ(B.eN,a)
@@ -77045,7 +77045,7 @@ A.me.prototype={}
 A.QG.prototype={
 lL(a,b,c){var s,r,q,p,o,n=$.a3.aj$.d.c
 if(n==null||n.e==null)return!1
-for(s=t.C,r=0;r<2;++r){q=B.N3[r]
+for(s=t.C,r=0;r<2;++r){q=B.N2[r]
 p=n.e
 p.toString
 o=A.aEl(p,q,s)
@@ -77157,7 +77157,7 @@ this.hw()}}
 A.pb.prototype={
 k(a){return"Entry#"+A.bt(this)+"("+this.d.k(0)+")"}}
 A.zu.prototype={
-an(){return new A.Gi(A.aG(t.mf),B.Nb,null,null)},
+an(){return new A.Gi(A.aG(t.mf),B.Na,null,null)},
 avr(a,b){return this.w.$2(a,b)},
 arU(a,b){return this.x.$2(a,b)}}
 A.Gi.prototype={
@@ -77391,7 +77391,7 @@ r=n.gael()
 q=n.a
 q=q.ch
 q.toString
-l.a=A.aXy(!0,A.aMH(B.z,r,s,q,A.aRd(),n.gafQ(),m,n.gagg(),B.Nf,!0,"nav",B.a5K),"Navigator Scope",!0,m,m,m,m)}else n.a.toString
+l.a=A.aXy(!0,A.aMH(B.z,r,s,q,A.aRd(),n.gafQ(),m,n.gagg(),B.Ne,!0,"nav",B.a5K),"Navigator Scope",!0,m,m,m,m)}else n.a.toString
 l.b=null
 s=n.a
 s.toString
@@ -79863,7 +79863,7 @@ h.Hg()
 r=h.gaaP()
 q=q.vb
 h.e!==$&&A.b4()
-h.e=new A.S3(f,new A.c8(B.Q3,l),new A.r9(),p,B.cm,0,k,h.gad5(),h.gad7(),r,B.cm,0,j,h.gad_(),h.gad1(),r,i,B.Na,s,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.Mw(),new A.Mw())
+h.e=new A.S3(f,new A.c8(B.Q3,l),new A.r9(),p,B.cm,0,k,h.gad5(),h.gad7(),r,B.cm,0,j,h.gad_(),h.gad1(),r,i,B.N9,s,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.Mw(),new A.Mw())
 return h},
 xy(a,b){var s,r,q,p=this,o=p.a.c,n=o.a.a.length
 if(n<a.b||n<a.a)return
@@ -83370,7 +83370,7 @@ j(a,b){var s=this
 if(b==null)return!1
 if(J.V(b)!==A.l(s))return!1
 return b instanceof A.bW&&b.a===s.a&&b.b==s.b&&b.d===s.d&&A.cF(null,null)},
-gt(a){return A.Q(this.a,this.b,null,this.d,A.bD(B.Ng),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+gt(a){return A.Q(this.a,this.b,null,this.d,A.bD(B.Nf),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 k(a){return"IconData(U+"+B.d.BG(B.i.p5(this.a,16).toUpperCase(),5,"0")+")"}}
 A.qQ.prototype={
 cj(a){return!this.w.j(0,a.w)},
@@ -84233,7 +84233,7 @@ b=r?a1:a3.fr
 if(b==null)b=a2.b.c.z
 a3=r?a1:a3.fx
 if(a3==null)a3=a2.b.c.Q
-a=new A.CQ(a4,s,q,p,m,o,n,a5,g===!0,a6,a7,i,h,l,k,j,f,new A.ve(a1),B.Nc,e===!0,d,c,b,a3,A.aYu(a2))
+a=new A.CQ(a4,s,q,p,m,o,n,a5,g===!0,a6,a7,i,h,l,k,j,f,new A.ve(a1),B.Nb,e===!0,d,c,b,a3,A.aYu(a2))
 if(!a.j(0,a0.e))a0.am(new A.axa(a0,a))},
 Wb(){if(this.d==null)this.pZ()},
 Iw(){this.pZ()},
@@ -90713,7 +90713,7 @@ r.yU()
 return s.aW()},
 l(){var s,r,q,p,o=this
 for(s=o.b,r=s.length,q=o.gFv(),p=0;p<s.length;s.length===r||(0,A.x)(s),++p)s[p].L(0,q)
-o.b=B.Ni
+o.b=B.Nh
 o.y=!1
 o.ds()},
 eg(a,b){return a.mK(b)},
@@ -95121,7 +95121,7 @@ A.i_.prototype={
 D(){return"PermissionStatus."+this.b}}
 A.oo.prototype={}
 A.bJ.prototype={
-k(a){return"Permission."+B.Np[this.a]},
+k(a){return"Permission."+B.No[this.a]},
 j(a,b){if(b==null)return!1
 if(this===b)return!0
 if(J.V(b)!==A.l(this))return!1
@@ -95142,7 +95142,7 @@ break
 case 1:return A.B(q,r)}})
 return A.C($async$jd,r)}}
 A.aDe.prototype={
-$2(a,b){return new A.bu(B.Mt[a],[B.V6,B.vO,B.V7,B.V8,B.vP,B.V9][b],t.gM)},
+$2(a,b){return new A.bu(B.Ms[a],[B.V6,B.vO,B.V7,B.V8,B.vP,B.V9][b],t.gM)},
 $S:585}
 A.aDg.prototype={
 $1(a){return a.a},
@@ -95317,7 +95317,7 @@ A.a65.prototype={
 $2(a,b){var s,r
 if(b.c==null){s=b.b
 s=(s==null?null:s.giy().a.a.h(0,"value"))==null}else s=!0
-if(s)return A.vY(new A.a60(B.Mp),80,B.bc)
+if(s)return A.vY(new A.a60(B.NH),80,B.bc)
 s=J.na(t.f.a(b.b.giy().a.a.h(0,"value")))
 r=s.fO(s,new A.a61(),t.a).dL(0)
 B.b.eR(r,new A.a62())
@@ -95420,8 +95420,8 @@ $S:22}
 A.AF.prototype={
 an(){return new A.VD()}}
 A.VD.prototype={
-I(a){var s=this.d,r=A.aLZ(B.c1,B.NG,s)
-return A.mm(null,r,new A.zQ(B.MW,new A.aur(this),s,B.mJ,null,null))}}
+I(a){var s=this.d,r=A.aLZ(B.c1,B.NF,s)
+return A.mm(null,r,new A.zQ(B.MV,new A.aur(this),s,B.mJ,null,null))}}
 A.aur.prototype={
 $1(a){var s=this.a
 s.am(new A.auq(s,a))},
@@ -99318,7 +99318,7 @@ B.Em=new A.apj()
 B.as=new A.app()
 B.dj=new A.apr()
 B.e0=new A.TJ(0,0,0,0)
-B.Nc=s([],A.Y("E<a73>"))
+B.Nb=s([],A.Y("E<a73>"))
 B.a9x=new A.apy()
 B.bf={}
 B.vk=new A.S(B.bf,[],t.w)
@@ -99958,19 +99958,19 @@ B.Lj=new A.r3(1,"titleHeight")
 B.oY=new A.r3(2,"top")
 B.oZ=new A.r3(3,"center")
 B.Lk=new A.r3(4,"bottom")
-B.MZ=s([1373.2198709594231,-1100.4251190754821,-7.278681089101213],t.n)
-B.MG=s([-271.815969077903,559.6580465940733,-32.46047482791194],t.n)
+B.MY=s([1373.2198709594231,-1100.4251190754821,-7.278681089101213],t.n)
+B.MF=s([-271.815969077903,559.6580465940733,-32.46047482791194],t.n)
 B.NN=s([1.9622899599665666,-57.173814538844006,308.7233197812385],t.n)
-B.Ln=s([B.MZ,B.MG,B.NN],t.zg)
+B.Ln=s([B.MY,B.MF,B.NN],t.zg)
 B.p_=s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address","none","webSearch","twitter"],t.s)
 B.LO=s([4,9,14,19],t.t)
 B.mn=new A.IL(0,"named")
 B.BL=new A.IL(1,"anonymous")
 B.LY=s([B.mn,B.BL],A.Y("E<IL>"))
-B.MJ=s([0.41233895,0.35762064,0.18051042],t.n)
+B.MI=s([0.41233895,0.35762064,0.18051042],t.n)
 B.Ml=s([0.2126,0.7152,0.0722],t.n)
 B.NI=s([0.01932141,0.11916382,0.95034478],t.n)
-B.M_=s([B.MJ,B.Ml,B.NI],t.zg)
+B.M_=s([B.MI,B.Ml,B.NI],t.zg)
 B.p0=s([0,4,12,1,5,13,3,7,15],t.t)
 B.a8t=new A.hz(0,1)
 B.a8y=new A.hz(0.5,1)
@@ -99991,18 +99991,18 @@ B.fm=new A.my(3,"justify")
 B.aS=new A.my(4,"start")
 B.iq=new A.my(5,"end")
 B.Ma=s([B.cl,B.dX,B.dY,B.fm,B.aS,B.iq],A.Y("E<my>"))
-B.Mw=s([2,1.13276676],t.n)
+B.Mv=s([2,1.13276676],t.n)
 B.Ls=s([2.18349805,1.20311921],t.n)
-B.Nm=s([2.33888662,1.28698796],t.n)
-B.Nq=s([2.48660575,1.36351941],t.n)
+B.Nl=s([2.33888662,1.28698796],t.n)
+B.Np=s([2.48660575,1.36351941],t.n)
 B.Mg=s([2.62226596,1.44717976],t.n)
 B.Mo=s([2.7514899,1.53385819],t.n)
-B.MU=s([3.36298265,1.98288283],t.n)
-B.Mz=s([4.08649929,2.23811846],t.n)
-B.ML=s([4.85481134,2.47563463],t.n)
+B.MT=s([3.36298265,1.98288283],t.n)
+B.My=s([4.08649929,2.23811846],t.n)
+B.MK=s([4.85481134,2.47563463],t.n)
 B.Mk=s([5.62945551,2.72948597],t.n)
-B.Mx=s([6.43023796,2.98020421],t.n)
-B.p1=s([B.Mw,B.Ls,B.Nm,B.Nq,B.Mg,B.Mo,B.MU,B.Mz,B.ML,B.Mk,B.Mx],t.zg)
+B.Mw=s([6.43023796,2.98020421],t.n)
+B.p1=s([B.Mv,B.Ls,B.Nl,B.Np,B.Mg,B.Mo,B.MT,B.My,B.MK,B.Mk,B.Mw],t.zg)
 B.Md=s(["Arial"],t.s)
 B.Me=s([B.j6,B.j7],A.Y("E<zG>"))
 B.Mh=s(["-apple-system","BlinkMacSystemFont"],t.s)
@@ -100010,93 +100010,11 @@ B.p2=s(["BlinkMacSystemFont"],t.s)
 B.Mj=s([18,15,10,12,15,18,15,12,12],t.n)
 B.Mm=s(["CreateIrisRtcRendering"],t.s)
 B.hp=s([B.og],t.p)
-B.m={title:0,category:1,date:2,summary:3,source_url:4}
-B.Ql=new A.S(B.m,["Bombay High Court declines to restrain Manoj Jarange Patil\u2019s march, notes right to protest","National News","Sep 12, 2026","A bench of Chief Justice Mahesh Chandra Tripathi and Justice Advait Sethna heard a petition","https://www.thehindu.com/news/cities/mumbai/bombay-high-court-declines-to-restrain-manoj-jarange-patils-march-notes-right-to-protest/article71455973.ece"],t.w)
-B.Q9=new A.S(B.m,["BRICS Summit 2026 LIVE updates: Delhi decked up, security tightened","National News","Sep 12, 2026","All eyes will\xa0 be on Mr. Modi\u2019s meeting with the UAE Crown Prince on Saturday (September 12, 2026) morning","https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece"],t.w)
-B.Qj=new A.S(B.m,["How Delhi is managing 35 special aircraft, air traffic during the BRICS Summit","National News","Sep 12, 2026","VVIPs use separate arrival facilities, while commercial flights are being timed around special movements and multiple airports are being used to park visiting aircraft","https://www.thehindu.com/news/cities/Delhi/how-delhi-is-managing-35-special-aircraft-during-brics-summit/article71459091.ece"],t.w)
-B.Qd=new A.S(B.m,["Cricketers Sreesanth\u2019s father dies","National News","Sep 12, 2026","The deceased is survived by his wife Savithri Devi and children Deepu Santh, Niveditha, Diva, and Sreesanth","https://www.thehindu.com/news/cities/Kochi/cricketer-sreesanths-father-dies/article71459077.ece"],t.w)
-B.QN=new A.S(B.m,["Suvendu Adhikari to meet Ambani and Adani for investment talks","National News","Sep 12, 2026","The Chief Minister says previous\xa0political regimes did not create an industry-friendly environment in the State","https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-to-meet-ambani-and-adani-for-investment-talks/article71456680.ece"],t.w)
-B.Qr=new A.S(B.m,["ED searches premises of former CM Harish Rawat\u2019s PA in 2016 VPDO exam case","National News","Sep 12, 2026","The ED said it seized from Chandan Singh Jeena\u2019s premises an \u201cunaccounted\u201d sum of \u20b932 lakh, 13 gold coins and seven gold chains weighing about 200.5 gm, and 12 luxury wristwatches of expensive brands","https://www.thehindu.com/news/national/ed-searches-premises-of-former-cm-harish-rawats-pa-in-2016-vpdo-exam-case/article71457179.ece"],t.w)
-B.QM=new A.S(B.m,["\u2018Gen-Z youth groups\u2019 demand clarity on NIELIT","National News","Sep 12, 2026","Member of Parliament Dr. M. Gurumoorthy, MLC Cipai Subramanyam and YSRCP constituency in-charge Bhumana Abhinay Reddy extended support to the movement","https://www.thehindu.com/news/national/andhra-pradesh/gen-z-youth-groups-demand-clarity-on-nielit/article71456903.ece"],t.w)
-B.Qe=new A.S(B.m,["Bengaluru students clinch national title at World Robot Olympiad","National News","Sep 12, 2026","","https://www.thehindu.com/news/national/karnataka/bengaluru-students-clinch-national-title-at-world-robot-olympiad/article71456716.ece"],t.w)
-B.Q7=new A.S(B.m,["Barrier-free toll booths on national highways by March 2027: Nitin Gadkari","National News","Sep 12, 2026","The Minister for Road Transport and Highways said that full FASTag implementation will benefit the government by \u20b925,000 crore per year","https://www.thehindu.com/news/national/barrier-free-toll-booths-on-national-highways-by-march-2027-nitin-gadkari/article71459064.ece"],t.w)
-B.QO=new A.S(B.m,["25,000 students make Guntur a world record-holder with \u2018Green Ganesh\u2019","National News","Sep 12, 2026","Special attractions included a sand Ganesha idol, a clay idol and a painting displayed at the stadium","https://www.thehindu.com/news/national/andhra-pradesh/25000-students-make-guntur-a-world-record-holder-with-green-ganesh/article71456240.ece"],t.w)
-B.Rj=new A.S(B.m,["Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row","National News","Sep 12, 2026","\u201cOn the sacred occasion of Kaushiki Amavasya, Chief Minister Shri @SuvenduWB offered prayers to Maa Kali at Kalighat and, following the temple\u2019s traditional customs, partook of the sacred bhog of pulao and fish,\u201d the West Bengal BJP said on social media, sharing the video","https://www.thehindu.com/news/national/west-bengal/suvendu-eats-fish-offering-at-kalighat-temple-amidst-bageshwar-baba-row/article71456809.ece"],t.w)
-B.QB=new A.S(B.m,["CPI(M) to undertake major organisational reforms at extended State Committee meeting in the shadow of mounting troubles","National News","Sep 12, 2026","Extended\xa0State Committee\xa0meeting, scheduled to begin in\xa0Kozhikode\xa0on Sunday, may initiate measures to bring in greater transparency and accountability\xa0on the part of the leadership, says a party leader. The style of functioning of the party could change from high-voltage events to home visits and neighbourhood gatherings. District committee members...","https://www.thehindu.com/news/national/kerala/cpim-to-undertake-major-organisational-reforms-at-extended-state-committee-meeting-in-the-shadow-of-mounting-troubles/article71457391.ece"],t.w)
-B.QT=new A.S(B.m,["Srinagar court issues arrest order against son of Ganga hijacker Hashim Qureshi, hospitalised with \u2018critical injury\u2019","National News","Sep 12, 2026","The court directed that Junaid Qureshi, son of Hashim Qureshi, be \u201ctaken into custody forthwith and handed over to the Nishat police\u201d","https://www.thehindu.com/news/national/jammu-and-kashmir/srinagar-court-issues-arrest-order-against-son-of-ganga-hijacker-hashim-qureshi-hospitalised-with-critical-injury/article71457434.ece"],t.w)
-B.Qy=new A.S(B.m,["India and Canada are well beyond reset now, says Canadian High Commissioner to India","National News","Sep 12, 2026","Christopher Cooter says this period in which ties are being rebuilt is the one that works best for the two countries and in 80 years of diplomatic relations, there has never been an environment that has drawn them together in the same way; he adds the security dialogue on the Nijjar killing case has made progress and that steps such as declaring th...","https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece"],t.w)
-B.QU=new A.S(B.m,["Gurugram\u2019s civic infrastructure must match scale of city, says human rights panel","National News","Sep 12, 2026","Repeated disruption of roads, schools, emergency services, water supply and ordinary mobility during heavy rainfall could not be treated as an unavoidable feature of urban life, the Commission said","https://www.thehindu.com/news/national/haryana/gurugrams-civic-infrastructure-must-match-scale-of-city-says-human-rights-panel/article71455966.ece"],t.w)
-B.QS=new A.S(B.m,["Devotees urge Vijay to take steps to retrieve properties of Nungambakkam temple","National News","Sep 12, 2026","They allege that more than 415 grounds belonging to Arulmigu Akilandeswari Sametha Agatheeswarar temple was illegally alienated by former temple trustees, along with certain officials of HR&CE Dept","https://www.thehindu.com/news/cities/chennai/devotees-urge-vijay-to-take-steps-to-retrieve-properties-of-nungambakkam-temple/article71369809.ece"],t.w)
-B.Qh=new A.S(B.m,["Stadium denied, Congress gets alternative venue for Rahul Gandhi\u2019s \u2018Chhatron Ki Goonj\u2019 event in Indore","National News","Sep 12, 2026","The Indore Mayor stated that an old Madhya Pradesh High Court order restricts its use to sports or state-level government events","https://www.thehindu.com/news/national/madhya-pradesh/stadium-denied-congress-gets-alternative-venue-for-rahul-gandhis-chhatron-ki-goonj-event-in-indore/article71459006.ece"],t.w)
-B.R0=new A.S(B.m,["Congress unable to digest India's progress, spreading negativity over BRICS: BJP","National News","Sep 12, 2026",'BJP MP and national spokesperson Sambit Patra said that while the "I" in BRIC was "turning shaky" in 2011-12, India is now one of the strongest partners of BRICS',"https://www.thehindu.com/news/national/congress-unable-to-digest-indias-progress-spreading-negativity-over-brics-bjp/article71456028.ece"],t.w)
-B.QA=new A.S(B.m,["UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts","National News","Sep 12, 2026","The Secretary-General appreciated India\u2019s close cooperation with the United Nations.","https://www.thehindu.com/news/national/un-chief-guterres-meets-pm-modi-discusses-west-asia-ukraine-conflicts/article71457757.ece"],t.w)
-B.Q5=new A.S(B.m,["BRICS Finance Ministers & central bank chiefs voice concern about 'unilateral imposition' of tariffs","National News","Sep 12, 2026","The first Finance Ministers and central bank governors meeting under India\u2019s chairship of BRICS was held on August 12, and the second was held on September 9-10 in Mumbai, following which a joint statement was issued","https://www.thehindu.com/news/national/brics-finance-ministers-central-bank-chiefs-voice-concern-about-unilateral-imposition-of-tariffs/article71455815.ece"],t.w)
-B.Rg=new A.S(B.m,["Gauhati High Court says \u2018talaq-e-hassan\u2019 is a valid form of divorce","National News","Sep 12, 2026","The court has directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024","https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece"],t.w)
-B.Qk=new A.S(B.m,["Tejashwi writes to Bihar CM demanding life-size statues\xa0of Ram Vilas, Sharad Yadav and Raghuvansh","National News","Sep 12, 2026","Mr. Yadav\u2019s move is seen as an addition to Rashtriya Janata Dal\u2019s (RJD) broader plan of asserting itself as a party which stands for the \u201cA to Z\u201d castes and communities.\xa0","https://www.thehindu.com/news/national/bihar/tejashwi-writes-to-bihar-cm-demanding-life-size-statuesof-ram-vilas-sharad-yadav-and-raghuvansh/article71456264.ece"],t.w)
-B.QD=new A.S(B.m,["Allahabad HC seeks Uttar Pradesh govt\u2019s reply over Saharanpur Mosque demolition, stays \u20b96.41 crore damage recovery","National News","Sep 12, 2026","The petitioner submitted in the court that authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.","https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-seeks-uttar-pradesh-governments-reply-over-saharanpur-mosque-demolition-stays-641-crore-damage-recovery/article71456149.ece"],t.w)
-B.Qq=new A.S(B.m,["With eye on poll, BJP to begin \u2018drug-free Punjab\u2019 drive amid row over Dalit villager\u2019s death","National News","Sep 12, 2026","The campaign comes close on the heels of a row that erupted following the death of a Dalit villager, who was reportedly under pressure to apologise for questioning Finance Minister Harpal Singh Cheema over the supply of \u2018chitta\xa0(synthetic drugs)\u2019 in the State.","https://www.thehindu.com/news/national/punjab/with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-row-over-dalit-villagers-death/article71456181.ece"],t.w)
-B.R6=new A.S(B.m,["Vice-principal of Kolkata college \u2018forced\u2019 to resign; ABVP \u2018purifies\u2019 her office","National News","Sep 12, 2026","Was locked in office for entire night, no one came to rescue, Mohammadi Tarannum says after stepping down following 23-hour protest by college students over 70% minimum attendance rule","https://www.thehindu.com/news/cities/kolkata/kolkataslaw-college-vice-principal-resigns-after-23-hour-studentprotest-over-attendance/article71456472.ece"],t.w)
-B.Qf=new A.S(B.m,["Alleged gold fraud: suspect at large arrested from Malappuram","National News","Sep 12, 2026","He had been on the run for over a month following the incident","https://www.thehindu.com/news/national/kerala/alleged-gold-fraud-suspect-at-large-arrested-from-malappuram/article71457575.ece"],t.w)
-B.R4=new A.S(B.m,["Artillery shell recovered from fishing net off Puthiyappa harbour","National News","Sep 12, 2026","Following the alert, bomb squad and Elathur Coastal police reached the harbour and examined the object. It was later moved to the Armed Reserve camp for safety reasons","https://www.thehindu.com/news/national/kerala/artillery-shell-recovered-from-fishing-net-off-puthiyappa-harbour/article71457524.ece"],t.w)
-B.Q8=new A.S(B.m,["Youth in Keralam\u2019s Kozhikode held for alleged bid to record visuals from hospital toilet","National News","Sep 12, 2026","The man had reportedly arrived at the hospital as an attendant to his father, who was undergoing treatment","https://www.thehindu.com/news/national/kerala/youth-in-keralams-kozhikode-held-for-alleged-bid-to-record-visuals-from-hospital-toilet/article71457504.ece"],t.w)
-B.QG=new A.S(B.m,["\u2018Reading kept me going\u2019: Noida stir accused who cracked NET","National News","Sep 12, 2026","\u201cMost of my time in jail has been spent reading books. Initially I focused on preparing for NET. The study material was brought by friends from outside jail. Apart from NET material, I read novels, poems and stories,\u201d he told\xa0The Hindu\xa0at the prison in Greater Noida","https://www.thehindu.com/news/cities/Delhi/reading-kept-me-going-noida-stir-accused-who-cracked-net/article71457844.ece"],t.w)
-B.Ri=new A.S(B.m,["SHRC orders NHAI to ready underpass near Edappally in two months","National News","Sep 12, 2026","","https://www.thehindu.com/news/national/kerala/shrc-orders-nhai-to-ready-underpass-near-edappally-in-two-months/article71457424.ece"],t.w)
-B.Qu=new A.S(B.m,["Owens Message Fuels Debate: Viral post revives note to Charlie; Erika claims resurface","National News","Sep 12, 2026","Candace Owens has reignited controversy surrounding Erika Kirk with an emotional message addressed to the late Charlie Kirk. In the lengthy remarks, Owens reflects on Charlie\u2019s views about love and marriage while making serious claims about his relationship with Erika. The comments, highlighted in a viral social media post, have sparked renewed deb...","https://timesofindia.indiatimes.com/world/us-streamers/her-entire-life-she-has-been-chasing-power-candace-owens-makes-fresh-claims-about-erika-kirk-in-emotional-message-to-charlie-kirk/articleshow/134096415.cms"],t.w)
-B.QK=new A.S(B.m,["US diesel prices at record $6: American farmers feel the heat as harvest season begins","National News","Sep 12, 2026","With diesel prices hitting unprecedented levels, US farmers are grappling with steep fuel expenses that have doubled. This dramatic rise is disrupting essential operations for corn and soybean harvests, jeopardizing profitability and financial health. Additionally, the elevated diesel costs are hindering the logistics of moving harvested crops to m...","https://timesofindia.indiatimes.com/business/international-business/us-diesel-prices-at-record-6-american-farmers-feel-the-heat-as-harvest-season-begins/articleshow/134103442.cms"],t.w)
-B.QP=new A.S(B.m,["'Married brother to bring him into USA': DHS probing Ilhan Omar's family immigration history","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/us/married-brother-to-bring-him-into-usa-dhs-probing-ilhan-omars-family-immigration-history/articleshow/134103109.cms"],t.w)
-B.R7=new A.S(B.m,["California governor signs law to limit U-16s social media risks","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/us/california-governor-signs-law-to-limit-u-16s-social-media-risks/articleshow/134102804.cms"],t.w)
-B.Rc=new A.S(B.m,["Saudi sought US military help as Houthis upped threat: Report","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/middle-east/saudi-sought-us-military-help-as-houthis-upped-threat-report/articleshow/134102554.cms"],t.w)
-B.QL=new A.S(B.m,["US diesel prices cross $6 a gallon amid Iran war","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/us/us-diesel-prices-cross-6-a-gallon-amid-iran-war/articleshow/134102382.cms"],t.w)
-B.Rl=new A.S(B.m,["Afghan woman in first case for anti-terror court deported","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/us/af-woman-in-first-case-for-anti-terror-court-deported/articleshow/134102133.cms"],t.w)
-B.QQ=new A.S(B.m,["As US marks 25 years of 9/11, victims' kin hit out at Saudi, former presidents","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/us/as-us-marks-25-years-of-9/11-victims-kin-hit-out-at-saudi-former-presidents/articleshow/134101992.cms"],t.w)
-B.QC=new A.S(B.m,["Qaida releases video of Osama's son who was reportedly killed in 2019","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/middle-east/qaida-releases-video-of-osamas-son-who-was-reportedly-killed-in-2019/articleshow/134100611.cms"],t.w)
-B.R1=new A.S(B.m,["Canada court overturns 'unreasonable' visitor-visa refusal for 3 Indian applicants","National News","Sep 12, 2026","According to Canada's 2025 Annual Report to Parliament on Immigration, India was the leading source country under the country's 'Visitor Program' in 2024, accounting for 5.8 lakh admissions, or about 11.5% of the total. Against this backdrop, the court's decision could offer some reassurance to applicants whose visitor-visa applications are refused...","https://timesofindia.indiatimes.com/world/rest-of-world/canada-court-overturns-unreasonable-visitor-visa-refusal-for-3-indian-applicants/articleshow/134101391.cms"],t.w)
-B.Qn=new A.S(B.m,["Tech glitch at Adani power unit hits Bangladesh grid","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/south-asia/tech-glitch-at-adani-power-unit-hits-bangladesh-grid/articleshow/134099803.cms"],t.w)
-B.Qw=new A.S(B.m,["Indian-origin investor's H-1B prediction: If 10% of Indians stuck in US Green Card backlog return, India\u2019s GDP could rise 1%","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/us/indian-origin-investors-h-1b-prediction-if-10-of-indians-stuck-in-us-green-card-backlog-return-indias-gdp-could-rise-1/articleshow/134089853.cms"],t.w)
-B.QH=new A.S(B.m,["In 1950, Long Beach opened Veterans Memorial Stadium; sold to its city college for $1 in 1987","National News","Sep 12, 2026","Long Beach City College is embarking on an exciting $250 million redevelopment of its stadium. The decades-old Veterans Memorial Stadium will be replaced by a cutting-edge sports precinct that spans 18 acres. This new venue will feature a 10,000-seat outdoor stadium, an indoor arena, and specialized track and field facilities, along with dedicated ...","https://timesofindia.indiatimes.com/world/us/in-1950-long-beach-opened-veterans-memorial-stadium-sold-to-its-city-college-for-1-in-1987-it-is-now-being-replaced-by-a-250-million-285453-sq-ft-sports-complex/articleshow/134088241.cms"],t.w)
-B.R5=new A.S(B.m,["Elon Musk reacts to Irish man's discovery that he would have to wait for 14 years to get Indian citizenship","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/us/elon-musk-reacts-to-irish-mans-discovery-that-he-would-have-to-wait-for-14-years-to-get-indian-citizenship/articleshow/134088056.cms"],t.w)
-B.Qb=new A.S(B.m,["At 17, British apprentice Tom Lear began building a 12.5-sq-m tiny home on a trailer","National News","Sep 12, 2026","Over the span of three years, a resourceful young carpenter dedicated his skills to constructing a mobile home crafted from reclaimed materials. With a budget of around six thousand pounds, this innovative micro-home serves as an affordable housing solution for young individuals, granting him both independence and a life free from debt. His achieve...","https://timesofindia.indiatimes.com/world/uk/at-17-british-apprentice-tom-lear-began-building-a-12-5-sq-m-tiny-home-on-a-trailer-from-reclaimed-materials-by-20-he-owned-it-debt-free-after-spending-just-6000/articleshow/134086481.cms"],t.w)
-B.QY=new A.S(B.m,["Princess Alexandra of Hanover announces engagement after 10-year romance; who is her fianc\xe9?","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/europe/princess-alexandra-of-hanover-announces-engagement-after-10-year-romance-who-is-her-fianc/articleshow/134086551.cms"],t.w)
-B.Qo=new A.S(B.m,["Canadian tenant posts \u2018harassment\u2019 videos after clash with Indian landlady over barbecue, claims she was arrested by Surrey Police","National News","Sep 12, 2026","","https://timesofindia.indiatimes.com/world/rest-of-world/canadian-tenant-posts-harassment-videos-after-clash-with-indian-landlady-over-barbecue-claims-she-was-arrested-by-surrey-police/articleshow/134082162.cms"],t.w)
-B.Rd=new A.S(B.m,["'We will never, ever forget': Trump commemorates 25th anniversary of 9/11 terrorist attacks","National News","Sep 12, 2026","On the anniversary of 9/11, leaders across the United States honored the victims and reflected on the impact of the tragedy on current foreign policy. Speaking at the Pentagon, President Trump paid homage to the fallen and reaffirmed the nation\u2019s determination, particularly in its dealings with Iran. Defense Secretary Hegseth reinforced this messag...","https://timesofindia.indiatimes.com/world/us/we-will-never-ever-forget-trump-commemorates-25th-anniversary-of-9/11-terrorist-attacks/articleshow/134080822.cms"],t.w)
-B.R8=new A.S(B.m,["A 27-year-old Tennessee diesel mechanic wanted to farm full-time; solar sites gave his sheep...","National News","Sep 12, 2026","Solar grazing offers new opportunities for small livestock farmers across the American South. This practice uses sheep to manage vegetation beneath solar panels, benefiting both farmers and solar companies. Farmers gain access to pasture and income, while companies reduce maintenance costs and equipment damage risks. A Tennessee mechanic became a f...","https://timesofindia.indiatimes.com/world/us/a-27-year-old-tennessee-diesel-mechanic-wanted-to-farm-full-time-solar-sites-gave-his-sheep-400-acres-to-graze-letting-him-quit-his-job-and-build-a-300-ewe-flock/articleshow/134076926.cms"],t.w)
-B.Qp=new A.S(B.m,["Thames Valley Police uncover \xa31.3m cannabis farm in abandoned BHS store in Slough with 1,700 plants","National News","Sep 12, 2026","Thames Valley Police uncovered a \xa31.3 million cannabis factory inside a disused BHS store in Slough, finding more than 1,700 plants across two floors. The crop had a potential yield of 150.27kg and an estimated street value of \xa31.288 million. Two men pleaded guilty and were sentenced to 14 months in prison.","https://timesofindia.indiatimes.com/world/uk/thames-valley-police-uncover-1-3-million-cannabis-factory-inside-abandoned-bhs-store-in-slough-with-1700-plants-and-potential-150kg-yield-two-men-jailed-for-14-months/articleshow/134078515.cms"],t.w)
-B.Qg=new A.S(B.m,["India calls for local currency trade among BRICS to enhance economic resilience","National News","Sep 12, 2026","External Affairs Minister Jaishankar emphasized self-reliance amid global economic challenges.","https://www.hindustantimes.com/india-news/india-calls-for-local-currency-trade-among-brics-to-enhance-economic-resilience-101789186262013.html"],t.w)
-B.Rb=new A.S(B.m,["'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'","National News","Sep 12, 2026","CJP's Saurav Das had led a delegation of the pressure group to Punjab, where they assessed the state of government schools","https://www.hindustantimes.com/india-news/congress-sachin-pilot-dares-cjp-to-audit-punjab-school-with-same-eyes-as-other-states-101789185739881.html"],t.w)
-B.QX=new A.S(B.m,["Kulbhushan Bhardwaj elected Gurugram District Bar Association president","National News","Sep 12, 2026","Kulbhushan Bhardwaj was elected Gurugram District Bar Association president, defeating Vinod Rao by 244 votes in Friday\u2019s election.","https://www.hindustantimes.com/india-news/kulbhushan-bhardwaj-elected-gurugram-district-bar-association-president-101789187306451.html"],t.w)
-B.Qa=new A.S(B.m,["Prison personnel among 7 held for supply of phone, SIM card to ex-MP Prajwal Revanna","National News","Sep 12, 2026","Investigators tracing the device and SIM card have found links to the DJ Halli area and are probing the roles of intermediaries, inmates and prison personnel.","https://www.hindustantimes.com/india-news/prison-personnel-among-7-held-for-supply-of-phone-sim-card-to-ex-mp-prajwal-revanna-rape-convict-101789186522538.html"],t.w)
-B.Qc=new A.S(B.m,["HT Morning Brief September 12: Xi Jinping headed to India, contractual worker in focus in PNB fake notes case and more","National News","Sep 12, 2026","From Indian and major global developments to the latest from sports and entertainment, stay up to date with everything you need to know in our news brief.","https://www.hindustantimes.com/india-news/ht-morning-brief-september-12-xi-jinping-headed-to-india-contractual-worker-in-focus-in-pnb-fake-notes-case-and-more-101789183707011.html"],t.w)
-B.R3=new A.S(B.m,["Harish Rawat quits Congress posts after ED raids on PA: \u2018No weakness should come\u2019","National News","Sep 12, 2026","The ED raided premises linked to Jeena over alleged irregularities in a recruitment examination conducted by the UKSSSC in 2016.","https://www.hindustantimes.com/india-news/harish-rawat-quits-congress-posts-after-ed-raids-on-pa-no-weakness-should-come-101789185021951.html"],t.w)
-B.QW=new A.S(B.m,["Banks to remain closed for 4 days from today; Check state-wise list of holidays","National News","Sep 12, 2026","The holidays include the second Saturday of the month, Sunday, Ganesh Chaturthi and Nuakhai.","https://www.hindustantimes.com/india-news/are-banks-open-today-bank-holiday-list-odisha-goa-maharashtra-tamil-nadu-ganesh-chaturthi-nuakhai-second-saturday-sunday-101789180105552.html"],t.w)
-B.QJ=new A.S(B.m,["China signals push to reset ties as Xi Jinping visits India, vows to 'properly handle differences'","National News","Sep 12, 2026","Xu Feihong talked about handling differences and mutual cooperation in a post on X hours before Xi Jinping\u2019s visit to India for the BRICS Summit on Saturday.","https://www.hindustantimes.com/india-news/china-signals-push-to-reset-ties-as-xi-jinping-visits-india-vows-to-properly-handle-differences-101789181932170.html"],t.w)
-B.Qs=new A.S(B.m,["Modi-Xi meeting at BRICS: Where do India-China ties stand today?","National News","Sep 12, 2026","PM Modi and President Xi Jinping are set to meet at the BRICS Summit in New Delhi, marking Xi's first visit to India in seven years.&nbsp;","https://www.hindustantimes.com/india-news/modixi-meeting-at-brics-where-do-india-china-ties-stand-today-101789130939905.html"],t.w)
-B.R2=new A.S(B.m,["Expand use of local currencies to tackle sanctions, enhance economic integration: Iran President in India","National News","Sep 12, 2026","At a BRICS forum, Pezeshkian highlighted geopolitical uncertainty, supply chain disruptions and \u201cincreasing use of instruments to exert political pressure\u201d.&nbsp;","https://www.hindustantimes.com/india-news/expand-use-of-local-currencies-to-tackle-sanctions-iran-president-masoud-pezeshkian-pm-modi-in-india-brics-summit-101789181078741.html"],t.w)
-B.Qm=new A.S(B.m,["BRICS summit 2026 LIVE updates: Chinese airline resumes Guangzhou to New Delhi flights ahead of Modi-Xi meet today","National News","Sep 12, 2026","BRICS summit 2026 LIVE updates: Chinese President Xi Jinping has reportedly left Beijing for New Delhi at the invitation of Prime Minister Narendra Modi. The two leaders are expected to meet on the sidelines of the two-day BRICS summit on Saturday.","https://www.hindustantimes.com/india-news/brics-summit-india-live-updates-modi-xi-jinping-putin-pezeshkian-china-russia-new-delhi-bharat-mandapam-police-traffic-101789179441620.html"],t.w)
-B.QE=new A.S(B.m,["PM Modi, Xi Jinping to meet in India after 7 years: Arunachal border, mega dam, bilateral ties on agenda","National News","Sep 12, 2026","While both India and China have taken several steps towards ties normalisation in recent years, differences remain on a range of issues.","https://www.hindustantimes.com/india-news/pm-modi-xi-jinping-meet-in-india-after-7-years-arunachal-border-mega-dam-and-ties-what-s-on-agenda-101789176751123.html"],t.w)
-B.Qv=new A.S(B.m,["Keralam CM holds emergency meet over power crisis, minister appeals for cooperation","National News","Sep 12, 2026","Keralam chief minister VD Satheesan on Friday chaired an emergency review meeting to address the power crisis in the state, even as electricity minister Sunny Joseph appealed for co-operation and flagged declining generation and high consumption due to charging of electric vehicles, low rainfall and use of air-conditioners and coolers","https://www.hindustantimes.com/india-news/keralam-cm-holds-emergency-meet-over-power-crisis-minister-appeals-for-cooperation-101789156040305.html"],t.w)
-B.QI=new A.S(B.m,["Kids waiting for safer classrooms forced outdoors in Raichur","National News","Sep 12, 2026","Nearly 190 children at a government school on the outskirts of Raichur city have been attending classes outside for months after unsafe classrooms were demolished, with reconstruction still awaiting the release of  \u20b91","https://www.hindustantimes.com/india-news/kids-waiting-for-safer-classrooms-forced-outdoors-in-raichur-101789156039573.html"],t.w)
-B.QZ=new A.S(B.m,["ED seizes  \u20b93 crore in 18 searches; Jarkiholi denies wrongdoing","National News","Sep 12, 2026","State PWD minister Satish Jarkiholi said on Thursday that cash seized by the Enforcement Directorate (ED) belonged to his family and that he would produce records to explain its source, as searches spanning nearly 37 hours at 18 properties linked to him and his associates ended","https://www.hindustantimes.com/india-news/ed-seizes-3-crore-in-18-searches-jarkiholi-denies-wrongdoing-101789155922540.html"],t.w)
-B.Q6=new A.S(B.m,["BRS women MLAs file complaint with NHRC, NCW over ill treatment by police","National News","Sep 12, 2026","A delegation of women lawmakers from Bharat Rashtra Samithi (BRS) on Friday lodged a complaint with the National Human Rights Commission (NHRC) and the National Commission for Women (NCW), alleging that they were subjected to \u201cindecent\u201d and \u201chumiliating\u201d treatment by police personnel at the Telangana assembly entrance on September 7","https://www.hindustantimes.com/india-news/brs-women-mlas-file-complaint-with-nhrc-ncw-over-ill-treatment-by-police-101789155739576.html"],t.w)
-B.Re=new A.S(B.m,["Retd havildar held for theft of assault rifles, pistols from T\u2019gana cantonment","National News","Sep 12, 2026","Telangana police arrested a retired army havildar in connection with the theft of a large cache of firearms and ammunition from the Bell of Arms at the 20 battalion Madras Regiment\u2019s headquarters at Secunderabad cantonment on the intervening night of August 30 and 31, police said on Friday","https://www.hindustantimes.com/india-news/retd-havildar-held-for-theft-of-assault-rifles-pistols-from-t-gana-cantonment-101789155680910.html"],t.w)
-B.Rk=new A.S(B.m,["8 mn adolescent girls given hpv vaccine in past six months: Govt","National News","Sep 12, 2026","India has vaccinated 8 million adolescent girls in the past six months against the Human Papillomavirus (HPV) under the National HPV Vaccination Campaign, aimed at preventing cervical cancer, Union ministry of health and family welfare announced on Friday","https://www.hindustantimes.com/india-news/8-mn-adolescent-girls-given-hpv-vaccine-in-past-six-months-govt-101789153579112.html"],t.w)
-B.Qi=new A.S(B.m,["3 foreign flagged ships with Indian crew attacked amid Iran war","National News","Sep 12, 2026","Zimbabwe flagged crude oil tanker Riesco, Palau flagged LPG Carrier Horizon 1 and Liberian flagged crude oil tanker Mersin Prosperity were reportedly hit.","https://www.hindustantimes.com/india-news/3-ships-with-indian-crew-hit-amid-w-asia-conflict-101789153459761.html"],t.w)
-B.Rh=new A.S(B.m,["Contractual worker at centre of  \u20b917-cr note swap","National News","Sep 12, 2026","A contract worker, earning around  \u20b911,000 a month has emerged key to the investigation of counterfeit currency of  \u20b917","https://www.hindustantimes.com/india-news/contractual-worker-at-centre-of-17-cr-note-swap-101789153339870.html"],t.w)
-B.Qx=new A.S(B.m,["Retd havildar held for theft of assault rifles, pistols from T\u2019gana armoury","National News","Sep 12, 2026","Telangana police arrested a retired army havildar for allegedly in connection with the theft of a large cache of firearms and ammunition from the Bell of Arms at the 20 battalion Madras Regiment\u2019s headquarters at Secunderabad cantonment on the intervening night of August 30 and 31, police said on Friday","https://www.hindustantimes.com/india-news/retd-havildar-held-for-theft-of-assault-rifles-pistols-from-t-gana-armoury-101789153099423.html"],t.w)
-B.Qt=new A.S(B.m,["HC notice to UP over demolition of mosque","National News","Sep 12, 2026","The Allahabad high court on Friday sought the response of the Uttar Pradesh government on a petition challenging the demolition of a mosque on the Collectorate premises in Saharanpur","https://www.hindustantimes.com/india-news/hc-notice-to-up-over-demolition-of-mosque-101789152979467.html"],t.w)
-B.QV=new A.S(B.m,["HAL set to deliver 4 Dhruv NG choppers to Pawan Hans in big civil aviation expansion","National News","Sep 12, 2026","The development comes as HAL targets deriving 25% of its turnover from non-military business over the next decade; the figure currently stands at 5%.","https://www.hindustantimes.com/india-news/hal-set-to-deliver-4-dhruv-ng-helicopters-to-pawan-hans-101789152921213.html"],t.w)
-B.R9=new A.S(B.m,["Blunt force to the chest, abdomen: What autopsy of Manipuri musician killed in Delhi reveals","National News","Sep 12, 2026","The postmortem revealed blunt force injuries, internal bleeding, and fractured ribs. Police arrested seven suspects, charging them under laws for mob lynching.","https://www.hindustantimes.com/india-news/blunt-force-to-the-chest-abdomen-what-autopsy-of-manipuri-musician-killed-in-delhi-reveals-101789149094822.html"],t.w)
-B.Ra=new A.S(B.m,["SC clears Chintels Paradiso redevelopment in Ggm, residents to vacate by Jan","National News","Sep 12, 2026","The Supreme Court has cleared the way for reconstruction of the Chintels Paradiso housing project in Gurugram, directing residents who continue to occupy flats declared unsafe after a roof collapse in 2022 to vacate by January 1, 2027","https://www.hindustantimes.com/india-news/sc-clears-chintels-paradiso-redevelopment-in-ggm-residents-to-vacate-by-jan-101789148478844.html"],t.w)
-B.QR=new A.S(B.m,["Delhi court convicts 5 men for assault on cops, unlawful assembly during 2020 riots","National News","Sep 12, 2026","The judge found them guilty of rioting and obstructing public servants but acquitted them of charges related to setting a petrol pump on fire.&nbsp;","https://www.hindustantimes.com/india-news/delhi-court-convicts-5-men-for-assault-on-cops-unlawful-assembly-during-2020-riots-101789176985608.html"],t.w)
-B.QF=new A.S(B.m,["Ex-fiance may face trial in Miss India winner Nafisa Joseph's 2004 suicide as HC rejects discharge plea","National News","Sep 12, 2026","The court stated that the allegations could only be resolved during a trial as sufficient grounds exist to proceed against him.","https://www.hindustantimes.com/india-news/businessman-gautam-khanduja-may-face-trial-in-model-nafisa-joseph-2004-suicide-as-hc-rejects-discharge-plea-ex-fiance-101789176045807.html"],t.w)
-B.Qz=new A.S(B.m,["Bangladesh says reviewing 101 pacts signed with India: 'Outcome very very soon'","National News","Sep 12, 2026","Nurul Islam Moni also expressed displeasure over India\u2019s failure to invite Prime Minister Tarique Rahman to the ongoing Brics summit in Delhi","https://www.hindustantimes.com/india-news/bangladesh-reviewing-101-pacts-signed-with-india-bnp-chief-whip-tarique-rahman-brics-summit-101789175836421.html"],t.w)
-B.R_=new A.S(B.m,["SC stays reinstatement of officer accused of clearing running track at Delhi stadium to walk dog","National News","Sep 12, 2026","The officer and her husband were accused of clearing the running track at south Delhi\u2019s Thyagaraj Stadium to walk their dog.","https://www.hindustantimes.com/india-news/sc-stays-reinstatement-of-officer-accused-of-clearing-running-track-at-delhi-thyagaraj-stadium-to-walk-dog-rinku-dhugga-101789175489053.html"],t.w)
-B.Rf=new A.S(B.m,["\u2018India building economic bridges\u2019: PM Modi hails country's business push at BRICS forum","National News","Sep 12, 2026","PM Modi's statement acquires significance in the context of disruptions to global trade over the past 18 months.","https://www.hindustantimes.com/india-news/india-building-economic-bridges-pm-modi-hails-countrys-business-push-at-brics-forum-101789174968245.html"],t.w)
-B.Mp=s([B.Ql,B.Q9,B.Qj,B.Qd,B.QN,B.Qr,B.QM,B.Qe,B.Q7,B.QO,B.Rj,B.QB,B.QT,B.Qy,B.QU,B.QS,B.Qh,B.R0,B.QA,B.Q5,B.Rg,B.Qk,B.QD,B.Qq,B.R6,B.Qf,B.R4,B.Q8,B.QG,B.Ri,B.Qu,B.QK,B.QP,B.R7,B.Rc,B.QL,B.Rl,B.QQ,B.QC,B.R1,B.Qn,B.Qw,B.QH,B.R5,B.Qb,B.QY,B.Qo,B.Rd,B.R8,B.Qp,B.Qg,B.Rb,B.QX,B.Qa,B.Qc,B.R3,B.QW,B.QJ,B.Qs,B.R2,B.Qm,B.QE,B.Qv,B.QI,B.QZ,B.Q6,B.Re,B.Rk,B.Qi,B.Rh,B.Qx,B.Qt,B.QV,B.R9,B.Ra,B.QR,B.QF,B.Qz,B.R_,B.Rf],t.SN)
 B.bh=new A.lc(0,"label")
 B.b1=new A.lc(1,"avatar")
 B.c0=new A.lc(2,"deleteIcon")
-B.Mq=s([B.bh,B.b1,B.c0],A.Y("E<lc>"))
-B.Mr=s(["Noto Color Emoji","Noto Sans Symbols","Noto Sans SC","Noto Sans TC","Noto Sans HK","Noto Sans JP","Noto Sans KR"],t.s)
+B.Mp=s([B.bh,B.b1,B.c0],A.Y("E<lc>"))
+B.Mq=s(["Noto Color Emoji","Noto Sans Symbols","Noto Sans SC","Noto Sans TC","Noto Sans HK","Noto Sans JP","Noto Sans KR"],t.s)
 B.Vh=new A.bJ(0)
 B.lb=new A.bJ(1)
 B.Vr=new A.bJ(2)
@@ -100138,7 +100056,7 @@ B.VI=new A.bJ(37)
 B.VJ=new A.bJ(38)
 B.VK=new A.bJ(39)
 B.VL=new A.bJ(40)
-B.Mt=s([B.Vh,B.lb,B.Vr,B.vQ,B.Ve,B.Vf,B.VM,B.lc,B.Vg,B.VN,B.Vi,B.Vj,B.Vk,B.Vl,B.Vm,B.Vn,B.Vo,B.vR,B.Vp,B.Vq,B.Vs,B.Vd,B.Vt,B.Vu,B.Vv,B.Vw,B.Vx,B.Vy,B.Vz,B.VA,B.VB,B.VC,B.VD,B.VE,B.VF,B.VG,B.VH,B.VI,B.VJ,B.VK,B.VL],t.o_)
+B.Ms=s([B.Vh,B.lb,B.Vr,B.vQ,B.Ve,B.Vf,B.VM,B.lc,B.Vg,B.VN,B.Vi,B.Vj,B.Vk,B.Vl,B.Vm,B.Vn,B.Vo,B.vR,B.Vp,B.Vq,B.Vs,B.Vd,B.Vt,B.Vu,B.Vv,B.Vw,B.Vx,B.Vy,B.Vz,B.VA,B.VB,B.VC,B.VD,B.VE,B.VF,B.VG,B.VH,B.VI,B.VJ,B.VK,B.VL],t.o_)
 B.aK=new A.f_(0,"icon")
 B.b2=new A.f_(1,"input")
 B.ae=new A.f_(2,"label")
@@ -100150,7 +100068,7 @@ B.aT=new A.f_(7,"suffixIcon")
 B.bK=new A.f_(8,"helperError")
 B.bL=new A.f_(9,"counter")
 B.cC=new A.f_(10,"container")
-B.My=s([B.aK,B.b2,B.ae,B.b7,B.b8,B.b9,B.ab,B.aT,B.bK,B.bL,B.cC],A.Y("E<f_>"))
+B.Mx=s([B.aK,B.b2,B.ae,B.b7,B.b8,B.b9,B.ab,B.aT,B.bK,B.bL,B.cC],A.Y("E<f_>"))
 B.OC=new A.r7("en",null,"US")
 B.p3=s([B.OC],t.ss)
 B.p4=s([0,41,61,101,131,181,251,301,360],t.n)
@@ -100166,24 +100084,24 @@ B.Cr=new A.LO(2,"outer")
 B.ny=new A.H(0.09803921568627451,0,0,0,B.e)
 B.f=new A.j(0,0)
 B.D3=new A.bF(0.2,B.Cr,B.ny,B.f,11)
-B.MI=s([B.D3],t.F)
+B.MH=s([B.D3],t.F)
 B.AD=new A.Fc(0,"left")
 B.AE=new A.Fc(1,"right")
-B.MK=s([B.AD,B.AE],A.Y("E<Fc>"))
+B.MJ=s([B.AD,B.AE],A.Y("E<Fc>"))
 B.a0=new A.Fp(0,"upstream")
-B.MM=s([B.a0,B.j],A.Y("E<Fp>"))
+B.ML=s([B.a0,B.j],A.Y("E<Fp>"))
 B.am=new A.Ft(0,"rtl")
 B.T=new A.Ft(1,"ltr")
 B.kF=s([B.am,B.T],A.Y("E<Ft>"))
 B.Ey=new A.uI(0,"auto")
 B.Ez=new A.uI(1,"full")
 B.EA=new A.uI(2,"chromium")
-B.MR=s([B.Ey,B.Ez,B.EA],A.Y("E<uI>"))
+B.MQ=s([B.Ey,B.Ez,B.EA],A.Y("E<uI>"))
 B.cD=new A.k4(0,"leading")
 B.by=new A.k4(1,"title")
 B.cE=new A.k4(2,"subtitle")
 B.e8=new A.k4(3,"trailing")
-B.MT=s([B.cD,B.by,B.cE,B.e8],A.Y("E<k4>"))
+B.MS=s([B.cD,B.by,B.cE,B.e8],A.Y("E<k4>"))
 B.t={title:0,summary:1,pdfUrl:2}
 B.Su=new A.S(B.t,["Historical Background","Regulating Act 1773, Pitt\u2019s India Act 1784, Charter Acts (1813, 1833, 1853). Crown Rule: Govt of India Act 1858, Indian Councils Acts, Morley-Minto Reforms 1909, Montagu-Chelmsford 1919, GOI Act 1935.",""],t.w)
 B.ST=new A.S(B.t,["Making of the Constitution","Demand for Constituent Assembly (M.N. Roy, 1934). Cabinet Mission Plan. Drafting Committee headed by Dr. B.R. Ambedkar. Adopted on Nov 26, 1949.",""],t.w)
@@ -100224,9 +100142,9 @@ B.Kw=new A.cQ(B.K1,null,null,null,null)
 B.K0=new A.bW(58513,"MaterialIcons",!1)
 B.Kz=new A.cQ(B.K0,null,null,null,null)
 B.CD=new A.nk(B.Kw,B.Kz,"Profile")
-B.MW=s([B.CF,B.CE,B.CB,B.CC,B.CD],A.Y("E<nk>"))
+B.MV=s([B.CF,B.CE,B.CB,B.CC,B.CD],A.Y("E<nk>"))
 B.b6=new A.fs(1,"fuchsia")
-B.MX=s([B.a3,B.b6,B.E,B.b_,B.aa,B.av],A.Y("E<fs>"))
+B.MW=s([B.a3,B.b6,B.E,B.b_,B.aa,B.av],A.Y("E<fs>"))
 B.Bv=new A.xO(0,"topLeft")
 B.By=new A.xO(3,"bottomRight")
 B.a8b=new A.mN(B.Bv,B.By)
@@ -100235,37 +100153,37 @@ B.Bw=new A.xO(1,"topRight")
 B.Bx=new A.xO(2,"bottomLeft")
 B.a8c=new A.mN(B.Bw,B.Bx)
 B.a8d=new A.mN(B.Bx,B.Bw)
-B.MY=s([B.a8b,B.a8e,B.a8c,B.a8d],A.Y("E<mN>"))
+B.MX=s([B.a8b,B.a8e,B.a8c,B.a8d],A.Y("E<mN>"))
 B.kG=s(["UPSC","State PCS","RO / ARO","High Court","PO"],t.s)
-B.N_=s([35,30,20,25,30,35,30,25,25],t.n)
-B.N2=s(["click","scroll"],t.s)
+B.MZ=s([35,30,20,25,30,35,30,25,25],t.n)
+B.N1=s(["click","scroll"],t.s)
 B.Dr=new A.nb()
 B.i2=new A.RV(1,"page")
 B.i3=new A.eT(B.ba,B.i2)
-B.N3=s([B.Dr,B.i3],A.Y("E<bc>"))
-B.Nd=s([],t.QP)
+B.N2=s([B.Dr,B.i3],A.Y("E<bc>"))
+B.Nc=s([],t.QP)
 B.p9=s([],A.Y("E<b84>"))
-B.N8=s([],t.E)
-B.N9=s([],t.fJ)
-B.N7=s([],t.ER)
+B.N7=s([],t.E)
+B.N8=s([],t.fJ)
+B.N6=s([],t.ER)
 B.a9H=s([],t.ss)
 B.pa=s([],t.tc)
 B.hr=s([],t.jl)
 B.pb=s([],t.wi)
-B.Nf=s([],A.Y("E<kK<@>>"))
+B.Ne=s([],A.Y("E<kK<@>>"))
 B.kH=s([],t.AO)
-B.Ni=s([],t.D1)
+B.Nh=s([],t.D1)
 B.hq=s([],t.QF)
-B.Nh=s([],t.Lx)
-B.Na=s([],t.AS)
-B.Nb=s([],t.p)
-B.N6=s([],t.t)
+B.Ng=s([],t.Lx)
+B.N9=s([],t.AS)
+B.Na=s([],t.p)
+B.N5=s([],t.t)
 B.pc=s([],t.ee)
-B.Ng=s([],t.XS)
-B.Np=s(["calendar","camera","contacts","location","locationAlways","locationWhenInUse","mediaLibrary","microphone","phone","photos","photosAddOnly","reminders","sensors","sms","speech","storage","ignoreBatteryOptimizations","notification","access_media_location","activity_recognition","unknown","bluetooth","manageExternalStorage","systemAlertWindow","requestInstallPackages","appTrackingTransparency","criticalAlerts","accessNotificationPolicy","bluetoothScan","bluetoothAdvertise","bluetoothConnect","nearbyWifiDevices","videos","audio","scheduleExactAlarm","sensorsAlways","calendarWriteOnly","calendarFullAccess","assistant","backgroundRefresh","accessLocalNetwork"],t.s)
+B.Nf=s([],t.XS)
+B.No=s(["calendar","camera","contacts","location","locationAlways","locationWhenInUse","mediaLibrary","microphone","phone","photos","photosAddOnly","reminders","sensors","sms","speech","storage","ignoreBatteryOptimizations","notification","access_media_location","activity_recognition","unknown","bluetooth","manageExternalStorage","systemAlertWindow","requestInstallPackages","appTrackingTransparency","criticalAlerts","accessNotificationPolicy","bluetoothScan","bluetoothAdvertise","bluetoothConnect","nearbyWifiDevices","videos","audio","scheduleExactAlarm","sensorsAlways","calendarWriteOnly","calendarFullAccess","assistant","backgroundRefresh","accessLocalNetwork"],t.s)
 B.hN=new A.j(0,2)
 B.D1=new A.bF(0.75,B.P,B.ny,B.hN,1.5)
-B.Nr=s([B.D1],t.F)
+B.Nq=s([B.D1],t.F)
 B.eN=s([B.cG,B.cq,B.fz,B.fA,B.j5],t.QP)
 B.BQ=new A.iq(0,"unknown")
 B.BR=new A.iq(1,"passwordReset")
@@ -100274,13 +100192,13 @@ B.BT=new A.iq(3,"recoverEmail")
 B.BU=new A.iq(4,"emailSignIn")
 B.BV=new A.iq(5,"verifyAndChangeEmail")
 B.BW=new A.iq(6,"revertSecondFactorAddition")
-B.Nz=s([B.BQ,B.BR,B.BS,B.BT,B.BU,B.BV,B.BW],A.Y("E<iq>"))
+B.Ny=s([B.BQ,B.BR,B.BS,B.BT,B.BU,B.BV,B.BW],A.Y("E<iq>"))
 B.M4=s([0.001200833568784504,0.002389694492170889,0.0002795742885861124],t.n)
-B.N4=s([0.0005891086651375999,0.0029785502573438758,0.0003270666104008398],t.n)
+B.N3=s([0.0005891086651375999,0.0029785502573438758,0.0003270666104008398],t.n)
 B.Mi=s([0.00010146692491640572,0.0005364214359186694,0.0032979401770712076],t.n)
-B.NC=s([B.M4,B.N4,B.Mi],t.zg)
-B.ND=s([45,95,45,20,45,90,45,45,45],t.n)
-B.NE=s([120,120,20,45,20,15,20,120,120],t.n)
+B.NB=s([B.M4,B.N3,B.Mi],t.zg)
+B.NC=s([45,95,45,20,45,90,45,45,45],t.n)
+B.ND=s([120,120,20,45,20,15,20,120,120],t.n)
 B.dC=new A.hV(0,"controlModifier")
 B.dD=new A.hV(1,"shiftModifier")
 B.dE=new A.hV(2,"altModifier")
@@ -100297,7 +100215,89 @@ B.U3=new A.PQ(null)
 B.a0y=new A.SV(null)
 B.NO=new A.Pf(null)
 B.Wz=new A.QH(null)
-B.NG=s([B.Hd,B.U3,B.a0y,B.NO,B.Wz],t.p)
+B.NF=s([B.Hd,B.U3,B.a0y,B.NO,B.Wz],t.p)
+B.m={title:0,category:1,date:2,summary:3,source_url:4}
+B.QV=new A.S(B.m,["Bihar Opposition RJD, ruling JD(U) gear up for upcoming polls to eight legislative Council seats","National News","Sep 13, 2026","The newly-launched Jan Suraaj Party by Prashant Kishor too has announced its decision to contest the upcoming council poll on all eight seats","https://www.thehindu.com/news/national/bihar/bihar-opposition-rjd-ruling-jdu-gear-up-for-upcoming-polls-to-eight-legislative-council-seats/article71460130.ece"],t.w)
+B.R2=new A.S(B.m,["BRICS Summit 2026 LIVE updates: Global leaders express concern about 'growing risks' of nuclear danger and conflict","National News","Sep 13, 2026","The summit, attended by a galaxy of world leaders, assumed greater significance as it unfolded against a backdrop of escalating geopolitical headwinds","https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece"],t.w)
+B.QL=new A.S(B.m,["Kolkata\u2019s Bonedi Bari Durga Pujas stick to \u2018non-veg\u2019; reject Bageshwar Baba\u2019s \u2018veg only\u2019 push","National News","Sep 13, 2026","Since the self-styled godman\u2019s diktat over non-veg food during Durga Pujas, Bengal has seen many heated political and social debates over the issue","https://www.thehindu.com/news/cities/kolkata/kolkatas-bonedi-bari-durga-pujas-stick-to-non-veg-reject-bageshwar-babas-veg-only-push/article71460094.ece"],t.w)
+B.Qi=new A.S(B.m,["Had West Bengal  not been created, we would have suffered fate of Chinmoy Das of Bangladesh, says Suvendu Adhikari","National News","Sep 13, 2026","Chief Minister Suvendu Adhikari targeted both the Left Front and Trinamool Congress government, accusing them of destroying the cultural traditions of Bengali Hindus in the State, and promised to restore the religious and cultural traditions","https://www.thehindu.com/news/national/west-bengal/had-west-bengal-not-been-created-we-would-have-suffered-fate-of-chinmoy-das-of-bangladesh-says-suvendu-adhikari/article71460606.ece"],t.w)
+B.Q8=new A.S(B.m,["BRICS 2026 beyond the Declaration: An Indian feast, Bollywood tunes by the Malaysian PM, and more","National News","Sep 13, 2026","With the diplomatic hurdles cleared early in the evening, the BRICS cohort returned to the decked-out Bharat Mandapam at night for the gala dinner","https://www.thehindu.com/news/national/brics-2026-beyond-the-declaration-an-indian-feast-bollywood-tunes-by-the-malaysian-pm-and-more/article71462466.ece"],t.w)
+B.Qy=new A.S(B.m,["U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian","National News","Sep 13, 2026","\u201cIndia and Iran are two ancient civilisations with centuries-old cultural, intellectual, spiritual and trade relations. He stressed the need to further expand cooperation between the two countries in education, trade, culture, science, technology, connectivity and energy,\u201d Mr. Abbas told The Hindu","https://www.thehindu.com/news/national/up-top-shia-leader-pushes-for-stronger-india-iran-ties-in-meeting-with-president-pezeshkian/article71460722.ece"],t.w)
+B.QY=new A.S(B.m,["M.P. hooch tragedy: Wanted accused caught after brief encounter in Sagar","National News","Sep 13, 2026","The 21-year-old accused, Shivanjay Rajput, who was carrying a bounty of \u20b930,000, suffered a gunshot wound to his leg during the face-off","https://www.thehindu.com/news/national/madhya-pradesh/mp-hooch-tragedy-wanted-accused-caught-after-brief-encounter-in-sagar/article71462516.ece"],t.w)
+B.Rh=new A.S(B.m,["Social media opening doors to child marriages?","National News","Sep 13, 2026","On September 4, 2026, the United Nations General Assembly declared November 27 as the International Day for the Elimination of Child, Early and Forced Marriage. Child rights activists weigh in on what it takes, particularly in the online space, to counter the evil of child marriage","https://www.thehindu.com/news/national/tamil-nadu/social-media-opening-doors-to-child-marriages/article71459183.ece"],t.w)
+B.Qq=new A.S(B.m,["Nadda highlights need for a resilient healthcare system","National News","Sep 13, 2026","It represents two essential dimensions; the capacity to save life when a patient is critically ill and the capacity to detect and respond to disease threats before they become major public health emergencies, says the Union Health Minister","https://www.thehindu.com/news/national/andhra-pradesh/nadda-highlights-need-for-a-resilient-healthcare-system/article71460059.ece"],t.w)
+B.QW=new A.S(B.m,["NMC revises MBBS seat matrix amid continuing approvals and appeals","National News","Sep 13, 2026","The National Medical Commission has given clear instructions to colleges not to admit beyond sanctioned capacity","https://www.thehindu.com/news/national/nmc-revises-mbbs-seat-matrix-amid-continuing-approvals-and-appeals/article71459989.ece"],t.w)
+B.R3=new A.S(B.m,["Health officials sound caution as soaring temperature triggers fresh wave of fever cases in Ernakulam","National News","Sep 13, 2026","The district continues to report the highest number of influenza cases in the State, while dengue and leptospirosis cases also persist","https://www.thehindu.com/news/national/kerala/health-officials-sound-caution-as-soaring-temperature-triggers-fresh-wave-of-fever-cases-in-ernakulam/article71460806.ece"],t.w)
+B.Qv=new A.S(B.m,["Why is NCPCR investigating Meta, Instagram?","National News","Sep 13, 2026","Under what powers can the National Commission for Protection of Child Rights summon social media platforms and other companies?","https://www.thehindu.com/sci-tech/technology/why-is-ncpcr-investigating-meta-instagram/article71461341.ece"],t.w)
+B.QS=new A.S(B.m,["BRICS leaders voice concern over \u2018growing risks\u2019 of nuclear conflict","National News","Sep 13, 2026",'In the \u2018New Delhi Declaration \u2019, the leaders also expressed concerns over the "growing risks of nuclear danger and conflict".',"https://www.thehindu.com/news/national/brics-leaders-voice-concern-over-growing-risks-of-nuclear-conflict/article71462507.ece"],t.w)
+B.Re=new A.S(B.m,["BRICS issues New Delhi Declaration, as UAE and Iran back down from tough positions","National News","Sep 13, 2026","PM chairs BRICS summit, says grouping not \u201cagainst anyone\u201d; holds hour-long meet with Chinese President Xi; declaration calls for \u201cmaximum restraint\u201d in war with no specific mention of strikes; rebukes Israel","https://www.thehindu.com/news/national/brics-issues-new-delhi-declaration-as-uae-and-iran-back-down-from-tough-positions/article71460749.ece"],t.w)
+B.QO=new A.S(B.m,["Review | 5 Stories, Konkani and Kannada anthologies raise the bar for Indian translations","National News","Sep 13, 2026","The translators bend English to the rhythms of Indian languages in these short story collections","https://www.thehindu.com/books/books-reviews/5-stories-konkani-vidya-pai-kannada-susheela-punitha-translation/article71327762.ece"],t.w)
+B.Qf=new A.S(B.m,["Slum settlement in south Delhi veiled for BRICS Summit","National News","Sep 13, 2026","Residents express exasperation with the government\u2019s action in covering up slum settlements rather than investing in welfare programmes that uplift communities from poverty","https://www.thehindu.com/news/national/slum-settlement-in-south-delhi-veiled-for-brics-summit/article71460950.ece"],t.w)
+B.R4=new A.S(B.m,["800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka","National News","Sep 13, 2026","In a Statewide crackdown on child labour on Saturday, police teams and Labour Department officials inspected 16,951 premises across Karnataka and rescued 800 children, all in a matter of two hours, with Bengaluru city alone accounting for 63% of the rescues, at 503","https://www.thehindu.com/news/cities/bangalore/800-child-labourers-503-from-bengaluru-alone-rescued-in-two-hour-crackdown-across-karnataka/article71460926.ece"],t.w)
+B.Rd=new A.S(B.m,["Xi, Modi welcome \u2018steady progress\u2019 in India-China ties","National News","Sep 13, 2026","\u2018Peace and tranquillity\u2019 in border areas essential for development of bilateral relations, says Mr. Modi; Mr. Xi describes India, China as key Global South countries with \u201csignificant responsibilities\u201d","https://www.thehindu.com/news/national/xi-modi-welcome-steady-progress-in-india-china-ties/article71460892.ece"],t.w)
+B.Rk=new A.S(B.m,["West Benagal govt. to revive Chandannagar\u2019s French legacy","National News","Sep 13, 2026","","https://www.thehindu.com/news/national/west-bengal/west-benagal-govt-to-revive-chandannagars-french-legacy/article71460433.ece"],t.w)
+B.Qz=new A.S(B.m,["West Bengal professors oppose Govt.\u2019s inter-university transfer Bill, call it an attack on education","National News","Sep 13, 2026","WBCUTA says arbitrary transfers will weaken universities already facing severe faculty shortages, vows to first write to the Governor, who is also the Cancellor of Universities, and make an appeal","https://www.thehindu.com/news/national/west-bengal/west-bengal-teachers-association-opposes-inter-university-transfer-bill-calls-it-an-attack-on-education/article71460337.ece"],t.w)
+B.Qh=new A.S(B.m,["Power cuts paralyse Punjab rice mills; Oppn. slams AAP over \u2018Roshan Punjab\u2019 promise","National News","Sep 13, 2026","In a statement, Punjab Power Minister Tarunpreet Singh Sond said Punjab is currently receiving 1,051 MW less power against its share from the Central Power pool. The Centre should immediately provide Punjab its due share, he added","https://www.thehindu.com/news/national/punjab/power-cuts-paralyse-punjab-rice-mills-opon-slams-aap-over-roshan-punjab-promise/article71460277.ece"],t.w)
+B.Q5=new A.S(B.m,["Police team attacked by angry villagers in Bihar\u2019s Sitamarhi after husband of ward councillor shot dead by criminals","National News","Sep 13, 2026","Villagers claimed that the liquor mafia was behind the shooting; the SP office claimed that after an earlier firing incident on Baidyanath Mahto, one accused had surrendered before the Court, and proceedings were under way to obtain warrants against the other accused","https://www.thehindu.com/news/national/bihar/police-team-attacked-by-angry-villagers-in-bihars-sitamarhi-after-husband-of-ward-councillor-shot-dead-by-criminals/article71460092.ece"],t.w)
+B.QQ=new A.S(B.m,["Govt. employee quitting to fight polls can\u2019t seek reinstatement: Rajasthan High Court","National News","Sep 13, 2026","The Court also upheld the finding of the Central Administrative Tribunal that contesting the election as a political party\u2019s candidate violated the requirement of maintaining political neutrality","https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"],t.w)
+B.Rf=new A.S(B.m,["Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out \u2018selective outrage\u2019","National News","Sep 13, 2026","The former J&K chief said the suffering of civilians in Pahalgam, Gaza or Iran cannot be viewed through different moral or political lenses; \u201ccivilian blood has no nationality, and international justice cannot have double standards,\u201d she added","https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terror-attack-but-calls-out-selective-outrage/article71461116.ece"],t.w)
+B.QU=new A.S(B.m,["Congress claims NSUI's victory in Garhwal university student union polls","National News","Sep 13, 2026","K.C. Venugopal claimed that the BJP will face a similar fate in the upcoming Delhi University Students' Union elections, where the NSUI panel will emerge victorious with massive margins","https://www.thehindu.com/news/national/uttarakhand/congress-claims-nsuis-victory-in-garhwal-university-student-union-polls/article71461373.ece"],t.w)
+B.Qu=new A.S(B.m,["'Millet pulao', 'paneer lababdar', 'shahtoot phirni': BRICS Summit gala dinner menu","National News","Sep 13, 2026","The dinner was hosted by Prime Minister Narendra Modi at the Bharat Mandapam on September 12, 2026","https://www.thehindu.com/news/national/brics-summit-gala-dinner-menu/article71461293.ece"],t.w)
+B.Qg=new A.S(B.m,["Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress","National News","Sep 13, 2026","On his reasons to switch over, Guru Dhaldas Saheb said the BJP was not acting according to the principles of Guru Baba Ghasidas; expressed interest in contesting the 2028 Assembly polls","https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-bjp-ministers-brother-guru-dhaldas-saheb-joins-congress/article71460770.ece"],t.w)
+B.Qr=new A.S(B.m,["Jamia hostel protest over mess food escalates; varsity denies assault charges","National News","Sep 13, 2026","University officials claimed that some students broke two hostel gates and manhandled members of the proctorial team","https://www.thehindu.com/news/cities/Delhi/jamia-hostel-protest-aisa-claims-students-assaulted-university-refutes-charge/article71459572.ece"],t.w)
+B.QP=new A.S(B.m,["Dipke\xa0visits families in M.P.\u2019s\xa0Balaghat, puts lens on tribal children\u2019s deaths","National News","Sep 13, 2026","Mr. Dipke\u2019s visit comes days after the Madhya Pradesh High Court issued notices to the State government over the deaths of more than 30 children, allegedly due to infectious diseases","https://www.thehindu.com/news/national/madhya-pradesh/balaghat-child-deaths-cjp-convernor-dipke-visits-tribal-villages-demands-accountability/article71459426.ece"],t.w)
+B.QI=new A.S(B.m,["Kerala Assistant Public Prosecutors Association gets new office-bearers","National News","Sep 13, 2026","","https://www.thehindu.com/news/national/kerala/kerala-assistant-public-prosecutors-association-gets-new-office-bearers/article71459804.ece"],t.w)
+B.R8=new A.S(B.m,["Three years before 9/11, CIA warned Clinton that Bin Laden wanted to strike India","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/india/three-years-before-9/11-cia-warned-clinton-that-bin-laden-wanted-to-strike-india/articleshow/134176092.cms"],t.w)
+B.R0=new A.S(B.m,["Two giant dams starved the Danube Delta of sediment for decades","National News","Sep 13, 2026","The Danube's sediment supply to its delta has significantly decreased due to upstream engineering works. Large dams like the Iron Gates trap sediment, altering the natural balance of the delta. This reduction in material has led to increased coastal erosion along the delta's seaward edge. Recently, ten obsolete dams were removed from smaller rivers...","https://timesofindia.indiatimes.com/world/europe/two-giant-dams-changed-europes-second-longest-river-decades-later-scientists-found-the-danube-delta-was-being-starved-of-sediment/articleshow/134176427.cms"],t.w)
+B.Ra=new A.S(B.m,["Owens Slams Erika Kirk: Conservative firebrand alleges \u2018biggest betrayer\u2019; rift over Charlie\u2019s legacy","National News","Sep 13, 2026","Candace Owens has intensified her public feud with Erika Kirk, claiming Charlie Kirk was \u201cbetrayed\u201d and naming his wife as his \u201cbiggest betrayer.\u201d Owens said she initially expected Turning Point USA and Erika to help uncover answers after Charlie\u2019s death but later felt shut out. She also alleged that people connected to Erika targeted her. These re...","https://timesofindia.indiatimes.com/world/us-streamers/it-would-be-his-wife-candace-owens-accuses-erika-kirk-of-turning-against-charlie-kirks-legacy/articleshow/134163946.cms"],t.w)
+B.R6=new A.S(B.m,["Alleged Auto Theft Booking: US YouTuber reportedly in custody; online campaign backs Brandon\u2019s release","National News","Sep 13, 2026","YouTuber Brandon Buckingham was reportedly arrested in Louisiana on an alleged \u201cTheft of Auto/Vehicle\u201d charge, according to a booking notice shared online. The Washington Parish Sheriff's Office was reportedly listed as the booking agency, with no bond set at the time. Buckingham\u2019s official X account responded with \u201cFree Brandon\u201d and promoted merch...","https://timesofindia.indiatimes.com/world/us-streamers/why-was-youtuber-brandon-buckingham-arrested-the-alleged-auto-theft-charge-and-latest-details-explained/articleshow/134164237.cms"],t.w)
+B.QA=new A.S(B.m,["Vanuatu ferry sinks in bad weather; one dead, more than 30 missing","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/rest-of-world/vanuatu-ferry-sinks-in-bad-weather-one-dead-more-than-30-missing/articleshow/134172836.cms"],t.w)
+B.Qb=new A.S(B.m,["Break-in attempt at Kamala Harris' Malibu house; woman intercepted by security","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/us/break-in-attempt-at-kamala-harris-malibu-house-woman-intercepted-by-security/articleshow/134172302.cms"],t.w)
+B.Qd=new A.S(B.m,["Mass protests erupt in Germany as AfD eyes breakthrough in eastern states","National News","Sep 13, 2026","A massive turnout in Erfurt, Germany saw protesters actively blocking access to the AfD's annual conference, showcasing a strong opposition to the far-right party's agenda. The AfD's lead in national opinion polls and its upcoming eastern state election objectives raise alarms over its increasing power. Mainstream parties continue to adopt a strate...","https://timesofindia.indiatimes.com/world/europe/mass-protests-erupt-in-germany-as-afd-eyes-breakthrough-in-eastern-states/articleshow/134171697.cms"],t.w)
+B.Rc=new A.S(B.m,["Toll in Philippines ferry fire rises to 76; 13 missing","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/rest-of-world/toll-in-philippines-ferry-fire-rises-to-76-13-missing/articleshow/134167941.cms"],t.w)
+B.Qs=new A.S(B.m,["Amid climate change, more Brits ditch tea for ice cream","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/uk/amid-climate-change-more-brits-ditch-tea-for-ice-cream/articleshow/134167722.cms"],t.w)
+B.QF=new A.S(B.m,["Zelensky ready to meet Putin at G20","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/europe/zelensky-ready-to-meet-putin-at-g20/articleshow/134167553.cms"],t.w)
+B.Qe=new A.S(B.m,["Capgemini sells subsidiary after row over ICE ties","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/us/capgemini-sells-subsidiary-after-row-over-ice-ties/articleshow/134167295.cms"],t.w)
+B.Qa=new A.S(B.m,["PIO missing in Nepal; help denied as he holds Indian passport: UK MP","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/uk/pio-missing-in-nepal-help-denied-as-he-holds-indian-passport-uk-mp/articleshow/134166737.cms"],t.w)
+B.QM=new A.S(B.m,["Houthis called us to say they don't want to fight US: Trump","National News","Sep 13, 2026","US Prez: Iran Likely Behind Attack On Oil Pipeline","https://timesofindia.indiatimes.com/world/middle-east/houthis-called-us-to-say-they-dont-want-to-fight-us-trump/articleshow/134166241.cms"],t.w)
+B.Ri=new A.S(B.m,["AI development needs to slow down: Dario, Altman &amp; Musk","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/us/ai-development-needs-to-slow-down-dario-altman-musk/articleshow/134164439.cms"],t.w)
+B.Qn=new A.S(B.m,["Bali bans Australian tourist Billy Aspinall for 10 years after CCTV allegedly captures public sex act; locals perform purifying rituals","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/rest-of-world/bali-bans-australian-tourist-billy-aspinall-for-10-years-after-cctv-allegedly-captures-public-sex-act-locals-perform-purifying-rituals/articleshow/134156391.cms"],t.w)
+B.R5=new A.S(B.m,["Proposal of $100K OPT fee clears White House review: Here's what happens next?","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/us/proposal-of-100k-opt-fee-clears-white-house-review-heres-what-happens-next/articleshow/134155150.cms"],t.w)
+B.QK=new A.S(B.m,["Donald Trump says son Don Jr has \u2018calmed down\u2019 since marrying Bettina Anderson: \u2018He\u2019s like a different human being\u2019","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/us/donald-trump-says-son-don-jr-has-calmed-down-since-marrying-bettina-anderson-hes-like-a-different-human-being/articleshow/134152400.cms"],t.w)
+B.QH=new A.S(B.m,["Georgia police officer who killed 1-year-old donkey HeeHaw says the miniature donkey charged at him; owner says 'he was my kid'","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/us/georgia-police-officer-who-killed-1-year-old-donkey-heehaw-says-the-miniature-donkey-charged-at-him-owner-says-he-was-my-kid/articleshow/134151596.cms"],t.w)
+B.Qm=new A.S(B.m,["Trout stocking pushed Sierra Nevada yellow-legged frogs from 92% of their range","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/science/wildlife/from-1870-to-1988-california-stocked-mountain-lakes-with-trout-for-anglers-the-fish-helped-push-yellow-legged-frogs-from-92-of-their-historic-sierra-nevada-range/articleshow/134070933.cms"],t.w)
+B.Qp=new A.S(B.m,["16-year-old uses AI to map pollution and drive countywide policy change","National News","Sep 13, 2026","","https://timesofindia.indiatimes.com/world/us/meet-kelly-liu-the-16-year-old-san-jose-student-who-used-ai-to-map-dirty-air-put-pollution-sensors-in-underserved-schools-and-helped-push-a-countywide-policy-change/articleshow/134025292.cms"],t.w)
+B.Ql=new A.S(B.m,["Harish Rawat offers to quit 2 Congress posts after ED seizes his PA\u2019s assets","National News","Sep 13, 2026","Harish Rawat said he may step down from two Congress positions after ED raids on his aide recovered  \u20b932 lakh and luxury watches in a recruitment exam probe.","https://www.hindustantimes.com/india-news/harish-rawat-congress-posts-resignation-ed-raids-personal-assistant-chandan-singh-jeena-uttarakhand-exam-probe-101789273249852.html"],t.w)
+B.QN=new A.S(B.m,["Work on proposed national museum gathers pace, 350+ artisans and firms join project","National News","Sep 13, 2026","Over 350 participants joined government programmes exploring crafts, immersive technology and industry partnerships for the proposed New Delhi museum.","https://www.hindustantimes.com/india-news/yuge-yugeen-bharat-museum-new-delhi-artisans-designers-technology-firms-shilpkar-samagam-vendor-development-programme-101789270902046.html"],t.w)
+B.QX=new A.S(B.m,["\u2018Murdered\u2019 woman in Bihar turns up alive in Jharkhand, was living with lover","National News","Sep 13, 2026","The body of an unidentified woman was recovered from a canal near Khanda village. The woman\u2019s brother identified the body as his sister\u2019s.","https://www.hindustantimes.com/india-news/murdered-woman-in-bihar-turns-up-alive-in-jharkhand-was-living-with-lover-101789273010366.html"],t.w)
+B.Q6=new A.S(B.m,["India-UAE push for stronger bilateral ties, investment at BRICS summit","National News","Sep 13, 2026","Crown Prince Khaled, heir to UAE President Mohamed bin Zayed, is representing the Emirates at the BRICS Summit as his father was away on a visit to Germany.","https://www.hindustantimes.com/india-news/brics-summit-india-uae-pm-narendra-modi-abu-dhabi-khaled-bin-mohamed-101789269359435.html"],t.w)
+B.Rl=new A.S(B.m,["HT Morning Brief September 13: New Delhi Declaration at BRICS; Xi's peace plan; India faces Sri Lanka in Asia Cup final","National News","Sep 13, 2026","From the major global developments to the latest from the worlds of sports and entertainment, stay up to date with everything you need to know in our news brief","https://www.hindustantimes.com/india-news/ht-morning-brief-september-13-new-delhi-declaration-at-brics-xis-peace-plan-india-faces-sri-lanka-in-asia-cup-final-101789271843058.html"],t.w)
+B.Q9=new A.S(B.m,["\u2018Sense of satisfaction\u2019: Pahalgam victims\u2019 families welcome BRICS terror resolution, thank PM Modi","National News","Sep 13, 2026","The joint declaration issued at the summit strongly denounced the tragic incident that claimed 26 lives in Jammu and Kashmir.","https://www.hindustantimes.com/india-news/sense-of-satisfaction-pahalgam-victims-families-welcome-brics-terror-resolution-thank-pm-modi-101789271980471.html"],t.w)
+B.QC=new A.S(B.m,["NIA court in J-K issues fresh warrant against LeT founder Hafiz Saeed","National News","Sep 13, 2026","This is the second non-bailable warrant issued against Hafiz Saeed by the Jammu court in two months.","https://www.hindustantimes.com/india-news/nia-national-investigation-agency-let-lashkar-e-toiba-hafiz-saeed-terrorism-pakistan-pahalgam-mumbai-attacks-101789265557444.html"],t.w)
+B.R_=new A.S(B.m,["At BRICS, Xi Jinping proposes 4-point plan for peace in West Asia","National News","Sep 13, 2026","At the BRICS Summit, Xi Jinping urged members to uphold the UN Charter, support a two-state solution and deepen cooperation in artificial intelligence.","https://www.hindustantimes.com/india-news/xi-jinping-brics-summit-global-peace-west-asia-conflict-four-proposals-middle-east-two-state-solution-ai-cooperation-wto-101789269275018.html"],t.w)
+B.QR=new A.S(B.m,["Severe waterlogging near Mumbai airport as rain lashes city; watch video","National News","Sep 13, 2026","The India Meteorological Department (IMD) has issued a yellow alert for Mumbai, Thane and Palghar for Sunday.","https://www.hindustantimes.com/india-news/waterlogging-near-mumbai-airport-as-rain-lashes-city-watch-video-101789268213681.html"],t.w)
+B.QJ=new A.S(B.m,["Centre develops framework to train Census enumerators on \u2018sensitive\u2019 questions","National News","Sep 13, 2026","The second phase of the national census will include questions on religion, caste, language, disability, migration, fertility and economic activity.","https://www.hindustantimes.com/india-news/centre-develops-framework-to-train-census-enumerators-on-sensitive-questions-101789262527060.html"],t.w)
+B.Rg=new A.S(B.m,["As world leaders attend BRICS sessions, their families go on cultural excursion","National News","Sep 13, 2026","Louise Araneta-Marcos, the First Lady of the Republic of the Philippines and &nbsp;Zahra Pezeshkian, the daughter of Iranian President were welcomed to the summit.","https://www.hindustantimes.com/india-news/brics-summit-2026-delhi-iran-philippines-external-affairs-ministry-bharat-mandapam-pm-narendra-modi-brics-bazaar-101789266771778.html"],t.w)
+B.R9=new A.S(B.m,["Terror, tariffs and AI: What are the key takeaways from BRICS New Delhi Declaration","National News","Sep 13, 2026","BRICS raised serious concerns over rising unilateral tariff and non-tariff measures. It said such measures distort trade and conflict with WTO rules.","https://www.hindustantimes.com/india-news/terror-tariffs-ai-what-are-the-key-takeaways-from-brics-new-delhi-declaration-101789266163962.html"],t.w)
+B.Qt=new A.S(B.m,["Chinese President Xi Jinping skips BRICS gala dinner hosted by PM Modi","National News","Sep 13, 2026","Chinese President Xi Jinping's decision not to attend the BRICS gala dinner became a source of intrigue and curiosity.","https://www.hindustantimes.com/india-news/why-chinese-president-xi-jinping-skipped-brics-gala-dinner-hosted-by-pm-narendra-modi-in-delhi-101789265954808.html"],t.w)
+B.Rb=new A.S(B.m,["37 Indian deep-tech startups attend Bharat Innovates event","National News","Sep 13, 2026","Prime Minister Narendra Modi and other Brics leaders on Saturday witnessed a glimpse of India\u2019s deep-tech capabilities, as they toured stalls showcasing an AI-powered cardiac diagnosis platform, quantum computers, marine robots, floating solar technology, rare-earth-free electric powertrains and AI-enabled cervical cancer screening at the Brics Bha...","https://www.hindustantimes.com/india-news/37-indian-deep-tech-startups-attend-bharat-innovates-event-101789238916432.html"],t.w)
+B.QG=new A.S(B.m,["Brics nations to explore new university ranking system, back start-ups","National News","Sep 13, 2026","Brics member countries will set up a common digital repository for research, launch a platform to support youth-led startups and explore a new university ranking and evaluation system, as the grouping looks to deepen cooperation in science, education, innovation and skilling, according to the New Delhi Declaration adopted on Saturday","https://www.hindustantimes.com/india-news/brics-nations-to-explore-new-university-ranking-system-back-startups-101789238855619.html"],t.w)
+B.Qk=new A.S(B.m,["Brics nations agree to set up agri info network, grain trading portal","National News","Sep 13, 2026","New Delhi: BRICS members on Saturday, in their unanimously adopted New Delhi declaration, agreed to establish the Brics Agro-Inputs, Genetic Resources, and Information Network (BRICS AGRIN) as well as emphasised the importance of setting up a grain trading platform amongst themselves, to be called Brics Grain Exchange, which could potentially be ex...","https://www.hindustantimes.com/india-news/brics-nations-agree-to-set-up-agri-info-network-grain-trading-portal-101789238675387.html"],t.w)
+B.QE=new A.S(B.m,["Carbon tax \u2018undermines developing nation efforts\u2019","National News","Sep 13, 2026","New Delhi: BRICS countries on Saturday, in their New Delhi declaration, specified energy security as a crucial foundation for social and economic development , emphasising that fossil fuels will still play an important role and the need for a just, orderly and equitable energy transition","https://www.hindustantimes.com/india-news/carbon-tax-undermines-developing-nation-efforts-101789238375470.html"],t.w)
+B.Qx=new A.S(B.m,["BRICS backs local currency transfers, flags \u2018indiscriminate\u2019 tariffs and sanctions","National News","Sep 13, 2026","The New Delhi declaration did not explicitly name any country or grouping for such violations of multilateral rules.","https://www.hindustantimes.com/india-news/brics-summit-2026-new-delhi-bharat-mandapam-de-dollarisation-global-trade-economy-sanctions-tariffs-101789238015760.html"],t.w)
+B.Qc=new A.S(B.m,["BJP-Congress clash over BRICS declaration: \u2018Diplomatic win\u2019 vs \u2018Modi\u2019s failures\u2019","National News","Sep 13, 2026","BJP national spokesperson Pradeep Bhandari called the Pahalgam condemnation a \u201cbig diplomatic win\u201d, saying, \u201cNo ambiguity. No double standards.","https://www.hindustantimes.com/india-news/bjpcongress-clash-over-brics-declaration-diplomatic-win-vs-modi-s-failures-101789264461787.html"],t.w)
+B.QB=new A.S(B.m,["\u2018Thrown off roof\u2019 by in-laws over dowry demand, Ghaziabad woman dies in hospital","National News","Sep 13, 2026","The DCP said that the CCTV footage shows the woman falling on a road outside her in-laws\u2019 house at night and some locals gathering around her.","https://www.hindustantimes.com/cities/noida-news/gzb-woman-thrown-from-in-laws-house-dies-2-detained-101789236211708.html"],t.w)
+B.R1=new A.S(B.m,["'Transform into rule-shapers': At BRICS 2026, PM Modi pushes for Global South as decision makers","National News","Sep 13, 2026","Prime Minister Narendra Modi unveiled a 10-point roadmap for global governance reform under the BRICS framework.","https://www.hindustantimes.com/india-news/brics-summit-2026-pm-modi-pushes-for-global-south-as-decision-makers-india-russia-indonesia-vietnam-101789261192294.html"],t.w)
+B.Qj=new A.S(B.m,["\u2018Room locked from inside\u2019: Air India captain found dead in Delhi hotel; brother alerted staff","National News","Sep 13, 2026","The pilot\u2019s brother contacted the hotel manager and informed him that his brother was not responding to his phone calls.","https://www.hindustantimes.com/india-news/room-locked-from-inside-air-india-captain-found-dead-in-delhi-hotel-brother-alerted-staff-101789262978574.html"],t.w)
+B.QT=new A.S(B.m,["BRICS 2026 LIVE: PM Modi likely to hold 7 bilateral meetings today; leaders start arriving for Day 2","National News","Sep 13, 2026","BRICS 2026 LIVE updates: The BRICS programme will begin shortly with the arrival of leaders of BRICS partner countries and outreach invitees at Bharat Mandapam.","https://www.hindustantimes.com/india-news/brics-2026-live-updates-day-2-pm-modi-xi-jinping-vladimir-putin-masoud-pezeshkian-new-delhi-declaration-latest-101789260489778.html"],t.w)
+B.Qo=new A.S(B.m,["From Hormuz to Black Sea, PM Modi pitches BRICS distress network to rescue seafarers","National News","Sep 13, 2026","At least 15 Indian merchant seafarers have been killed in the two conflict theatres -- 10 in West Asia and five in the Black Sea.","https://www.hindustantimes.com/india-news/pm-modi-proposes-brics-distress-network-for-seafarers-amid-death-of-15-sailors-delhi-101789262075577.html"],t.w)
+B.QZ=new A.S(B.m,["Bombay is the only city in India which is cosmopolitan: Sooni Taraporevala","National News","Sep 13, 2026","She spoke HT about adapting the novel, the role cities -- particularly Mumbai -- play in her writing","https://www.hindustantimes.com/india-news/bombay-is-the-only-city-in-india-which-is-cosmopolitan-sooni-taraporevala-101789239332795.html"],t.w)
+B.Rj=new A.S(B.m,["Mamata reaches out to TMC veteran Akhil Giri as it weighs local face for Nandigram bypoll","National News","Sep 13, 2026","The move comes at a particularly difficult juncture for the TMC, which lost power to the BJP in the May assembly elections after 15 years in office.","https://www.hindustantimes.com/india-news/mamata-reaches-out-to-tmc-veteran-akhil-giri-as-it-weighs-local-face-for-nandigram-bypoll-101789231943170.html"],t.w)
+B.Qw=new A.S(B.m,["\u2018Those who keep changing names\u2026\u2019: Akhilesh, CJP, Cong target Yogi over \u2018walking away\u2019 from press conference","National News","Sep 13, 2026","CJP and SP posted videos of the alleged incident and claimed that the UP chief minister walked away while a reporter continued to ask him questions.","https://www.hindustantimes.com/india-news/those-who-keep-changing-names-akhilesh-yadav-cjp-congress-up-yogi-adityanath-walking-away-press-conference-101789232169089.html"],t.w)
+B.Q7=new A.S(B.m,["\u2018Here to do politics on corpses\u2019: Abhijeet Dipke heckled by group of influencers in MP's Balaghat","National News","Sep 13, 2026","Dipke visited Adori, Korka and Bondari villages to meet the families of tribal children who allegedly died due to infectious diseases.","https://www.hindustantimes.com/india-news/here-to-do-politics-on-corpses-abhijeet-dipke-heckled-by-group-of-influencers-in-mps-balaghat-101789231050932.html"],t.w)
+B.QD=new A.S(B.m,["MCD demolishes 67 properties, seals 9 in 2 days after Satya Niketan PG collapse","National News","Sep 13, 2026","The civic body stepped up action on September 11 and 12, sealing the properties and taking other enforcement measures.","https://www.hindustantimes.com/india-news/mcd-demolishes-67-properties-seals-nine-amid-crackdown-after-delhi-satya-niketan-pg-collapse-101789232501647.html"],t.w)
+B.R7=new A.S(B.m,["\u2018Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP","National News","Sep 13, 2026","Mayawati said if her brother Anand Kumar remains with her and needs assistance, he can seek help from his daughter, Kumari Deepika Anand.","https://www.hindustantimes.com/india-news/final-decision-mayawati-says-no-political-role-for-nephews-akash-ishan-in-bsp-101789219179027.html"],t.w)
+B.NH=s([B.QV,B.R2,B.QL,B.Qi,B.Q8,B.Qy,B.QY,B.Rh,B.Qq,B.QW,B.R3,B.Qv,B.QS,B.Re,B.QO,B.Qf,B.R4,B.Rd,B.Rk,B.Qz,B.Qh,B.Q5,B.QQ,B.Rf,B.QU,B.Qu,B.Qg,B.Qr,B.QP,B.QI,B.R8,B.R0,B.Ra,B.R6,B.QA,B.Qb,B.Qd,B.Rc,B.Qs,B.QF,B.Qe,B.Qa,B.QM,B.Ri,B.Qn,B.R5,B.QK,B.QH,B.Qm,B.Qp,B.Ql,B.QN,B.QX,B.Q6,B.Rl,B.Q9,B.QC,B.R_,B.QR,B.QJ,B.Rg,B.R9,B.Qt,B.Rb,B.QG,B.Qk,B.QE,B.Qx,B.Qc,B.QB,B.R1,B.Qj,B.QT,B.Qo,B.QZ,B.Rj,B.Qw,B.Q7,B.QD,B.R7],t.SN)
 B.NJ=s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","wheel"],t.s)
 B.kz=new A.ha(100)
 B.JF=new A.ha(200)
@@ -100405,14 +100405,14 @@ B.NR=new A.hh(10,"localAudioStreamReasonPlayoutInvalidId")
 B.Rp=new A.a4([B.NP,0,B.NQ,1,B.NS,2,B.NT,3,B.NU,4,B.NV,5,B.NW,6,B.NX,7,B.NY,8,B.NZ,9,B.NR,10],A.Y("a4<hh,p>"))
 B.U9={in:0,iw:1,ji:2,jw:3,mo:4,aam:5,adp:6,aue:7,ayx:8,bgm:9,bjd:10,ccq:11,cjr:12,cka:13,cmk:14,coy:15,cqu:16,drh:17,drw:18,gav:19,gfx:20,ggn:21,gti:22,guv:23,hrr:24,ibi:25,ilw:26,jeg:27,kgc:28,kgh:29,koj:30,krm:31,ktr:32,kvs:33,kwq:34,kxe:35,kzj:36,kzt:37,lii:38,lmm:39,meg:40,mst:41,mwj:42,myt:43,nad:44,ncp:45,nnx:46,nts:47,oun:48,pcr:49,pmc:50,pmu:51,ppa:52,ppr:53,pry:54,puz:55,sca:56,skk:57,tdu:58,thc:59,thx:60,tie:61,tkk:62,tlw:63,tmp:64,tne:65,tnf:66,tsf:67,uok:68,xba:69,xia:70,xkh:71,xsj:72,ybd:73,yma:74,ymt:75,yos:76,yuu:77}
 B.bH=new A.S(B.U9,["id","he","yi","jv","ro","aas","dz","ktz","nun","bcg","drl","rki","mom","cmr","xch","pij","quh","khk","prs","dev","vaj","gvr","nyc","duz","jal","opa","gal","oyb","tdf","kml","kwv","bmf","dtp","gdj","yam","tvd","dtp","dtp","raq","rmx","cir","mry","vaj","mry","xny","kdz","ngv","pij","vaj","adx","huw","phr","bfy","lcq","prt","pub","hle","oyb","dtp","tpo","oyb","ras","twm","weo","tyj","kak","prs","taj","ema","cax","acn","waw","suj","rki","lrr","mtm","zom","yug"],t.w)
-B.Ne=s([],t.F)
+B.Nd=s([],t.F)
 B.bN=new A.H(0.2,0,0,0,B.e)
 B.D0=new A.bF(-1,B.P,B.bN,B.hN,1)
 B.bO=new A.H(0.1411764705882353,0,0,0,B.e)
 B.bW=new A.j(0,1)
 B.CS=new A.bF(0,B.P,B.bO,B.bW,1)
 B.D_=new A.bF(0,B.P,B.bD,B.bW,3)
-B.Ny=s([B.D0,B.CS,B.D_],t.F)
+B.Nx=s([B.D0,B.CS,B.D_],t.F)
 B.dI=new A.j(0,3)
 B.CZ=new A.bF(-2,B.P,B.bN,B.dI,1)
 B.Da=new A.bF(0,B.P,B.bO,B.hN,2)
@@ -100421,7 +100421,7 @@ B.Mb=s([B.CZ,B.Da,B.CU],t.F)
 B.CT=new A.bF(-2,B.P,B.bN,B.dI,3)
 B.CW=new A.bF(0,B.P,B.bO,B.dI,4)
 B.Dj=new A.bF(0,B.P,B.bD,B.bW,8)
-B.Ns=s([B.CT,B.CW,B.Dj],t.F)
+B.Nr=s([B.CT,B.CW,B.Dj],t.F)
 B.CY=new A.bF(-1,B.P,B.bN,B.hN,4)
 B.vF=new A.j(0,4)
 B.D6=new A.bF(0,B.P,B.bO,B.vF,5)
@@ -100448,19 +100448,19 @@ B.D7=new A.bF(-4,B.P,B.bN,B.Uq,8)
 B.Ul=new A.j(0,12)
 B.D4=new A.bF(2,B.P,B.bO,B.Ul,17)
 B.Dg=new A.bF(4,B.P,B.bD,B.l5,22)
-B.Mv=s([B.D7,B.D4,B.Dg],t.F)
+B.Mu=s([B.D7,B.D4,B.Dg],t.F)
 B.Df=new A.bF(-5,B.P,B.bN,B.l6,10)
 B.Um=new A.j(0,16)
 B.D9=new A.bF(2,B.P,B.bO,B.Um,24)
 B.Dl=new A.bF(5,B.P,B.bD,B.vG,30)
-B.Mu=s([B.Df,B.D9,B.Dl],t.F)
+B.Mt=s([B.Df,B.D9,B.Dl],t.F)
 B.Uk=new A.j(0,11)
 B.CX=new A.bF(-7,B.P,B.bN,B.Uk,15)
 B.Uo=new A.j(0,24)
 B.De=new A.bF(3,B.P,B.bO,B.Uo,38)
 B.D8=new A.bF(8,B.P,B.bD,B.vH,46)
-B.MH=s([B.CX,B.De,B.D8],t.F)
-B.Rq=new A.a4([0,B.Ne,1,B.Ny,2,B.Mb,3,B.Ns,4,B.Lr,6,B.Mn,8,B.LN,9,B.M2,12,B.Mv,16,B.Mu,24,B.MH],A.Y("a4<p,T<bF>>"))
+B.MG=s([B.CX,B.De,B.D8],t.F)
+B.Rq=new A.a4([0,B.Nd,1,B.Nx,2,B.Mb,3,B.Nr,4,B.Lr,6,B.Mn,8,B.LN,9,B.M2,12,B.Mu,16,B.Mt,24,B.MG],A.Y("a4<p,T<bF>>"))
 B.WB=new A.kQ(0,"noneProxyType")
 B.WC=new A.kQ(1,"udpProxyType")
 B.WD=new A.kQ(2,"tcpProxyType")
@@ -100523,7 +100523,7 @@ B.SE=new A.S(B.t,["Civil Disobedience Movement","Simon Commission (1927), Nehru 
 B.SO=new A.S(B.t,["Revolutionary Nationalism","Bhagat Singh, Chandrashekhar Azad (HSRA). Surya Sen (Chittagong Armoury Raid). Kakori Conspiracy.",""],t.w)
 B.T_=new A.S(B.t,["Quit India Movement (1942)","Failure of Cripps Mission. Gowalia Tank, Bombay. 'Do or Die'. Parallel governments in Ballia, Tamluk, Satara.",""],t.w)
 B.Sf=new A.S(B.t,["Towards Freedom & Partition","INA and Subhas Chandra Bose. Cabinet Mission Plan (1946). Direct Action Day. Mountbatten Plan (June 3 Plan). Indian Independence Act 1947.",""],t.w)
-B.No=s([B.S4,B.Sp,B.SL,B.SS,B.S9,B.SH,B.St,B.SF,B.SE,B.SO,B.T_,B.Sf],t.SN)
+B.Nn=s([B.S4,B.Sp,B.SL,B.SS,B.S9,B.SH,B.St,B.SF,B.SE,B.SO,B.T_,B.Sf],t.SN)
 B.Sm=new A.S(B.t,["Geomorphology","Interior of Earth, Continental Drift Theory (Wegener), Plate Tectonics. Earthquakes and Volcanoes. Landforms formed by river, wind, and glaciers.",""],t.w)
 B.Sv=new A.S(B.t,["Climatology","Structure and composition of Atmosphere. Insolation and Heat Budget. Pressure belts and Wind systems (Planetary, Local). Cyclones (Tropical and Extra-Tropical).",""],t.w)
 B.Si=new A.S(B.t,["Oceanography","Bottom relief of oceans. Temperature and salinity distribution. Ocean currents (Atlantic, Pacific, Indian). Tides and Coral Reefs.",""],t.w)
@@ -100552,7 +100552,7 @@ B.Sb=new A.S(B.t,["Climate Change","Greenhouse Effect, Global Warming, Ocean Aci
 B.S8=new A.S(B.t,["International Conventions","UNFCCC (COP summits, Kyoto, Paris). CBD (Convention on Biological Diversity, Cartagena, Nagoya). UNCCD (Desertification). CITES, CMS, Ramsar Convention.",""],t.w)
 B.Sz=new A.S(B.t,["Environmental Legislation in India","Wildlife Protection Act 1972, Water Act 1974, Air Act 1981, Environment Protection Act 1986, Forest Rights Act 2006. NGT (National Green Tribunal).",""],t.w)
 B.Ss=new A.S(B.t,["Pollution","Air (PM2.5, PM10, Smog, Acid Rain). Water (BOD, Eutrophication, Biomagnification). Soil, Noise, Radioactive, E-waste. Solid Waste Management Rules.",""],t.w)
-B.Nv=s([B.SY,B.SB,B.Sg,B.Sb,B.S8,B.Sz,B.Ss],t.SN)
+B.Nu=s([B.SY,B.SB,B.Sg,B.Sb,B.S8,B.Sz,B.Ss],t.SN)
 B.SK=new A.S(B.t,["Space Technology","Orbits (LEO, MEO, GEO, SSO). Launch Vehicles (SLV, ASLV, PSLV, GSLV, LVM3). ISRO Missions: Chandrayaan, Mangalyaan, Aditya-L1, Gaganyaan. Space debris.",""],t.w)
 B.Sj=new A.S(B.t,["Biotechnology","DNA, RNA, Gene Editing (CRISPR-Cas9). Recombinant DNA technology. GM Crops (Bt Cotton, Bt Brinjal, GM Mustard). Stem cells. Cloning.",""],t.w)
 B.SC=new A.S(B.t,["Information Technology & Computers","Generations of computers. Supercomputers (Param). Internet of Things (IoT), Big Data, Cloud Computing, Artificial Intelligence (AI), Machine Learning, Blockchain technology, Web 3.0.",""],t.w)
@@ -100560,8 +100560,8 @@ B.So=new A.S(B.t,["Nanotechnology","Nanomaterials (Carbon nanotubes, Graphene). 
 B.SJ=new A.S(B.t,["Nuclear Technology","Nuclear Fission vs Fusion. India\u2019s Three-Stage Nuclear Power Programme (Homi Bhabha). Fast Breeder Reactors. ITER project.",""],t.w)
 B.Sr=new A.S(B.t,["Defense Technology","IGMDP (Prithvi, Agni, Trishul, Nag, Akash). BrahMos cruise missile. Ballistic vs Cruise missiles. Submarines (Project 75 - Scorpene class), Aircraft Carriers.",""],t.w)
 B.S7=new A.S(B.t,["Health and Diseases","Communicable vs Non-communicable diseases. Viruses, Bacteria, Protozoa. Vaccines (mRNA, Vector). Antimicrobial Resistance (AMR).",""],t.w)
-B.Nk=s([B.SK,B.Sj,B.SC,B.So,B.SJ,B.Sr,B.S7],t.SN)
-B.Rt=new A.S(B.U5,[B.p8,B.No,B.Mf,B.Lo,B.Nv,B.Nk],A.Y("S<t,T<aw<t,t>>>"))
+B.Nj=s([B.SK,B.Sj,B.SC,B.So,B.SJ,B.Sr,B.S7],t.SN)
+B.Rt=new A.S(B.U5,[B.p8,B.Nn,B.Mf,B.Lo,B.Nu,B.Nj],A.Y("S<t,T<aw<t,t>>>"))
 B.OW=new A.i(33)
 B.OX=new A.i(34)
 B.OY=new A.i(35)
@@ -101288,57 +101288,57 @@ B.LT=s([54,null,null,8589935158],t.Z)
 B.LU=s([55,null,null,8589935159],t.Z)
 B.LV=s([56,null,null,8589935160],t.Z)
 B.LX=s([57,null,null,8589935161],t.Z)
-B.MN=s([8589934852,8589934852,8589934853,null],t.Z)
+B.MM=s([8589934852,8589934852,8589934853,null],t.Z)
 B.Lv=s([4294967555,null,4294967555,null],t.Z)
 B.Lw=s([4294968065,null,null,8589935154],t.Z)
 B.Lx=s([4294968066,null,null,8589935156],t.Z)
 B.Ly=s([4294968067,null,null,8589935158],t.Z)
 B.Lz=s([4294968068,null,null,8589935160],t.Z)
 B.LE=s([4294968321,null,null,8589935157],t.Z)
-B.MO=s([8589934848,8589934848,8589934849,null],t.Z)
+B.MN=s([8589934848,8589934848,8589934849,null],t.Z)
 B.Lu=s([4294967423,null,null,8589935150],t.Z)
 B.LA=s([4294968069,null,null,8589935153],t.Z)
 B.Lt=s([4294967309,null,null,8589935117],t.Z)
 B.LB=s([4294968070,null,null,8589935159],t.Z)
 B.LF=s([4294968327,null,null,8589935152],t.Z)
-B.MP=s([8589934854,8589934854,8589934855,null],t.Z)
+B.MO=s([8589934854,8589934854,8589934855,null],t.Z)
 B.LC=s([4294968071,null,null,8589935155],t.Z)
 B.LD=s([4294968072,null,null,8589935161],t.Z)
-B.MQ=s([8589934850,8589934850,8589934851,null],t.Z)
-B.vl=new A.a4(["*",B.LG,"+",B.LH,"-",B.LI,".",B.LJ,"/",B.LK,"0",B.LL,"1",B.LM,"2",B.LP,"3",B.LQ,"4",B.LR,"5",B.LS,"6",B.LT,"7",B.LU,"8",B.LV,"9",B.LX,"Alt",B.MN,"AltGraph",B.Lv,"ArrowDown",B.Lw,"ArrowLeft",B.Lx,"ArrowRight",B.Ly,"ArrowUp",B.Lz,"Clear",B.LE,"Control",B.MO,"Delete",B.Lu,"End",B.LA,"Enter",B.Lt,"Home",B.LB,"Insert",B.LF,"Meta",B.MP,"PageDown",B.LC,"PageUp",B.LD,"Shift",B.MQ],A.Y("a4<t,T<p?>>"))
+B.MP=s([8589934850,8589934850,8589934851,null],t.Z)
+B.vl=new A.a4(["*",B.LG,"+",B.LH,"-",B.LI,".",B.LJ,"/",B.LK,"0",B.LL,"1",B.LM,"2",B.LP,"3",B.LQ,"4",B.LR,"5",B.LS,"6",B.LT,"7",B.LU,"8",B.LV,"9",B.LX,"Alt",B.MM,"AltGraph",B.Lv,"ArrowDown",B.Lw,"ArrowLeft",B.Lx,"ArrowRight",B.Ly,"ArrowUp",B.Lz,"Clear",B.LE,"Control",B.MN,"Delete",B.Lu,"End",B.LA,"Enter",B.Lt,"Home",B.LB,"Insert",B.LF,"Meta",B.MO,"PageDown",B.LC,"PageUp",B.LD,"Shift",B.MP],A.Y("a4<t,T<p?>>"))
 B.LW=s([B.pl,null,null,B.v1],t.L)
-B.Nj=s([B.uO,null,null,B.v2],t.L)
-B.Ms=s([B.uP,null,null,B.v3],t.L)
-B.MS=s([B.uQ,null,null,B.cT],t.L)
+B.Ni=s([B.uO,null,null,B.v2],t.L)
+B.Mr=s([B.uP,null,null,B.v3],t.L)
+B.MR=s([B.uQ,null,null,B.cT],t.L)
 B.Ll=s([B.uR,null,null,B.v4],t.L)
-B.NA=s([B.uS,null,null,B.kS],t.L)
-B.Nx=s([B.uT,null,null,B.eX],t.L)
+B.Nz=s([B.uS,null,null,B.kS],t.L)
+B.Nw=s([B.uT,null,null,B.eX],t.L)
 B.M3=s([B.uU,null,null,B.cU],t.L)
-B.NH=s([B.uV,null,null,B.eY],t.L)
-B.Nw=s([B.uW,null,null,B.cV],t.L)
+B.NG=s([B.uV,null,null,B.eY],t.L)
+B.Nv=s([B.uW,null,null,B.cV],t.L)
 B.M1=s([B.uX,null,null,B.kT],t.L)
 B.Lp=s([B.uY,null,null,B.cW],t.L)
 B.Mc=s([B.uZ,null,null,B.eZ],t.L)
-B.Nl=s([B.v_,null,null,B.cX],t.L)
-B.Nn=s([B.v0,null,null,B.f_],t.L)
+B.Nk=s([B.v_,null,null,B.cX],t.L)
+B.Nm=s([B.v0,null,null,B.f_],t.L)
 B.M5=s([B.eV,B.eV,B.hy,null],t.L)
-B.NB=s([B.hu,null,B.hu,null],t.L)
-B.MA=s([B.bU,null,null,B.cU],t.L)
-B.MB=s([B.bF,null,null,B.cV],t.L)
-B.MC=s([B.bG,null,null,B.cW],t.L)
-B.NF=s([B.bV,null,null,B.cX],t.L)
-B.Nt=s([B.kM,null,null,B.kT],t.L)
+B.NA=s([B.hu,null,B.hu,null],t.L)
+B.Mz=s([B.bU,null,null,B.cU],t.L)
+B.MA=s([B.bF,null,null,B.cV],t.L)
+B.MB=s([B.bG,null,null,B.cW],t.L)
+B.NE=s([B.bV,null,null,B.cX],t.L)
+B.Ns=s([B.kM,null,null,B.kT],t.L)
 B.M6=s([B.eU,B.eU,B.hx,null],t.L)
-B.N0=s([B.aX,null,null,B.cT],t.L)
-B.MD=s([B.cQ,null,null,B.eX],t.L)
+B.N_=s([B.aX,null,null,B.cT],t.L)
+B.MC=s([B.cQ,null,null,B.eX],t.L)
 B.M0=s([B.ht,null,null,B.kR],t.L)
-B.ME=s([B.cR,null,null,B.eZ],t.L)
-B.Nu=s([B.eT,null,null,B.kS],t.L)
+B.MD=s([B.cR,null,null,B.eZ],t.L)
+B.Nt=s([B.eT,null,null,B.kS],t.L)
 B.M7=s([B.eW,B.eW,B.hz,null],t.L)
-B.MF=s([B.eR,null,null,B.eY],t.L)
-B.N5=s([B.eS,null,null,B.f_],t.L)
+B.ME=s([B.eR,null,null,B.eY],t.L)
+B.N4=s([B.eS,null,null,B.f_],t.L)
 B.M8=s([B.cw,B.cw,B.cS,null],t.L)
-B.T6=new A.a4(["*",B.LW,"+",B.Nj,"-",B.Ms,".",B.MS,"/",B.Ll,"0",B.NA,"1",B.Nx,"2",B.M3,"3",B.NH,"4",B.Nw,"5",B.M1,"6",B.Lp,"7",B.Mc,"8",B.Nl,"9",B.Nn,"Alt",B.M5,"AltGraph",B.NB,"ArrowDown",B.MA,"ArrowLeft",B.MB,"ArrowRight",B.MC,"ArrowUp",B.NF,"Clear",B.Nt,"Control",B.M6,"Delete",B.N0,"End",B.MD,"Enter",B.M0,"Home",B.ME,"Insert",B.Nu,"Meta",B.M7,"PageDown",B.MF,"PageUp",B.N5,"Shift",B.M8],A.Y("a4<t,T<i?>>"))
+B.T6=new A.a4(["*",B.LW,"+",B.Ni,"-",B.Mr,".",B.MR,"/",B.Ll,"0",B.Nz,"1",B.Nw,"2",B.M3,"3",B.NG,"4",B.Nv,"5",B.M1,"6",B.Lp,"7",B.Mc,"8",B.Nk,"9",B.Nm,"Alt",B.M5,"AltGraph",B.NA,"ArrowDown",B.Mz,"ArrowLeft",B.MA,"ArrowRight",B.MB,"ArrowUp",B.NE,"Clear",B.Ns,"Control",B.M6,"Delete",B.N_,"End",B.MC,"Enter",B.M0,"Home",B.MD,"Insert",B.Nt,"Meta",B.M7,"PageDown",B.ME,"PageUp",B.N4,"Shift",B.M8],A.Y("a4<t,T<i?>>"))
 B.a6Z=new A.xv(0,"uploadSuccess")
 B.a7_=new A.xv(1,"uploadNetError")
 B.a70=new A.xv(2,"uploadServerError")
@@ -101379,12 +101379,12 @@ B.XF=new A.oz(4,"remoteAudioStateFailed")
 B.Td=new A.a4([B.XB,0,B.XC,1,B.XD,2,B.XE,3,B.XF,4],A.Y("a4<oz,p>"))
 B.Ub={"zh-Hant":0,"zh-TW":1,"zh-MO":2,"zh-HK":3,ja:4,ko:5,zh:6,"zh-Hans":7,"zh-CN":8}
 B.kE=s(["Noto Sans TC"],t.s)
-B.MV=s(["Noto Sans HK","Noto Sans TC"],t.s)
+B.MU=s(["Noto Sans HK","Noto Sans TC"],t.s)
 B.LZ=s(["Noto Sans JP"],t.s)
 B.Lq=s(["Noto Sans KR"],t.s)
 B.p7=s(["Noto Sans SC"],t.s)
 B.NK=s(["Noto Sans SC","Noto Sans TC"],t.s)
-B.hI=new A.S(B.Ub,[B.kE,B.kE,B.kE,B.MV,B.LZ,B.Lq,B.p7,B.p7,B.NK],t.VJ)
+B.hI=new A.S(B.Ub,[B.kE,B.kE,B.kE,B.MU,B.LZ,B.Lq,B.p7,B.p7,B.NK],t.VJ)
 B.Tq=new A.m_(0,"mediaDeviceStateIdle")
 B.Tr=new A.m_(1,"mediaDeviceStateActive")
 B.Ts=new A.m_(2,"mediaDeviceStateDisabled")
@@ -102090,9 +102090,9 @@ B.ZG=new A.f8([B.Zq,B.Zm],A.Y("f8<iW>"))
 B.A1=new A.f8([B.ai,B.aZ,B.bY,B.b5,B.bm],t.Lu)
 B.G0=new A.H(0.23529411764705882,0,0,0,B.e)
 B.Dk=new A.bF(0.5,B.P,B.G0,B.vF,10)
-B.N1=s([B.Dk],t.F)
+B.N0=s([B.Dk],t.F)
 B.Yk=new A.kU(B.j8,B.p)
-B.ZH=new A.hp(null,null,null,B.N1,B.Yk)
+B.ZH=new A.hp(null,null,null,B.N0,B.Yk)
 B.ZI=new A.al(B.eT,!1,!0,!1,!1,B.n)
 B.A2=new A.al(B.kK,!1,!1,!1,!0,B.n)
 B.ZJ=new A.al(B.pg,!0,!1,!1,!1,B.n)
