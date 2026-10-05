@@ -321,564 +321,564 @@ class StaticData {
 
   static const List<Map<String, String>> currentAffairs = [
     {
-      'title': 'Bengaluru–Mangaluru/Karwar day train cancellation during peak Dasara travel season upsets many',
+      'title': 'Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'South Western Railway will cancel the services for 26 round trips in October, excluding a week during the peak Dasara season',
-      'source_url': 'https://www.thehindu.com/news/cities/Mangalore/bengalurumangalurukarwar-day-train-cancellation-during-peak-dasara-travel-season-upsets-many/article71540621.ece'
+      'date': 'Oct 05, 2026',
+      'summary': '\"The batch is divided into two parts, one is the northeast Delhi riots, and another is for Jamia Millia riots,\" the bench said while pronouncing the verdict',
+      'source_url': 'https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece'
     },
     {
-      'title': 'Indian and Pakistani diplomats summoned over BSF killing two ‘infiltrators’',
+      'title': 'Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists PIL plea before Madras High Court',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Pakistan’s Foreign Ministry accused the Indian security forces of using “unprovoked lethal force against unarmed civilians”',
-      'source_url': 'https://www.thehindu.com/news/national/pakistan-summons-indian-diplomat-protests-killing-of-two-people-by-bsf/article71541148.ece'
-    },
-    {
-      'title': 'Rajasthan government should prepare contingency plan to deal with ‘drought-like’ situation: Ashok Gehlot',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Former Chief Minister Ashok Gehlot said drinking water, fodder and employment could emerge as major concerns in the coming months, and demanded farm loans be waived',
-      'source_url': 'https://www.thehindu.com/news/national/rajasthan/rajasthan-government-should-prepare-contingency-plan-to-deal-with-drought-like-situation-ashok-gehlot/article71542955.ece'
-    },
-    {
-      'title': 'Desert villagers in Rajasthan turn to traditional ingenuity to beat intense heat, water scarcity',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/rajasthan/desert-villagers-in-rajasthan-turn-to-traditional-ingenuity-to-beat-intense-heat-water-scarcity/article71067149.ece'
-    },
-    {
-      'title': 'How accurate is Bengaluru’s AI traffic enforcement? | Explained',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Amid debates around the shortcomings of using AI in smart policing and rule enforcement, The Hindu  looks at how the Bengaluru Traffic Police’s Intelligent Traffic Management System works, how accurate are the violations flagged, how are the challans generated and the means through which erroneous cases can be challenged.',
-      'source_url': 'https://www.thehindu.com/sci-tech/technology/how-accurate-is-bengalurus-ai-traffic-enforcement-explained/article71532005.ece'
-    },
-    {
-      'title': 'Monsoon expected to withdraw from parts of Rajasthan over next 3-4 days',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Most parts of eastern Rajasthan are expected to remain mainly dry for the next five to six days',
-      'source_url': 'https://www.thehindu.com/news/national/rajasthan/monsoon-expected-to-withdraw-from-parts-of-rajasthan-over-next-3-4-days/article71487357.ece'
-    },
-    {
-      'title': 'Remembering Singeetham Srinivasa Rao',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Having found an ally in Kamal Haasan, Singeetham discovered a sense of freedom, especially in the Tamil industry.',
-      'source_url': 'https://www.thehindu.com/entertainment/movies/remembering-singeetham-srinivasa-rao/article71542999.ece'
-    },
-    {
-      'title': 'Legendary movie director, writer Singeetham Srinivasa Rao passes away',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Singeetham Srinivasa Rao burst onto the screen at the age of 41 with his writing and direction of Neeti Nijayati, a Telugu movie with a homily in its heart in 1972',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/legendary-movie-director-writer-singeetham-srinivasa-rao-passes-away/article71541800.ece'
-    },
-    {
-      'title': 'Mandatory attachment, confiscation essential to combat vice of corruption, says Madras High Court',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The Madurai Bench said attachment of properties acquired through corrupt means should be made mandatory under the Prevention of Corruption Act, and urged the government to amend the law',
-      'source_url': 'https://www.thehindu.com/news/cities/Madurai/mandatory-attachment-confiscation-essential-to-combat-vice-of-corruption-says-madras-high-court/article71541840.ece'
-    },
-    {
-      'title': 'Punjabi influencer, makeup artist shot dead in Amritsar',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Two unidentified persons, who were on a motorbike, opened fire at Mad Sandhu and fled the spot, says Additional Deputy Commissioner of Police Sirivennela',
-      'source_url': 'https://www.thehindu.com/news/national/punjab/punjabi-influencer-makeup-artist-shot-dead-in-amritsar/article71542972.ece'
-    },
-    {
-      'title': 'Declare ‘Vettri Payanam’ scheme unconstitutional, urges private bus operator before Madras High Court',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'A private bus operator from Erode claims that no-fare travel for women in government buses alone would cause a severe dent to their business and force them to shut down operations',
-      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/declare-vettri-payanam-scheme-unconstitutional-urges-private-bus-operator-before-madras-high-court/article71542924.ece'
-    },
-    {
-      'title': 'Asian Games 2026 India’s medallists: Full list of winners',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Here’s the full list of Indian medallists at the Aichi-Nagoya Asian Games 2026 categorised by sport',
-      'source_url': 'https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece'
-    },
-    {
-      'title': 'Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists a PIL plea before Madras High Court',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
       'summary': 'Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan would be hearing the case on October 5, 2026',
       'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/abandon-pattinapakkam-assembly-cum-secretariat-complex-project-insists-a-pil-plea-before-madras-high-court/article71542928.ece'
     },
     {
-      'title': 'News in Frames: The old world within a busy market',
+      'title': 'Two arrested for allegedly drugging, gang-raping woman in Kochi',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Vellore’s wholesale market, established in 1868, has grown from 200 shops to more than 700 permanent and 300 temporary shops; alongside its bustling trade, old businesses continue to survive',
-      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/news-in-frames-the-old-world-within-a-busy-market/article71542953.ece'
+      'date': 'Oct 05, 2026',
+      'summary': 'Police sources said the woman was called to a lodge on the pretext of arranging a job for her at a spa. The accused allegedly forced her to drink alcohol and consume drugs before sexually assaulting her',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/two-arrested-for-allegedly-drugging-gang-raping-woman-in-kochi/article71545955.ece'
     },
     {
-      'title': 'Five workers dead, one injured in a boiler explosion at a Sri City SEZ facility',
+      'title': 'Gyanesh Kumar undermined Election Commission’s independence: Sachin Pilot',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The government announces ex gratia payment of ₹50 lakh to the next of kin of each of the deceased and constitutes a high-level committee to inquire into the incident',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/workers-killed-injured-in-a-boiler-explosion-at-a-sri-city-sez-facility/article71539836.ece'
+      'date': 'Oct 05, 2026',
+      'summary': 'Congress leader Sachin Pilot alleged the SIR is being used to selectively delete voters, as he also criticised the Rajasthan government’s drought response and the AAP government in Punjab',
+      'source_url': 'https://www.thehindu.com/news/national/gyanesh-kumar-undermined-election-commissions-independence-sachin-pilot/article71543417.ece'
     },
     {
-      'title': 'Protest against CEC Gyanesh Kumar: Over 500 protesters detained; AISA, Yogendra Yadav call for citizen\'s march again today',
+      'title': 'Use of Hindi on highways signboard cannot be treated as imposition: Cong MP',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'AISA members alleged that a male police officer manhandled Neha Bora during the police action and that another Delhi Police officer abused her',
-      'source_url': 'https://www.thehindu.com/news/national/protest-against-cec-gyanesh-kumar-october-4-2026/article71542893.ece'
-    },
-    {
-      'title': 'Protest against CEC Gyanesh Kumar updates: AISA president Neha Bora, Prashant Bhushan among 150 protesters detained in Delhi',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Senior advocates Kapil Sibal, Nitya Ramakrishnan, Pallav Sisodia and Prashant Bhushan, along with activist Yogendra Yadav, joined Neha Bora and other students ',
-      'source_url': 'https://www.thehindu.com/news/national/delhi-protest-against-gyanesh-kumar-october-3-2026/article71539583.ece'
-    },
-    {
-      'title': '‘Satyagraha’ website launched by Rahul Gandhi: What is it?',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': '‘Satyagraha’ website launch comes amid protests against Chief Election Commissioner Gyanesh Kumar',
-      'source_url': 'https://www.thehindu.com/news/national/satyagraha-website-rahul-gandhi-explained-what-is-it/article71542853.ece'
-    },
-    {
-      'title': 'El Niño draws ‘Kasai Pitta\' out in Rayalaseema scrub lands',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The long-tailed shrike, Lanius schach, is sighted along the Penna River belt and fringes of the Erramala and Palakonda ranges in Nandyal and Kadapa',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/el-nino-draws-kasai-pitta-out-in-rayalaseema-scrub-lands/article71540589.ece'
-    },
-    {
-      'title': 'Protesters in Hyderabad demand CEC Gyanesh Kumar’s resignation, scrapping of SIR',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The protest began with a Hindi rendition of Bella Ciao, the Italian anti-resistance song, with protesters dubbing SIR as ‘Special Intensive Resistance’',
-      'source_url': 'https://www.thehindu.com/news/cities/Hyderabad/protesters-in-hyderabad-demand-cec-gyanesh-kumars-resignation-scrapping-of-sir/article71540168.ece'
-    },
-    {
-      'title': 'Bitchat removed from Apple’s India App Store following govt\'s demand: Jack Dorsey',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Bitchat, built by Mr. Dorsey, had come under government scrutiny in July this year as well',
-      'source_url': 'https://www.thehindu.com/sci-tech/technology/bitchat-removed-from-apples-india-app-store-following-govts-demand-jack-dorsey/article71541755.ece'
-    },
-    {
-      'title': 'As protests against CEC continue, Rahul launches ‘Satyagraha’ digital platform',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Terming PM Modi and State Chief Ministers ‘illegal’ occupants of their post, Kharge demands dissolution of Lok Sabha, Assemblies; Opposition steps up campaign against SIR',
-      'source_url': 'https://www.thehindu.com/news/national/as-protests-against-cec-continue-rahul-launches-satyagraha-digital-platform/article71541453.ece'
-    },
-    {
-      'title': 'Protests held across country demanding CEC Gyanesh Kumar’s ouster, hundreds detained',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Congress leader Rahul Gandhi slams police action on protesters, says ‘lathi can stop a crowd, but not a question’; political parties, activists and students take out rallies across States seeking electoral reforms and rollback of SIR',
-      'source_url': 'https://www.thehindu.com/news/national/protests-held-across-country-demanding-cec-gyanesh-kumars-ouster-hundreds-detained/article71537923.ece'
-    },
-    {
-      'title': 'Insulting people’s mandate is Congress’ old habit: BJP',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Shivraj Chouhan accuses Kharge of attacking constitutional institutions; defends appointment process of Election Commissioners and reliability of EVMs ',
-      'source_url': 'https://www.thehindu.com/news/national/insulting-peoples-mandate-is-congress-old-habit-bjp/article71541566.ece'
-    },
-    {
-      'title': 'Delays in Tejas combat jet programme hurting IAF: Air Chief Marshal A.P. Singh',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Air Chief Marshal Singh said India is looking at finalising the MRFA deal by this financial year provided things go as per plan',
-      'source_url': 'https://www.thehindu.com/news/national/delays-in-tejas-combat-jet-programme-hurting-iaf-air-chief-marshal-ap-singh/article71541421.ece'
-    },
-    {
-      'title': 'Sheikh Hasina’s extradition possible via ‘well-structured’ process: India’s High Commissioner to Bangladesh',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'When Sheikh Hasina sought refuge after the fall of her government, ‘India had hardly any choice,’ Dinesh Trivedi says',
-      'source_url': 'https://www.thehindu.com/news/national/sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-commissioner-to-bangladesh/article71540564.ece'
-    },
-    {
-      'title': 'Chennai’s monsoon test',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'This year, the IMD has predicted normal Northeast monsoon rainfall, with a strong El Niño likely to strengthen it further towards the end of the year. Is the new TVK government prepared to face the monsoon, or will Chennai have to brace for another deluge?',
-      'source_url': 'https://www.thehindu.com/news/cities/chennai/chennais-northeast-monsoon-test-how-ready-is-the-city-to-tackle-flooding/article71539817.ece'
-    },
-    {
-      'title': 'NHRC seeks probe into alleged use of minors at CJP’s Mumbai protest',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Commission asks Mumbai police to examine roles of organisers and submit action taken report within week; directs X Corp. to preserve digital evidence',
-      'source_url': 'https://www.thehindu.com/news/national/nhrc-takes-cognisance-of-alleged-use-of-minors-at-cjps-mumbai-protest-seeks-probe/article71540585.ece'
-    },
-    {
-      'title': 'Lokesh outlines State’s strategy to become leading destination',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Speed, service and stability are the core principles, says the HRD Minister, adding that focus is on converting investment commitments into projects, jobs and long-term economic growth',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/lokesh-outlines-states-strategy-to-become-leading-destination/article71541337.ece'
-    },
-    {
-      'title': 'Kharge writes to PM and HM ',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'In his letter, Mr. Kharge said that Karnataka is staring at what could perhaps be the worst drought in 150 years and facing such a drought is impossible without adequate help from the Centre',
-      'source_url': 'https://www.thehindu.com/news/national/karnataka/kharge-writes-to-pm-and-hm/article71540642.ece'
-    },
-    {
-      'title': 'NSW planted bitou bush to stabilise dunes; it now threatens native ecosystems across 46% of coast',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Bitou bush was intentionally planted along the New South Wales coast to stabilize sand dunes. This plant has since spread extensively, covering 46% of the coastline and threatening native vegetation. Infestations of bitou bush replace native plant species and alter animal habitats throughout the region. A Threat Abatement Plan has been established ...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/from-1946-nsw-planted-south-african-bitou-bush-to-stabilise-coastal-sand-dunes-decades-later-it-had-spread-along-46-of-the-states-coastline-and-threatened-native-ecosystems/articleshow/134656149.cms'
-    },
-    {
-      'title': 'Sydney shopper’s A\$4 cup turns out to be worth A\$75,640',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'A shopper discovered a unique Chinese libation cup at a thrift shop in Sydney, Australia. They bought the cup for A\$4 despite its significant chip. After assessing the item, a Sotheby\'s specialist appraised it at A\$20,000 to A\$30,000. The item was later auctioned for A\$75,640, significantly exceeding the original purchase price. This event highligh...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/a-sydney-shopper-bought-a-carved-cup-for-a4-at-a-thrift-shop-experts-identified-it-as-a-centuries-old-chinese-rhinoceros-horn-cup-and-was-auctioned-for-a75640-in-2013/articleshow/134656341.cms'
-    },
-    {
-      'title': 'US Marine arrested in Japan over murder, robbery of local woman',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/us-marine-arrested-in-japan-over-murder-robbery-of-local-woman/articleshow/134669676.cms'
+      'source_url': 'https://www.thehindu.com/news/cities/Madurai/use-of-hindi-on-highways-signboard-cannot-be-treated-as-imposition-cong-mp/article71541177.ece'
     },
     {
-      'title': 'Trump leaks senator’s number after row over clock-change bill: What’s the dispute',
+      'title': 'Protest against CEC Gyanesh Kumar LIVE: Journalist alleging molestation by ACP detained with 17 others; claims police assaulted detainees: CJP',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Under the current system, Americans move their clocks one hour forward in March and one hour back in November. Moving the clock forward means sunrise and sunset appear one hour later on the clock. If the sun would normally rise at 7 am and set at 6 pm, the clock change would make them appear as 8 am and 7 pm. This gives people more daylight in the ...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/trump-leaks-senators-number-after-row-over-clock-change-bill-whats-the-dispute/articleshow/134669077.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'On Sunday, October 4, confrontations took place in New Delhi between protesters who were trying to reach Jantar Mantar seeking removal of CEC Gyanesh Kumar, and the Delhi Police, who had heavily barricaded the area',
+      'source_url': 'https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece'
     },
     {
-      'title': '‘Blatant lie’: China slams US panel’s ‘genocide’ claim after Starbucks opens first Xinjiang stores',
+      'title': 'CEC\'s ability to \'execute G2\'s illegal orders\' makes him a liability for country: Congress',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'China\'s foreign ministry has condemned a US congressional committee\'s criticism of Starbucks for opening stores in Xinjiang. The US claims genocide against the Uyghur minority in the region, which China denies vehemently. Despite the accusations, Starbucks intends to continue its business operations in Xinjiang. The company recently expanded throug...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/china/blatant-lie-china-slams-us-panels-genocide-claim-after-starbucks-opens-first-xinjiang-stores/articleshow/134669097.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'Jairam Ramesh\'s attack on the CEC came a day after Supreme Court judge Justice Ujjal Bhuyan remarked that any process that \"disenfranchises\" millions of Indian citizens is \"intrinsically arbitrary\" and a \"negation\" of the constitutional order',
+      'source_url': 'https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece'
     },
     {
-      'title': 'ShinyHunters hacker in FBI data theft held in Jordan',
+      'title': 'Clip of Naidu calming crowd at Sitharaman’s speech in Andhra’s Madanapalle sets off Congress-NDA row',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
+      'summary': 'Jairam Ramesh reposts a video of the October 2 event saying the public’s anger forced the Chief Minister to silence the crowd; Naidu, Sitharaman, Lokesh and the BJP say it was party workers’ enthusiasm',
+      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/clip-of-naidu-calming-crowd-at-sitharamans-speech-in-andhras-madanapalle-sets-off-congress-nda-row/article71544334.ece'
+    },
+    {
+      'title': 'BJP steps up demand for Thiruvananthapuram Corporation CPI(M) councillor’s resignation over bribery allegations',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'A purported video of CPI(M) councillor demanding ₹10 lakh from Sanju, a native of Thirumala, to resolve issues concerning a plot he purchased in the ward, had begun circulating two days ago',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/bjp-steps-up-demand-for-thiruvananthapuram-corporation-cpim-councillors-resignation-over-bribery-allegations/article71543138.ece'
+    },
+    {
+      'title': 'Thiruvananthapuram Corporation: R. Sreelekha’s resignation bid puts BJP in a spot',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/shinyhunters-hacker-in-fbi-data-theft-held-in-jordan/articleshow/134668729.cms'
+      'source_url': 'https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporation-r-sreelekhas-resignation-bid-puts-bjp-in-a-spot/article71541399.ece'
     },
     {
-      'title': 'Tennessee prison chief Frank Strada resigns after Christa Pike\'s botched execution',
+      'title': 'Process disenfranchising millions, turning them to second class citizens is arbitrary, says Justice Bhuyan',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
+      'summary': 'The Supreme Court judge says no amount of whataboutery can justify the exclusion of voters en masse from the electoral rolls as such an action is fatal to the Constitution',
+      'source_url': 'https://www.thehindu.com/news/national/process-disenfranchising-millions-turning-them-to-second-class-citizens-is-arbitrary-says-justice-bhuyan/article71543734.ece'
+    },
+    {
+      'title': 'UDF government already falling apart, says M.V. Jayarajan',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'He alleged that the government was failing to focus on people’s problems, including preventing power outages, filling vacant doctor posts, supplying medicines to hospitals and ensuring their availability and distribution',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/udf-government-already-falling-apart-says-mv-jayarajan/article71543256.ece'
+    },
+    {
+      'title': ' Asian Games 2026: Karnataka athletes return with a haul of four gold, three silver and two bronze medals',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'The four golds mark an improvement from the 2022 edition in Hangzhou, China, where sportspersons from the State helped India secure three gold medals',
+      'source_url': 'https://www.thehindu.com/news/national/karnataka/asian-games-2026-karnataka-athletes-return-with-a-haul-of-four-gold-three-silver-and-two-bronze-medals/article71544182.ece'
+    },
+    {
+      'title': 'Congress claims tribal students headed for Mumbai protest detained; condemns action',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'The students, who were seeking the resignation of the tribal development minister and the department\'s commissioner, were threatened with police cases and a bus carrying them was taken into custody, the Congress claimed.',
+      'source_url': 'https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece'
+    },
+    {
+      'title': 'Tamil Nadu bypolls: Madurantakam and Dharapuram Assembly constituency profiles, candidates, key facts',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Madurantakam and Dharapuram Assembly constituencies in Tamil Nadu are gearing up for bypolls on October 6, 2026, following the resignation of AIADMK legislators Maragatham Kumaravel and P. Sathyabama, respectively.',
+      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-2026-madurantakam-constituency-profile-candidates-key-facts/article71491499.ece'
+    },
+    {
+      'title': 'West Bengal, Tamil Nadu, Assam, and Puducherry bypolls: Constituencies, candidates, result date and more',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Tamil Nadu, Assam, Puducherry, West Bengal and Assam are heading for bypolls. Here’s all you need to know.',
+      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu-puducherry-west-bengal-assam-by-polls-candidates-constituencies/article71527814.ece'
+    },
+    {
+      'title': 'Sanjay Dutt clarifies after his ‘no peace in India’ remark turns into a row',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Actor Sanjay Dutt’s ‘no peace in India’ remark in Shekhar Tonite show sparked a controversy, forcing him to issue a  clarification on X',
+      'source_url': 'https://www.thehindu.com/news/national/sanjay-dutt-no-peace-in-india-remark-controversy-clarification-shekhar-tonite-show/article71545821.ece'
+    },
+    {
+      'title': 'Hyderabad and its four police commissionerates: what has changed, and why? Explained',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Hyderabad’s policing map has undergone another round of changes nine months after the creation of four commissionerates. What prompted the fresh rationalisation? How will the redrawn jurisdictions affect policing and residents across the city?',
+      'source_url': 'https://www.thehindu.com/news/national/telangana/hyderabad-and-its-four-police-commissionerates-what-has-changed-and-why-explained/article71534480.ece'
+    },
+    {
+      'title': 'West Bengal bypolls: Nandigram and Rejinagar key candidates, past trends and more',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'West Bengal’s October 6 bypolls in Nandigram and Rejinagar will see BJP take on Congress in Nandigram and TMC in Rejinagar in an intense poll contest',
+      'source_url': 'https://www.thehindu.com/news/national/west-bengal/west-bengal-by-elections-nandigram-rejinagar-assembly-constituencies-bjp-tmc-congress-suvendu-adhikari-mamata-banerjee/article71532213.ece'
+    },
+    {
+      'title': 'Reintroduction of tigers in Buxa: What it means for conservation | Explained',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'The release of the tigress is not is not merely about bringing tigers back to Buxa but its “objective is to create the conditions in which a tiger population can establish, breed and ultimately become viable and self-sustaining,” PIB said in a statement.',
+      'source_url': 'https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71540010.ece'
+    },
+    {
+      'title': '500 detained in Delhi on Day 3 of protests seeking CEC’s exit; Thackerays lead Mumbai march',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Delhi Police stop protesters as they try to march towards heavily barricaded Jantar Mantar; in Mumbai, Uddhav Thackeray describes CEC as BJP’s \'weapon\', Raj Thackeray calls for use of ballot papers instead of EVMs',
+      'source_url': 'https://www.thehindu.com/news/national/500-detained-in-delhi-on-day-3-of-protests-seeking-cecs-exit-thackerays-lead-mumbai-march/article71544629.ece'
+    },
+    {
+      'title': 'While KPSC flounders, KEA finishes recruitment process for 7,905 posts in four months in Karnataka',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Candidates, who have been waiting for government jobs for years, are expected to join the Karnataka Police within the next three months',
+      'source_url': 'https://www.thehindu.com/news/national/karnataka/while-kpsc-flounders-kea-finishes-recruitment-process-for-7905-posts-in-four-months-in-karnataka/article71519426.ece'
+    },
+    {
+      'title': 'Asian Games 2026 India’s medallists: Full list of winners',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Here’s the full list of Indian medallists at the Aichi-Nagoya Asian Games 2026 categorised by sport',
+      'source_url': 'https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece'
+    },
+    {
+      'title': 'Fadnavis fires ‘Ghajini’ barb at Thackeray cousins over protest march',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'In a dig, he said one should try to sound believable while speaking lies',
+      'source_url': 'https://www.thehindu.com/news/national/maharashtra/fadnavis-fires-ghajini-barb-at-thackeray-cousins-over-protest-march/article71544836.ece'
+    },
+    {
+      'title': 'Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'T. Asaf Ali, Director General of Prosecution, gives legal advice that there is no legal bar in proceeding against Gyanesh Kumar. The case pertains to the reported suicide of Malaysian Lee See Been, a former chief project officer of Kerala State Transport Project for reconstruction of M.C. Road',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/keralam-government-gets-legal-opinion-to-proceed-against-chief-election-commissioner-gyanesh-kumar-in-abetment-to-suicide-case/article71544342.ece'
+    },
+    {
+      'title': 'The right to more than a room and roof',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'The Odisha government has formulated guidelines to safeguard the property rights of persons with disabilities. Satyasundar Barik spoke to those impacted and to activists, who say that these guidelines were needed for both inherited and self-acquired property, and how mandates help improve lives',
+      'source_url': 'https://www.thehindu.com/news/national/odisha/the-right-to-more-than-a-room-and-roof/article71541782.ece'
+    },
+    {
+      'title': 'Man, two grandchildren drown in agricultural pond in Chickballapur',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'The Chintamani Rural Police visited the spot and conducted an initial inspection. The bodies were subsequently recovered from the pond and shifted to the Chintamani Government Hospital mortuary for post-mortem.',
+      'source_url': 'https://www.thehindu.com/news/national/karnataka/man-two-grandchildren-drown-in-agricultural-pond-in-chickballapur/article71543310.ece'
+    },
+    {
+      'title': 'Once thought extinct, a plant becomes star of Wildlife Week at Keralam’s Parambikulam',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'The exhibition as part of Wildlife Week at Parambikulam has been named after Haplothismia exannulata, a tiny plant that was found again in the forest 26 years ago after more than a century without a trace',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/once-thought-extinct-a-plant-becomes-star-of-wildlife-week-at-keralams-parambikulam/article71544389.ece'
+    },
+    {
+      'title': 'U.P. releases new sugarcane varieties eyeing increasing production',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/tennessee-prison-chief-frank-strada-resigns-after-christa-pikes-botched-execution-governor-orders-review/articleshow/134668532.cms'
+      'source_url': 'https://www.thehindu.com/news/national/uttar-pradesh/up-releases-new-sugarcane-varieties-eyeing-increasing-production/article71544504.ece'
     },
     {
-      'title': 'Accepted her as she was still PM: Indian envoy on Hasina\'s flight',
+      'title': 'Kerala High Court orders CBI probe into soldier’s disappearance 14 years ago',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
+      'summary': 'Subash Chandra Bose, a native of Vengoor in Ernakulam who was serving with the Tripura State Rifles, went missing in April 2012 while travelling by train to rejoin duty after leave',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/kerala-hc-directs-cbi-to-investigate-14-year-old-case-of-a-missing-paramilitary-force-soldier/article71543550.ece'
+    },
+    {
+      'title': 'How flydubai security failure, across 3 countries, almost led to \'Israel’s 9/11’',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/south-asia/accepted-her-as-she-was-still-pm-indian-envoy-on-hasinas-flight/articleshow/134668427.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/how-flydubai-security-failure-across-3-countries-almost-led-to-israels-9/11/articleshow/134686418.cms'
     },
     {
-      'title': 'Russia vows massive hits on Kyiv, urges diplomats to leave',
+      'title': 'Presidential election today? Trump confuses India with Brazil, claims 125 million voted',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Ukraine ready to consider India’s ceasefire proposal: Finance minister',
-      'source_url': 'https://timesofindia.indiatimes.com/world/europe/russia-vows-massive-hits-on-kyiv-urges-diplomats-to-leave/articleshow/134668415.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'In a surprising blunder, US President Donald Trump claimed that 125 million individuals participated in India\'s presidential election, sparking confusion given Brazil\'s recent electoral events. His remarks drew attention to his concerns over the integrity of the US electoral system. Social media users quickly slammed the President and highlighted i...',
+      'source_url': 'https://timesofindia.indiatimes.com/india/presidential-election-today-trump-confuses-india-with-brazil-claims-125-million-voted/articleshow/134685727.cms'
     },
     {
-      'title': 'Hormuz blocked, but Gulf crude shipments at pre-war level',
+      'title': 'Black rat removal helped Zannone shearwater pairs rise from 27 to 80',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/india/hormuz-blocked-but-gulf-crude-shipments-at-pre-war-level/articleshow/134667214.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/in-2007-black-rats-were-eradicated-from-italys-zannone-island-by-2016-scopolis-shearwater-breeding-pairs-had-risen-from-27-to-80/articleshow/134686076.cms'
     },
     {
-      'title': '\'Do not come to USA for your masters\': Ed-tech entrepreneur warns Indian students about returning with huge debt',
+      'title': 'Schoolteacher\'s 128-acre retreat joins wildlife corridor; easement protects forests, wetlands and stream',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
+      'summary': 'Jeanne Paisley, a dedicated schoolteacher, has acquired 128 acres in Richford, New York, driven by her desire to find tranquility and preserve nature. Inspired by a profound childhood event, she has consistently sought to protect our planet\'s natural beauty. This diverse landscape, which includes forests, fields, and wetlands, plays a crucial role ...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/a-schoolteachers-128-acre-family-retreat-became-part-of-a-larger-wildlife-corridor-decades-after-buying-the-land-jeanne-paisleys-conservation-easement-now-protects-forests-wetlands-and-a-stream-linked-to-the-chesapeake-watershed/articleshow/134685822.cms'
+    },
+    {
+      'title': 'In 2005, Oprah Winfrey gave \$10M for Houston\'s Angel Lane; 65 homes and a community center followed',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'In 2005, Oprah Winfrey committed \$10 million to help create Angel Lane in Houston for hurricane evacuees. The project eventually provided 65 furnished homes to displaced families. Eight years after the first residents moved in, the neighbourhood’s long-promised community center finally opened, offering space for education, workforce development and...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-2005-oprah-winfrey-committed-10-million-to-help-build-houstons-angel-lane-for-hurricane-evacuees-65-furnished-homes-followed-and-eight-years-after-families-moved-in-a-long-promised-community-center-finally-opened/articleshow/134680291.cms'
+    },
+    {
+      'title': '3 million face masks could be used to build 1 km road, Australian study finds',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Engineers at RMIT University have discovered a groundbreaking method to recycle single-use face masks by integrating them into road construction. By blending shredded masks with recycled concrete aggregate, the researchers aim to enhance road materials while tackling the problem of mask waste. Their findings suggest that approximately 3 million mas...',
+      'source_url': 'https://timesofindia.indiatimes.com/science/discovery/in-2021-australian-engineers-mixed-shredded-single-use-face-masks-with-processed-building-rubble-for-road-bases-the-material-met-engineering-standards-and-1-km-of-two-lane-road-could-use-about-3-million-masks/articleshow/134680086.cms'
+    },
+    {
+      'title': 'Lucy Mecklenburgh, Ryan Thomas list £675,000 Cheshire mansion for £1.25 million after lavish makeover',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Lucy Mecklenburgh and Ryan Thomas are seeking a £575,000 uplift after listing their Cheshire mansion for £1.25 million. The couple bought the 3,100 sq ft Bramhall property for £675,000 in 2021 and spent thousands transforming it into a four-storey family home featuring a luxury kitchen, gym, sound studio, garage and generous gardens.',
+      'source_url': 'https://timesofindia.indiatimes.com/real-estate/news/lucy-mecklenburgh-and-ryan-thomas-bought-cheshire-mansion-for-675000-in-2021-couple-transforms-it-into-four-storey-home-property-now-listed-for-1-25m-eyeing-575000-windfall/articleshow/134679868.cms'
+    },
+    {
+      'title': 'Don Williams paid \$1.35 million for Maui land in 1994; court vacates \$7 million eminent-domain judgment',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'In 1994, Don Williams paid \$1.35 million for 1.137 acres near Maui’s Maʻalaea Harbor. More than three decades later, Hawaiʻi’s Intermediate Court of Appeals vacated a Circuit Court judgment awarding \$7 million in his long-running eminent-domain case. The appellate court found competing valuation evidence created factual disputes requiring further p...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-1994-don-williams-paid-1-35-million-for-1-137-acres-beside-mauis-maalaea-harbor-32-years-later-a-hawaii-appeals-court-vacated-a-7-million-compensation-judgment-in-the-states-long-running-eminent-domain-fight/articleshow/134679058.cms'
+    },
+    {
+      'title': '€100 typewriter turns out to be WWII Enigma machine, sold for €45,000 at auction',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'A German Enigma machine sold for €100 at a Romanian flea market surprised many when it fetched €45,000 at auction. The machine, thought to be a regular typewriter, was identified by a cryptography professor who recognized its historical significance. After purchasing it, the professor cleaned and repaired the machine to prepare it for auction. This...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/europe/a-romanian-flea-market-seller-thought-an-old-machine-was-a-typewriter-and-let-it-go-for-100-the-buyer-a-cryptography-professor-recognized-a-world-war-ii-enigma-i-and-sold-it-at-auction-in-2017-for-45000/articleshow/134678780.cms'
+    },
+    {
+      'title': 'Magenta solar panels made broccoli use sunlight 4.5 times more efficiently',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/do-not-come-to-usa-for-your-masters-ed-tech-entrepreneur-warns-indian-students-about-returning-with-huge-debt/articleshow/134665487.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/science/discovery/researchers-placed-magenta-solar-panels-above-broccoli-and-found-the-plants-used-sunlight-4-5-times-more-efficiently-while-reaching-similar-final-size-and-yield-although-they-needed-25-extra-days-to-mature/articleshow/134676020.cms'
     },
     {
-      'title': 'Green Card holder\'s mother denied B1/B2 visa to attend housewarming ceremony: They did not ask for any documents',
+      'title': '\'No terror link\': Flydubai co-pilot likely acted alone - report',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/green-card-holders-mother-denied-b1/b2-visa-to-attend-housewarming-ceremony-they-did-not-ask-for-any-documents/articleshow/134665399.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/flydubai-co-pilot-likely-acted-alone-israeli-probe-finds-no-terror-link-for-now-report/articleshow/134684870.cms'
     },
     {
-      'title': 'Laid off on the last day of OPT, Indian techie lands job with US company in India within 40 days, says, \'I was not living there, I was just surviving\'',
+      'title': 'Sent back to war zone? 1,500 migrants arrive in Myanmar from Malaysia despite UN safety warning',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/laid-off-on-the-last-day-of-opt-indian-techie-lands-job-with-us-company-in-india-within-40-days-says-i-was-not-living-there-i-was-just-surviving/articleshow/134664866.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/sent-back-to-war-zone-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-safety-warning/articleshow/134684204.cms'
     },
     {
-      'title': 'Zelensky claims Ukraine ‘de-occupied’ around 140 km of territory from Russia',
+      'title': 'Why was Kick streamer JohnWhatsGoingOn slapped during Vietnam 7-Eleven livestream?',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
+      'date': 'Oct 05, 2026',
+      'summary': 'While livestreaming from a Vietnam 7-Eleven, streamer JohnWhatsGoingOn found himself in a contentious situation when he recorded an Indian man without permission. The man expressed his discomfort with being filmed, but John continued to record, raising tensions. It culminated in a physical altercation when the man slapped the streamer, who managed ...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us-streamers/why-was-kick-streamer-johnwhatsgoingon-slapped-during-vietnam-7-eleven-livestream/articleshow/134680398.cms'
+    },
+    {
+      'title': 'NitroCamden finally meets StableRonaldo in person after Twitch raid changed his life',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'On October 3, 2026, NitroCamden and StableRonaldo connected at ComplexCon after an impactful Twitch raid that drastically altered Camden\'s streaming journey. What once began as a modest channel with just one viewer exploded overnight, amassing 100,000 followers in 24 hours. While Camden encountered personal hurdles amidst this rapid rise, their mee...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us-streamers/nitrocamden-finally-meets-stableronaldo-in-person-after-twitch-raid-changed-his-life/articleshow/134680177.cms'
+    },
+    {
+      'title': 'Malena Tudi to address viral claims about her divorce from Nmplol after months away from internet',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
+      'summary': 'Malena Tudi is gearing up for her return to Twitch to clarify misleading narratives surrounding her divorce from Nick \'Nmplol\' Polom. She highlighted the significance of dispelling false information that has impacted her personal life and integrity. Tudi aims to approach the situation with care to mitigate any further negative fallout.',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us-streamers/malena-tudi-to-address-viral-claims-about-her-divorce-from-nmplol-after-months-away-from-internet/articleshow/134680070.cms'
+    },
+    {
+      'title': 'US military kills 4 in strike on suspected drug-trafficking vessel in Caribbean',
+      'category': 'National News',
+      'date': 'Oct 05, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/europe/zelensky-claims-ukraine-de-occupied-around-140-kilometres-of-territory-from-russia-hurled-42000-casualties-a-month/articleshow/134664248.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/us-military-kills-4-in-strike-on-suspected-drug-trafficking-vessel-in-caribbean/articleshow/134684491.cms'
     },
     {
-      'title': 'Indian man arrested and charged in California for drunk driving, running over a woman and then fleeing the scene',
+      'title': 'Pewdiepie’s Ajax Ai Model: YouTuber unveils local assistant on Qwen3.5-9B; OpenAI account suspensions loom',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/indian-man-arrested-and-charged-in-california-for-drunk-driving-running-over-a-woman-and-then-fleeing-the-scene/articleshow/134664519.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'PewDiePie has unveiled Ajax, a smaller AI model designed to run locally through his self-hosted Odysseus workspace. The project follows his claim that OpenAI suspended his account twice during development, with one displayed email citing “distillation.” Built on Alibaba’s Qwen3.5-9B, Ajax aims to handle everyday tasks while offering a less restrict...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us-streamers/pewdiepies-openai-controversy-takes-a-new-turn-with-his-less-restricted-ajax-ai/articleshow/134675241.cms'
     },
     {
-      'title': 'Scientists revive 160-million-year-old proteins to fight drug-resistant bacteria',
+      'title': 'Brazil election: Lula, Flavio Bolsonaro head to runoff after tight first-round vote',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/science/discovery/scientists-resurrected-160-million-year-old-proteins-from-extinct-mammals-some-were-stronger-against-drug-resistant-bacteria-than-modern-human-versions-raising-new-hopes-for-antibiotic-research/articleshow/134639995.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'Brazilian President Luiz Inácio Lula da Silva and Senator Flavio Bolsonaro will face each other in a runoff election. Neither candidate obtained the majority required during the first round of voting. The runoff election is scheduled for October 25, 2026, with major issues such as corruption and cost of living impacting the campaign. Both candidate...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/brazil-election-lula-flavio-bolsonaro-head-to-runoff-after-tight-first-round-vote/articleshow/134683419.cms'
     },
     {
-      'title': 'Jimmy Carter’s Georgia farm solar project once supplied 60% of Plains’ power',
+      'title': 'India\'s political will needed to extradite Sheikh Hasina: Bangladesh',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-2017-jimmy-carter-leased-10-acres-of-his-georgia-farm-for-a-1-3-megawatt-solar-project-it-went-on-to-generate-about-60-of-plains-electricity-demand/articleshow/134639512.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'Bangladesh is optimistic that India will expedite the extradition process for former PM Sheikh Hasina. Indian high commissioner Dinesh Trivedi stated that legal processes are currently in motion. State Minister Shama Obaed Islam emphasized the importance of political will from both nations. Meanwhile, outgoing Bangladeshi high commissioner Riaz Ham...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/south-asia/indias-political-will-needed-to-extradite-sheikh-hasina-bangladesh/articleshow/134683095.cms'
     },
     {
-      'title': 'Author Garth Stein lists his 1924 Seattle home for \$2.45M',
+      'title': 'Flydubai co-pilot allegedly tried to crash plane after hijack attempt failed',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Garth Stein and his wife are selling their Seattle home after living there for 25 years. They purchased the property in 2001, aiming to raise their children there. The home has been extensively renovated while maintaining its original character and charm. Located in the Mount Baker neighborhood, the house features stunning views and modern amenitie...',
-      'source_url': 'https://timesofindia.indiatimes.com/real-estate/news/garth-stein-bought-a-1924-seattle-house-in-2001-and-spent-25-years-restoring-and-updating-it-while-raising-three-children-with-the-family-now-downsizing-the-3970-sq-ft-forever-house-is-asking-2-45-million/articleshow/134638215.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'An Omani co-pilot attacked the captain of a flydubai flight bound for Tel Aviv. Following the assault, he attempted to crash the aircraft into the Saudi desert. Investigators are looking into whether the co-pilot cut the engines\' fuel supply during this crisis. Emergency codes were transmitted to air traffic control indicating both a general emerge...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/flydubai-flight-incident-omani-co-pilot-may-have-tried-to-cut-engines-after-cockpit-attack/articleshow/134683005.cms'
     },
     {
-      'title': 'Tony Stewart’s 20,000-sq-ft Indiana ranch drops from \$30M to \$18.9M after two price cuts',
+      'title': 'India-US trade talks reached a ‘plateau’, says Sitharaman: ‘Give or take beyond this very difficult\'',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Tony Stewart’s Hidden Hollow Ranch in Indiana has returned to the market for \$18.9 million. The 415-acre property has a 19,713-square-foot main house with six bedrooms, an 8,700-gallon aquarium, indoor stream, bowling alley and golf simulator.',
-      'source_url': 'https://timesofindia.indiatimes.com/real-estate/news/in-2011-tony-stewart-built-a-nearly-20000-sq-ft-home-on-415-indiana-acres-with-a-waterfall-8700-gallon-aquarium-and-bowling-alley-after-asking-30-million-it-is-now-listed-at-18-9-million/articleshow/134635789.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'Nirmala Sitharaman, however, also said that maybe if there are rooms to operate from, both sides would do it.&nbsp;',
+      'source_url': 'https://www.hindustantimes.com/india-news/india-us-trade-talks-reached-a-plateau-says-sitharaman-give-or-take-beyond-this-very-difficult-101791177215458.html'
     },
     {
-      'title': 'O\'Connor ranching legacy began in 1834; 6,409 acres of Texas prairie protected 191 years later',
+      'title': 'Delhi excise department invites applications to reduce imported liquor prices after India-UK trade pact',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The historic T.M. O\'Connor Ranch in Texas has gained a notable conservation easement, protecting nearly 6,409 acres of precious coastal prairie while enabling ranching operations to persist. Made feasible through a combination of federal and private funding under the RESTORE program, this area plays a pivotal role in supporting over 300 distinct wi...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-1834-the-oconnor-familys-texas-ranching-legacy-began-191-years-later-an-8-863-million-deal-protected-6409-acres-of-coastal-prairie-while-keeping-it-a-working-cattle-ranch/articleshow/134637437.cms'
+      'date': 'Oct 05, 2026',
+      'summary': 'The department said the trade agreement has reduced the aggregate effective customs duty on specified liquor imports from the UK from 150% to 75%.',
+      'source_url': 'https://www.hindustantimes.com/india-news/delhi-excise-department-invites-applications-to-reduce-imported-liquor-prices-after-india-uk-trade-pact-101791176127850.html'
     },
     {
-      'title': 'SP MP takes \'so scared\' dig at Rahul Gandhi over UP seat sharing; Congress hits back, Akhilesh Yadav intervenes',
+      'title': 'Saurav Das claims govt ‘planning’ to arrest him, Abhijeet Dipke, other CJP leaders before Oct 10 protest at Jantar Mantar',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'SP MP from Pratapgarh, Shiv Pal Singh Patel, claimed that without an alliance with SP, Congress would not have won a single seat in the 2024 Lok Sabha election.',
-      'source_url': 'https://www.hindustantimes.com/india-news/sp-mp-rahul-gandhi-was-so-scared-to-contest-from-amethi-up-seat-sharing-congress-hits-back-akhilesh-yadav-intervenes-101791088986183.html'
+      'date': 'Oct 05, 2026',
+      'summary': '“But this will be a big mistake. The young will not tolerate this,” CJP\'s Saurav Das said in a social media post.&nbsp;',
+      'source_url': 'https://www.hindustantimes.com/india-news/saurav-das-claims-govt-planning-to-arrest-him-abhijeet-dipke-other-cjp-leaders-before-oct-10-protest-at-jantar-mantar-delhi-101791174102753.html'
     },
     {
-      'title': 'School roof in Bihar’s Kiratpur held up by benches, bricks after pillar collapses',
+      'title': 'Two juveniles apprehended for injuring 16-year-old over bike-related quarrel',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The precarious structure at Kiratpur Primary School in Alinagar block has raised concerns about the safety of the 191 children enrolled there.',
-      'source_url': 'https://www.hindustantimes.com/india-news/school-roof-in-bihar-s-kiratpur-held-up-by-benches-bricks-after-pillar-collapses-darbhanga-101791090752489.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Two juveniles apprehended for injuring 16-year-old over bike-related quarrel',
+      'source_url': 'https://www.hindustantimes.com/india-news/two-juveniles-apprehended-for-injuring-16-year-old-over-bike-related-quarrel-101791174931292.html'
     },
     {
-      'title': 'UP fifth-largest exporting state, Bhadohi carpets making major contribution: CM',
+      'title': 'India, US plan strategic projects in Indian Ocean',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'UP fifth-largest exporting state, Bhadohi carpets making major contribution: CM',
-      'source_url': 'https://www.hindustantimes.com/india-news/up-fifth-largest-exporting-state-bhadohi-carpets-making-major-contribution-cm-101791090231163.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The partnership is expected to take place under the Indian Ocean Strategic Venture (IOSV initiative launched by PM Narendra Modi and President Donald Trump',
+      'source_url': 'https://www.hindustantimes.com/india-news/india-us-plan-strategic-projects-in-indian-ocean-101791174858511.html'
     },
     {
-      'title': 'Delhi AQI hits 196, highest in 82 days; no rain forecast for next week',
+      'title': 'Sharjeel Imam reaches Jehanabad village on interim bail to attend cousin\'s wedding',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Delhi AQI rose to 196 on Sunday, the highest in over 82 days, as 22 monitoring stations recorded ‘poor’ air and no rain is forecast for a week.',
-      'source_url': 'https://www.hindustantimes.com/india-news/delhi-aqi-hits-196-highest-in-82-days-no-rain-forecast-for-next-week-101791090182536.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Speaking about Imam\'s arrival, his brother Muzammil said that this was only the second time in around seven years that Sharjeel had been granted bail.',
+      'source_url': 'https://www.hindustantimes.com/india-news/sharjeel-imam-reaches-jehanabad-village-on-interim-bail-to-attend-cousins-wedding-101791174476731.html'
     },
     {
-      'title': 'Nashik onion wholesale prices fall to  ₹46/kg from  ₹55, retail rates stay high',
+      'title': 'Delhi Police avoid name tags at Jantar Mantar protests to prevent social media targeting',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Nashik onion wholesale prices have fallen to  ₹46/kg from  ₹55 a month ago as fresh arrivals from Karnataka and Andhra Pradesh put pressure on Lasalgaon rates.',
-      'source_url': 'https://www.hindustantimes.com/india-news/nashik-onion-wholesale-prices-fall-to-46-kg-from-55-retail-rates-stay-high-101791089642840.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The measure was adopted as police personnel were targeted on social media following violence during the CJP march in July',
+      'source_url': 'https://www.hindustantimes.com/india-news/police-avoid-name-tags-at-jantar-mantar-protests-to-avoid-social-media-targeting-101791174558642.html'
     },
     {
-      'title': 'HistoriCity: A look at the layered history of Ozene, or Uzain, or what we call Ujjain',
+      'title': '\'No point in participating in polls until Gyanesh Kumar resigns\': CJP\'s Abhijeet Dipke amid SIR row',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Ujjain’s history spans 4,000 years, from Avanti and the Mauryan empire to Kalidasa, Vikramaditya, Mahakaleshwar and its role in Indian astronomy.',
-      'source_url': 'https://www.hindustantimes.com/india-news/historicity-a-look-at-the-layered-history-of-ozene-or-uzain-or-what-we-call-ujjain-101791087961487.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Abhijeet Dipke claimed that election outcomes in the country have become \"predetermined,\" rendering participation in the polls meaningless.',
+      'source_url': 'https://www.hindustantimes.com/india-news/no-point-in-participating-in-polls-until-cec-gyanesh-kumar-resigns-cjp-abhijeet-dipke-amid-sir-row-101791171401578.html'
     },
     {
-      'title': '‘Marry early, have five kids’: BJP MP\'s advice to Hindus, cites birth rate of ‘other community’',
+      'title': 'Delhi protests LIVE: CJP claims govt planning to arrest Dipke, spokespersons before Oct 10 stir against CEC',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Gajendra Singh Patel said, “Earlier generations would have four, five, six or even seven children. People used to marry at the age of 20, 21 or 22.”',
-      'source_url': 'https://www.hindustantimes.com/india-news/marry-early-have-five-kids-bjp-mps-advice-to-hindus-cites-birth-rate-of-other-community-101791085823851.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Delhi protests LIVE: CJP spokesperson Ashutosh Ranka said on Monday multiple sources have reached out informing that outfit founder Abhijeet Dipke, spokesperson Saurav Das along with he himself will be arrested anytime before October 10 under NSA or other equivalent provisions.',
+      'source_url': 'https://www.hindustantimes.com/india-news/protest-news-live-updates-cec-gyanesh-kumar-resignation-jantar-mantar-cjp-protest-neha-bora-journalists-delhi-police-101791172740918.html'
     },
     {
-      'title': 'Indian envoy on giving shelter to Sheikh Hasina: \'It was our duty...she was still Bangladesh PM\'',
+      'title': 'Trump mistakes Brazil for India, says 125 million voted today in \'India\'s Presidential Election\'',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Former Bangladesh PM Sheikh Hasina has been living in India after fleeing Dhaka following the collapse of her government in August 2024.',
-      'source_url': 'https://www.hindustantimes.com/india-news/bangladesh-sheikh-hasina-india-extradition-dinesh-trivedi-latest-news-bilateral-ties-101791082744744.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Trump\'s post came a day after Brazil held the first round of its presidential election on Sunday',
+      'source_url': 'https://www.hindustantimes.com/india-news/trump-mistakes-brazil-for-india-says-125-million-voted-today-in-india-presidential-election-101791172300909.html'
     },
     {
-      'title': '‘God made me this way’: What murdered Punjab influencer Mad Sandhu, vocal about LGBT issues, told trolls',
+      'title': '‘You are brilliant, bold, brave’: Top court judge Ujjal Bhuyan praises NALSAR students weeks after CJI row',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': '‘Mad Sandhu’ had built a strong online following through his work as a fashion stylist, makeup artist, and digital creator, which also drew criticism from some.',
-      'source_url': 'https://www.hindustantimes.com/india-news/god-made-me-this-way-what-murdered-punjab-influencer-mad-sandhu-madhusudan-vocal-about-lgbt-issues-told-trolls-101791083290784.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Ujjal Bhuyan went on to praise NALSAR\'s faculty, saying, “You have performed your duties admirably; you have done what a university teacher is expected to do”.',
+      'source_url': 'https://www.hindustantimes.com/india-news/you-are-brilliant-bold-brave-top-court-judge-ujjal-bhuyan-praises-nalsar-students-weeks-after-cji-row-101791170319578.html'
     },
     {
-      'title': 'Husband’s CBI case led wife to study law, fight his legal battle and write a book',
+      'title': 'IIMs yet to complete faculty reservation rosters nearly a year after centre’s directive',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'After her husband’s CBI arrest in 2006, Sweta studied law, became a lawyer and took charge of his legal battle. Their journey is now a book.',
-      'source_url': 'https://www.hindustantimes.com/india-news/husbands-cbi-case-led-wife-to-study-law-fight-his-legal-battle-and-write-a-book-101791085322570.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The ministry first discussed implementing reservation policies on September 23, 2025 meeting, when it asked all IIMs to prepare their rosters and share them',
+      'source_url': 'https://www.hindustantimes.com/education/indian-institute-of-management-yet-to-complete-faculty-reservation-rosters-nearly-a-year-after-centre-s-directive-101791168360831.html'
     },
     {
-      'title': 'HT Morning Brief October 4: India women rule Asian Games hockey again; IIT-B director quizzed over suicide',
+      'title': 'Indore woman, 20, kills grandfather with a bat, says he abused her as a child',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Your daily briefing is here, covering politics, world news, sports and entertainment.',
-      'source_url': 'https://www.hindustantimes.com/india-news/india-asian-games-iit-bombay-suicide-neet-ug-paper-leak-flydubai-indian-pilot-salman-khan-news-101791082506060.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Jadon said the woman went to her grandparents’ house on her motorcycle at 3am on Sunday carrying a cricket bat.',
+      'source_url': 'https://www.hindustantimes.com/india-news/indore-woman-20-kills-grandfather-with-a-bat-says-he-abused-her-as-a-child-101791172097883.html'
     },
     {
-      'title': '\'Punishment within 3 years\': Amit Shah backs new criminal laws, vows drug-free Madhya Pradesh by 2029',
+      'title': '3 Pakistani nationals among 7 booked in Karnataka for terror links, ‘radicalising’ state youths',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'He also pledged to make the state drug-free by 2029 and outlined plans for 75,000 new cooperative dairies as part of White Revolution 2.0.',
-      'source_url': 'https://www.hindustantimes.com/india-news/punishment-within-3-years-amit-shah-backs-new-criminal-laws-vows-drug-free-madhya-pradesh-by-2029-bhopal-visit-101791079636259.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'As per police, WhatsApp and Instagram were used to communicate with members of banned terrorist organisations and illegal arms traffickers.',
+      'source_url': 'https://www.hindustantimes.com/india-news/3-pakistani-nationals-among-7-booked-in-karnataka-for-terror-links-radicalising-state-youths-101791171703214.html'
     },
     {
-      'title': '3 boys drown during Gandhi Jayanti outing at Vizag beach',
+      'title': 'Bihar cop suspended for brandishing pistol at people during flood relief distribution',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Three teenagers drowned after venturing into the sea during a trip to Visakhapatnam’s Rushikonda beach on Gandhi Jayanti, police said, adding that one body was recovered on Friday evening and the other two washed ashore early on Saturday',
-      'source_url': 'https://www.hindustantimes.com/india-news/3-boys-drown-during-gandhi-jayanti-outing-at-vizag-beach-101791056214634.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The incident, prima facie, reflects \"gross negligence of duty, indiscipline and arbitrariness\", said an official statement issued on Sunday.',
+      'source_url': 'https://www.hindustantimes.com/india-news/bihar-cop-suspended-for-brandishing-pistol-at-people-during-flood-relief-distribution-101791169952245.html'
     },
     {
-      'title': 'Lokesh calls for IIT alumni to aid Andhra’s economic development',
+      'title': 'Kuki Man found dead after alleged abduction by armed group in Manipur\'s Kangpokpi district',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Andhra Pradesh IT and education minister Nara Lokesh on Saturday sought the support of the Pan-IIT alumni community in transforming the state into a developed economy and contributing to the national goal of Viksit Bharat-2047',
-      'source_url': 'https://www.hindustantimes.com/india-news/lokesh-calls-for-iit-alumni-to-aid-andhra-s-economic-development-101791056154662.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The deceased has been identified as one Hemjang Haokip (76), and he was reportedly captured by some unknown armed miscreants from a paddy field.',
+      'source_url': 'https://www.hindustantimes.com/india-news/kuki-man-found-dead-after-alleged-abduction-by-armed-group-in-manipurs-kangpokpi-district-101791170072179.html'
     },
     {
-      'title': '4 women killed after private bus overturns in Telangana’s Vikarabad',
+      'title': 'Army veteran among 2 held in Assam for passing defence information to Pakistani operative, were ‘honey-trapped’ via online sex rackets',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Four women were killed and many others were injured after the private bus they were travelling in overturned on the Ananthagiri Ghat Road in Telangana’s Vikarabad district on Saturday, police said',
-      'source_url': 'https://www.hindustantimes.com/india-news/4-women-killed-after-private-bus-overturns-in-telangana-s-vikarabad-101791056095223.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The accused include an Army veteran working on contract after retirement and a Bihar resident, with police alleging they shared information on Army movements.',
+      'source_url': 'https://www.hindustantimes.com/india-news/army-veteran-among-two-held-in-assam-for-passing-defence-info-to-pakistani-operative-were-honey-trapped-via-online-sex-rackets-101791169171332.html'
     },
     {
-      'title': '5 killed, 10 injured in boiler blast at pharma unit in Andhra Pradesh’s Tirupati',
+      'title': 'Will focus on nationals, says Asian Games shooting star Rudrankksh Patil',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The explosion occurred during the night shift at Till Healthcare’s tablet manufacturing facility in Sri City SEZ, triggering a major fire.',
-      'source_url': 'https://www.hindustantimes.com/india-news/5-killed-in-boiler-blast-at-andhra-pharma-unit-101791055975166.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Will focus on nationals, says Asian Games shooting star Rudrankksh Patil',
+      'source_url': 'https://www.hindustantimes.com/india-news/will-focus-on-nationals-says-asian-games-shooting-star-rudrankksh-patil-101791170564868.html'
     },
     {
-      'title': '3 Army personnel among 7 held in Telangana arms theft case',
+      'title': 'Fiscal federalism: Why public finance matters to every citizen',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Sumathi said the accused allegedly planned to use the stolen weapons to carry out robberies targeting banks, jewellery shops and wealthy individuals.',
-      'source_url': 'https://www.hindustantimes.com/india-news/3-army-personnel-among-7-held-in-telangana-arms-theft-case-101791055854944.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Sarthak Pradhan and Pranay Kotasthane\'s book, Fiscal Fables, offers insights into India\'s public finance, linking tax policies to citizen welfare.',
+      'source_url': 'https://www.hindustantimes.com/india-news/fiscal-federalism-why-public-finance-matters-to-every-citizen-101791169836094.html'
     },
     {
-      'title': 'AAP MLA suspended for \'anti-party activities\' after questions raised on Punjab govt education reform claims',
+      'title': 'JEE Advanced 2026: SC, ST qualification rates jump; highest for women in 6 years',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'He accused the party leadership of harassment and claimed he faced a personal security threat. AAP has not responded to his allegations.',
-      'source_url': 'https://www.hindustantimes.com/india-news/party-alleges-indiscipline-aap-suspends-mla-who-criticised-punjab-government-101791054246035.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The SC qualification rate rose to 50.16% this year from 40.41% in 2025 while that for the ST increased to 42.14% from 33.99%',
+      'source_url': 'https://www.hindustantimes.com/india-news/jee-advanced-2026-sc-st-qualification-rates-jump-highest-for-women-in-6-years-101791170119277.html'
     },
     {
-      'title': 'Bitchat removed from Apple\'s India app store after Centre\'s demand: Dorsey amid anti-EC stir',
+      'title': 'Shop owner, brothers held for repeatedly raping teen in Darjeeling; cops say survivor pregnant, blackmailed with videos',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The move follows protests demanding resignation of Chief Election Commissioner, amid claims of curtailing free speech.',
-      'source_url': 'https://www.hindustantimes.com/india-news/bitchat-access-removed-in-india-after-centre-demand-jack-dorsey-jantar-mantar-protests-101791075168266.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The accused made videos of the crime and allegedly blackmailed the girl. The family alleged that the accused also threatened to kill her, police said.',
+      'source_url': 'https://www.hindustantimes.com/india-news/shop-owner-brothers-held-for-repeatedly-raping-teen-in-darjeeling-cops-say-survivor-pregnant-blackmailed-with-videos-101791169718559.html'
     },
     {
-      'title': 'TMC loses 2 chairships to BJP, rebel faction in major parliamentary panel reshuffle',
+      'title': 'HT Morning Brief October 5: SC judge Ujjal Bhuyan on SIR; Avinash Mishra wins Khatron Ke Khiladi 15',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'TMC’s Dola Sen was replaced by BJP\'s Sudhanshu Trivedi, and rebel TMC leader Kakoli Ghosh Dastidar replaced Kirti Azad.&nbsp;',
-      'source_url': 'https://www.hindustantimes.com/india-news/tmc-loses-2-chairships-to-bjp-rebel-faction-in-major-parliamentary-panel-reshuffle-101791078983411.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Grab your tea and check the roundup of major stories from politics, world, sports, and entertainment.',
+      'source_url': 'https://www.hindustantimes.com/india-news/ht-morning-news-brief-october-5-sc-judge-ujjal-bhuyan-sir-row-flydubai-omani-co-pilot-us-iran-delhi-aqi-avinash-mishra-khatron-ke-khiladi-news-101791167877880.html'
     },
     {
-      'title': '‘False charade’ vs ‘total buffoons’: Congress, CJP trade barbs over growing political footprint as Mamata backs youth group',
+      'title': 'US choosing to be a \'lonelier power\'; China rising on world stage: S Jaishankar',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Tensions were high as Congress accused CJP of evading cooperation, while CJP leaders defended their position, highlighting shifts in youth politics.',
-      'source_url': 'https://www.hindustantimes.com/india-news/false-charade-vs-total-buffoons-congress-cjp-trade-barbs-over-growing-political-footprint-as-mamata-backs-youth-group-101791077883830.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'In his address, the minister also laid out a road map for India’s economic growth, touched upon AI’s use and the FTA with the EU.',
+      'source_url': 'https://www.hindustantimes.com/india-news/us-choosing-to-be-a-lonelier-power-china-rising-on-world-stage-s-jaishankar-munich-security-conference-new-delhi-101791168736834.html'
     },
     {
-      'title': '‘Blows kept coming’: Capt Smit Machchhar\'s detailed account of flydubai ‘crash attempt’ in call with Netanyahu',
+      'title': 'Bypoll campaigns for 5 assembly, 1 Lok Sabha seats come to an end; polls open Oct 6',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'UAE investigators said that the co-pilot planned attacked Machchhar with an axe. Airlines are generally required to keep crash axes in cockpits for emergencies.',
-      'source_url': 'https://www.hindustantimes.com/india-news/smit-machchhar-pilot-detailed-account-flydubai-blows-kept-coming-one-last-fight-in-me-omani-copilot-netanyahu-call-uae-israel-101791077428994.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Voting will be held on October 6 for five assembly seats and one Lok Sabha constituency across three states and a Union Territory',
+      'source_url': 'https://www.hindustantimes.com/india-news/bypoll-elections-2026-assam-tamil-nadu-west-bengal-puducherry-election-commission-news-voting-on-october-6-101791169305059.html'
     },
     {
-      'title': 'IRCTC money laundering case: Delhi court to announce charges against Lalu Prasad Yadav, others on Oct 30',
+      'title': '\'Brahmins will have a dominant role in this election\': BJP sharpens upper caste outreach ahead of Uttar Pradesh assembly polls',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The delay arises from a previous judge\'s order, leaving the case in procedural uncertainty as the current judge seeks clarification.',
-      'source_url': 'https://www.hindustantimes.com/india-news/irctc-money-laundering-case-delhi-court-to-announce-charges-against-lalu-prasad-yadav-others-on-oct-30-101791076903807.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The party plans caste-focused meetings to address concerns among upper castes while continuing its broader outreach to non-dominant and marginalised communities',
+      'source_url': 'https://www.hindustantimes.com/india-news/brahmins-will-have-a-dominant-role-in-this-election-bjp-sharpens-upper-caste-outreach-ahead-of-uttar-pradesh-assembly-polls-101791168069653.html'
     },
     {
-      'title': 'Uncertainty now a standing condition of global economy: Finance minister Nirmala Sitharaman',
+      'title': '‘Unauthorised centralisation’: Congress leader files complaint against EC official amid electoral roll software row',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The finance minister cited the critical minerals mission, rare earth corridors, semiconductor programme and small modular reactors as key strategic responses.',
-      'source_url': 'https://www.hindustantimes.com/india-news/uncertainty-now-a-standing-condition-of-international-economy-says-finance-minister-nirmala-sitharaman-highlights-indias-economic-resilience-101791072066678.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The complaint comes amid a national row over the ECI\'s electoral roll software. ERONet was rolled out in 2017-18, while ECINet was launched in January 2026.',
+      'source_url': 'https://www.hindustantimes.com/india-news/unauthorised-centralisation-congress-leader-files-complaint-against-ec-official-amid-electoral-roll-software-row-dg-it-seema-khanna-ajoy-kumar-101791165633002.html'
     },
     {
-      'title': '‘Delay in inducting new fighter jets hurting IAF’: Air Chief Marshal AP Singh highlights need for strengthening IAF',
+      'title': 'GST 2.0 may replace arrests with fines for tax defaulters',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'He praised Captain Machchhar\'s bravery and stressed the importance of timely delivery of fighter jets to maintain operational readiness against growing threats.',
-      'source_url': 'https://www.hindustantimes.com/india-news/delay-in-inducting-new-fighter-jets-hurting-iaf-need-40-aircraft-every-year-air-chief-marshal-ap-singh-highlights-need-for-strengthening-iaf-101791071730601.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'The second phase of reforming GST follows revenue stabilisation after last year’s rate rationalisation.',
+      'source_url': 'https://www.hindustantimes.com/business/gst-2-0-reforms-may-replace-arrests-with-fines-for-tax-defaulters-goods-and-services-tax-gst-council-news-101791167149777.html'
     },
     {
-      'title': 'Government, NTA officials may not be named in CBI charge sheet over NEET-UG paper leak',
+      'title': 'Thousands of fish die in Doddagubbi lake',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The agency’s probe has established the alleged role of 13 people, including NTA-appointed subject experts, coaching centre operators, middlemen and candidates.',
-      'source_url': 'https://www.hindustantimes.com/india-news/neet-ug-2026-paper-leak-cbi-set-to-file-final-charge-sheet-within-a-week-101791070939080.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Thousands of fish have died in Doddagubbi Lake, a 125 acre water body in Bengaluru’s Mahadevapura Assembly constituency, after polluted water entered the lake during recent rains, with officials suspecting a sharp fall in dissolved oxygen.',
+      'source_url': 'https://www.hindustantimes.com/india-news/thousands-of-fish-die-in-doddagubbi-lake-101791140771160.html'
     },
     {
-      'title': 'Uttarakhand electoral base trimmed by over 10% post SIR; final list at 7.16 million electors',
+      'title': 'K’taka seeks  ₹7.5k-crore for drought losses: Dy CM',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'The final list added 129,872 names and removed 104,708 after the claims and objections period, resulting in 25,164 more electors than the draft roll.',
-      'source_url': 'https://www.hindustantimes.com/india-news/uttarakhand-electoral-base-trimmed-by-over-10-post-sir-final-list-at-7-16-million-electors-101791073244066.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Karnataka has estimated losses of about  ₹46,000 crore from the first two phases of its drought and is seeking around  ₹7,500 crore from the Centre under its prescribed relief norms, Deputy Chief Minister and Revenue Minister G Parameshwara said on Sunday.',
+      'source_url': 'https://www.hindustantimes.com/india-news/ktaka-seeks-7-5k-crore-for-drought-losses-dy-cm-101791140711003.html'
     },
     {
-      'title': 'Netanyahu invites PM Modi, flydubai captain Smit Machchhar to light Israel Independence Day flame: \'Highest honor\'',
+      'title': 'Karnataka SIR row: BJP threatens agitation over Form 7 cases across state',
       'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Netanyahu invites PM Modi and flydubai captain Smit Machchhar to light a flame at Israel’s Independence Day ceremony next year.',
-      'source_url': 'https://www.hindustantimes.com/india-news/netanyahu-invites-pm-modi-flydubai-captain-smit-machchhar-to-light-israel-independence-day-flame-highest-honor-101791054708344.html'
-    },
-    {
-      'title': 'Dipke, Das, CJP leaders and 400+ supporters booked after Shivaji Park protest in Mumbai',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Police booked several CJP leaders, including the leading trio Abhijeet Dipke, Saurav Das and Ashutosh Ranka.&nbsp;',
-      'source_url': 'https://www.hindustantimes.com/india-news/mumbai-shivaji-park-protest-abhijeet-dipke-cjp-leaders-over-400-supporters-booked-after-protest-against-cec-gyanesh-kumar-101791054970253.html'
-    },
-    {
-      'title': ' ₹5 lakh bounty, considered on the run: 2023 Umesh Pal murder accused found in Bihar jail',
-      'category': 'National News',
-      'date': 'Oct 04, 2026',
-      'summary': 'Police said Armaan was allegedly captured on CCTV riding a motorcycle with Guddu Muslim during the attack on Pal and his security personnel.',
-      'source_url': 'https://www.hindustantimes.com/india-news/2023-umesh-pal-murder-considered-on-run-murder-accused-found-in-bihar-jail-101791054082095.html'
+      'date': 'Oct 05, 2026',
+      'summary': 'Former CM Yediyurappa alleged that the police were acting at the behest of Chief Minister DK Shivakumar.',
+      'source_url': 'https://www.hindustantimes.com/india-news/bjp-threatens-agitation-over-form-7-cases-across-ktaka-101791140591770.html'
     },
   ];
 }
