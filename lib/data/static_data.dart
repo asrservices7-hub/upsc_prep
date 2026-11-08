@@ -321,564 +321,564 @@ class StaticData {
 
   static const List<Map<String, String>> currentAffairs = [
     {
-      'title': 'OMCs refute Karnataka’s E20 report, seeks additional details about procedure',
+      'title': 'Village anti-drug committee member shot in Punjab’s Barnala, injured',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The state-owned OMCs held the 56 samples tested by them from across the state reported an average 19.3% ethanol content in the vehicular fuel.',
-      'source_url': 'https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Dhanaula SHO Baljinder Singh said the matter is under investigation; “We are investigating the motive behind the incident,” he said, while adding that four people, who are locals, have been identified',
+      'source_url': 'https://www.thehindu.com/news/national/punjab/village-anti-drug-committee-member-shot-in-punjabs-barnala-injured/article71680598.ece'
     },
     {
-      'title': 'Delhi air ‘very poor’ with AQI reading of 364',
+      'title': 'Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Delhi Directorate of Education has directed all government and private schools to conduct classes up to class 5 in hybrid mode in view of worsening air quality in the national capital',
-      'source_url': 'https://www.thehindu.com/news/cities/Delhi/delhi-air-very-poor-with-aqi-reading-of-364/article71677336.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Kishore Biyani’s Future Group witnessed meteoric rise before mounting financial troubles pushed it into insolvency',
+      'source_url': 'https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece'
     },
     {
-      'title': 'West Bengal election is not legally valid: Former CEC S.Y. Quraishi',
+      'title': 'Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The former top poll official also said that the Election Commission of India is supposed to make decisions based on a majority',
-      'source_url': 'https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The Rajasthan Anti-Gangster Task Force (AGTF) secured the detention through sustained coordination with international agencies, including the CBI and Interpol, police said',
+      'source_url': 'https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece'
     },
     {
-      'title': 'Andhra Pradesh MPTC, ZPTC election results LIVE: Counting under way across 365 centres amidst high security',
+      'title': 'Bombay High Court allows BNS Section 75 charge where complainant identifies as woman',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting.',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The judge rejected the argument that Section 75 cannot apply because the complainant is a transgender and not a woman',
+      'source_url': 'https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece'
     },
     {
-      'title': 'The Siang dam and a threatened homeland',
+      'title': '10 years since demonetisation: Cash usage unchanged, fake notes on the rise',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats ...',
-      'source_url': 'https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash. Data shows some stated aims of the move remain largely unmet',
+      'source_url': 'https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece'
     },
     {
-      'title': 'Library book ‘scam’: Madras High Court had sounded warning two years ago, called for enquiry',
+      'title': 'T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Against the backdrop of writer Perumal Murugan’s expose on substandard books containing grossly erroneous historical information making their way into the shelves of the Periyar Arivulagam in Coimbatore, it would be worthwhile to take a look at how the court had sought to streamline procurement of books',
-      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/library-book-scam-madras-high-court-had-sounded-warning-two-years-ago-called-for-enquiry/article71677381.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'As of now, the aggregate storage in the major 15 irrigation reservoirs is about a third of the combined capacity of the reservoirs. In the corresponding period last year, the combined storage was around 92%',
+      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/tn-may-be-heading-towards-a-water-crisis-unless-northeast-monsoon-comes-to-the-rescue/article71678260.ece'
     },
     {
-      'title': 'Lung cancer rising faster among women in Karnataka',
+      'title': 'PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'While men account for a higher number of cases, incidence among women is increasing at a faster rate, data shows',
-      'source_url': 'https://www.thehindu.com/news/national/karnataka/lung-cancer-rising-faster-among-women-in-karnataka/article71674996.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The Prime Minister said Bastar is an area where Maoism once held sway but now, development is flourishing',
+      'source_url': 'https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece'
     },
     {
-      'title': 'Delhi High Court grants 7-day custody parole to Al Falah University chairman to tend to ailing wife',
+      'title': 'Delhi faces new challenge from Samosa caucus',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'In July, the high court had refused to grant interim bail to Siddiqui and permitted him to meet his wife on custody parole on three dates.',
-      'source_url': 'https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-7-day-custody-parole-to-al-falah-university-chairman-to-tend-to-ailing-wife/article71674472.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too',
+      'source_url': 'https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece'
     },
     {
-      'title': 'Keralam Child Development Centre gets ₹35-lakh grant to study autism-related parental grief',
+      'title': 'News in Frames: Many twists in the monsoon’s tale',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Three-year project will examine chronic sorrow and coping mechanisms in ASD families.',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/keralam-child-development-centre-gets-35-lakh-grant-to-study-autism-related-parental-grief/article71674060.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 cr. in damage and leaving at least 17 dead; crops were flattened and coconut trees uprooted, with farmers in the Godavari belt facing at least two years of recovery ',
+      'source_url': 'https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece'
     },
     {
-      'title': 'Bengaluru IT engineer arrested for threatening Bollywood actors, remanded in police custody till November 10',
+      'title': 'Delhi wakes up to toxic haze on Deepavali, close to \'severe\' AQI at 383',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'According to the police, Mishra allegedly contacted celebrities through Instagram, claiming to be associated with the Lawrence Bishnoi gang and issuing threats while demanding money.',
-      'source_url': 'https://www.thehindu.com/news/cities/mumbai/bengaluru-it-engineer-arrested-for-threatening-bollywood-actors-remanded-in-police-custody-till-november-10/article71674893.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.',
+      'source_url': 'https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece'
     },
     {
-      'title': 'Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR',
+      'title': 'Apologise to saints, devotees before visiting Ayodhya: Adityanath ahead of Akhilesh’s visit',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Bench highlighted the large number of vehicles plying on roads connecting Delhi with neighbouring areas, including Ghaziabad, Greater Noida, Gurugram and Faridabad',
-      'source_url': 'https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The Chief Minister\'s remark came within hours of the announcement that Samajwadi Party president Akhilesh Yadav would visit the Ram Temple in Ayodhya on December 12',
+      'source_url': 'https://www.thehindu.com/news/national/uttar-pradesh/apologise-to-saints-devotees-before-visiting-ayodhya-adityanath-ahead-of-akhileshs-visit/article71680509.ece'
     },
     {
-      'title': 'Kochi doctor booked for sexual assault a day after actors’ arrest on his complaint',
+      'title': 'Deportation of wanted Punjab gangster Afridi secured after 10-month international manhunt',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Infopark police registered the case against the doctor on a complaint filed by a relative of one of the accused; he allegedly abused the woman after giving her intoxicants, say police',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/kochi-doctor-booked-for-sexual-assault-a-day-after-actors-arrest-on-his-complaint/article71675580.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Punjab DGP Gaurav Yadav said the Punjab government had announced a reward of ₹5 lakh for information leading to his arrest',
+      'source_url': 'https://www.thehindu.com/news/national/punjab/deportation-of-wanted-punjab-gangster-afridi-secured-after-10-month-international-manhunt/article71680508.ece'
     },
     {
-      'title': 'Why are these Beed women farmers staring at a dark Diwali this year? | Pulse Maharashtra',
+      'title': 'Kerala Water Authority intensifies action against encroachments on Pipeline Road',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'This Diwali, the women farmers of Takarwan village in Beed say, their dreams have shattered. One of the worst droughts in Maharashtra has caused them immense losses. Now, their only hope is the Employment Guarantee Schemes, which have so far been an undelivered promise. While the state government has said it will inject over Rs 6000 crore for emplo...',
-      'source_url': 'https://www.thehindu.com/videos/shows/why-are-these-beed-women-farmers-staring-at-a-dark-diwali-this-year-pulse-maharashtra/article71677344.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The Pipeline Road is important for the KWA as the transmission main carrying water from Aruvikkara to the capital city passes through it',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/kerala-water-authority-intensifies-action-against-encroachments-on-pipeline-road/article71679186.ece'
     },
     {
-      'title': ' Vice President confers Dr. Rajendra Prasad Award for Academic Excellence on Professor K. Chockalingam',
+      'title': 'Revanth challenges KCR for debate on Kaleshwaram, El Niño and Godavari waters in the special Assembly session',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The honour celebrates Prof. Chockalingam’s academic career, spanning more than five decades and marked by pioneering work in criminology and victimology',
-      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/briefly-vice-president-confers-dr-rajendra-prasad-award-for-academic-excellence-on-professor-k-chockalingam/article71677284.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Chief Minister A. Revanth Reddy alleged that the previous government had neglected drinking and irrigation water requirements in the region while prioritising the Kaleshwaram project over the Pranahita project',
+      'source_url': 'https://www.thehindu.com/news/national/telangana/revanth-challenges-kcr-for-debate-on-kaleshwaram-el-nino-and-godavari-waters-in-the-special-assembly-session/article71678434.ece'
     },
     {
-      'title': 'Messi’s Keralam visit row: ED registers money-laundering case',
+      'title': 'FSSAI seizes 3,280 tonne food items, cancels 52 licences in nationwide inspection drive',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Kochi unit of ED registers Enforcement Case Information Report (ECIR) against Anto Augustine, the authorised signatory of Reporter Broadcasting Company Private Limited, and the company itself, based on FIR filed by Kalamassery police',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/messis-keralam-visit-row-ed-registers-money-laundering-case/article71677300.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The regulator said it inspected 56,431 food establishments during its nationwide enforcement drive between September 1 and November 5, and seized non-compliant food products, including paneer, ghee, milk and sweets',
+      'source_url': 'https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece'
     },
     {
-      'title': 'Wayanad landslides: Despite township progress, 13 Adivasi families still caught between ‘no-go zones’ and delayed rehab',
+      'title': 'Singapore-based senior IT executive shot dead over parking dispute in Faridabad',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Some now live in rented accommodation with government assistance, cut off from their forest environment and traditional livelihoods. Others have returned to the forest, as construction of the promised houses on alternative land allocated to them at Puthiyavillage in Meppadi under Forest Rights Act, 2006 is yet to begin',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/wayanad-landslides-despite-township-progress-13-adivasi-families-still-caught-between-no-go-zones-and-delayed-rehab/article71677156.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The accused fired several rounds at the victim and his son; the victim succumbed to injuries and the son escaped unhurt',
+      'source_url': 'https://www.thehindu.com/news/cities/Delhi/singapore-based-senior-it-executive-shot-dead-over-parking-dispute-in-faridabad/article71678760.ece'
     },
     {
-      'title': 'Seventh attempt on my life in six months: Abhishek after his residence attacked',
+      'title': 'Singapore-based senior IT executive shot dead over parking dispute in Faridabad',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Trinamool MP alleged that his residence was attacked by ‘BJP hooligans’ on the occasion of his birth anniversary',
-      'source_url': 'https://www.thehindu.com/news/cities/kolkata/seventh-attempt-on-my-life-in-six-months-abhishek-after-his-residence-attacked/article71677292.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'The accused fired several rounds at the victim and his son; the victim succumbed to injuries and the son escaped unhurt',
+      'source_url': 'https://www.thehindu.com/news/national/haryana/it-executive-shot-dead-in-faridabad-after-neighbour-fires-nine-rounds/article71679417.ece'
     },
     {
-      'title': 'Counting of votes, declaration of results on November 7 for ZPTC, MPTC  elections in A.P.',
+      'title': 'A bridge between past and present',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'About 11,000 counting supervisors and 28,692 assistants/staff to participate in the process at 365 centres across the State; counting of postal ballots to be taken up first; nearly 20,000 police personnel deployed as part of three-layer security',
-      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/counting-of-votes-at-365-centres-on-november-7-for-zptc-mptc-elections-in-ap/article71675028.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian civilization',
+      'source_url': 'https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece'
     },
     {
-      'title': 'Telangana HC declines to vacate license suspension of Pulla Reddy Sweets Sanathnagar branch',
+      'title': 'Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
+      'summary': 'Four young men on Saturday (November 7, 2026), from Bengaluru, travelled about 2,200 km riding on an old auto-rickshaw to reach Areraj town, in East Champaran',
+      'source_url': 'https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece'
+    },
+    {
+      'title': 'RJD MP Sanjay Yadav writes to President, seeks action against DU Professor Sangeet Ragi',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Mr. Yadav said that Mr. Ragi used the abusive language against Yadav community on behest of Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Janata Party (BJP).',
+      'source_url': 'https://www.thehindu.com/news/national/bihar/rjd-mp-sanjay-yadav-writes-to-president-seeks-action-against-du-professor-sangeet-ragi/article71678647.ece'
+    },
+    {
+      'title': '42 days of SRFTI protest; classes suspended till December 11',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Students send message of resistance and fight for justice on Deepavali',
+      'source_url': 'https://www.thehindu.com/news/national/west-bengal/42-days-of-srfti-protest-classes-suspended-till-december-11/article71678513.ece'
+    },
+    {
+      'title': 'Presidency University expels student for allegedly defacing Vivekananda poster',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'The university also barred an ex-student from the campus; SFI condemns expulsion, ABVP welcomes authority action',
+      'source_url': 'https://www.thehindu.com/news/cities/kolkata/presidency-universityexpels-student-for-allegedly-defacing-vivekananda-poster/article71678327.ece'
+    },
+    {
+      'title': 'T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan record the submission that the vacancy would now be filled up as per regular process',
+      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-withdraw-go-promoting-dr-ambedkar-law-university-registrar-as-temporary-director-of-legal-studies/article71677470.ece'
+    },
+    {
+      'title': 'Locals burn effigy of Christian priests at Basanti in WB',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Father Parimal Kanji, the priest-in-charge at Basanti, stated that the alleged perpetrators were outsiders and not local residents and confirmed that a written complaint had been submitted to the police.',
+      'source_url': 'https://www.thehindu.com/news/national/west-bengal/locals-burn-effigy-of-christian-priests-at-basanti-in-wb/article71678867.ece'
+    },
+    {
+      'title': 'NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050;  TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh',
+      'source_url': 'https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece'
+    },
+    {
+      'title': 'Rajnath Singh warns of evolving threats, calls for highest military readiness',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Addressing personnel at key airbase near China frontier, Defence Minister warns of adversaries exploiting ‘vulnerabilities’; he also reviews Army’s LAC infrastructure, operational preparedness and lauds initiatives aimed at strengthening ties with local communities',
+      'source_url': 'https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece'
+    },
+    {
+      'title': 'Jumbo hustle: the transfer of elephants to Tamil Nadu’s temples',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'The unseemly haste with which five elephants from Assam were transported to temples in Tamil Nadu raises pertinent questions about the process of animal transfer, and whether the rules are cheat proof. Here, Geetha Srimathi examines the entire issue threadbare, explaining how elephants are acquired for temples in the State, and the yawning gaps in ...',
+      'source_url': 'https://www.thehindu.com/news/national/tamil-nadu/how-assam-captive-elephants-are-donated-and-transferred-to-tamil-nadu-temples/article71677667.ece'
+    },
+    {
+      'title': 'Nallur toll plaza on Kolkata National Highway to be moved to Durainallur',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/telangana-hc-declines-to-vacate-license-suspension-of-pulla-reddy-sweets-sanathnagar-branch/article71675645.ece'
+      'source_url': 'https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece'
     },
     {
-      'title': 'Six arrested for threatening Telangana MLC with deepfake videos, demanding ₹5 crore',
+      'title': 'Ten of 11 stations on Kochi metro’s Pink Line to have entry/exit from both sides of road',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
+      'summary': 'Terminal station at Smart City to have entry/exit only on the right hand side; foot overbridge mulled for members of the public to access the station',
+      'source_url': 'https://www.thehindu.com/news/national/kerala/ten-of-11-stations-on-kochi-metros-pink-line-to-have-entryexit-from-both-sides-of-road/article71678672.ece'
+    },
+    {
+      'title': 'A wet Deepavali ahead for many parts of Tamil Nadu',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Wet weather is expected to prevail across the State till November 12, with heavy rainfall set to lash delta and southern districts till Tuesday',
+      'source_url': 'https://www.thehindu.com/news/cities/chennai/a-wet-deepavali-ahead-for-many-parts-of-tamil-nadu/article71678386.ece'
+    },
+    {
+      'title': 'Weeks after flydubai incident, \'hostile aircraft\' alert triggers panic in Israel',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'An alert regarding a potential hostile aircraft intrusion in northern Israel was issued but later clarified. The alert prompted heightened scrutiny following an attempted hijacking of a flydubai flight from Dubai to Tel Aviv. Israel has introduced tighter screening protocols for airlines in response to security challenges faced. Separately, the Isr...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/weeks-after-flydubai-incident-hostile-aircraft-alert-triggers-panic-in-israel/articleshow/135652438.cms'
+    },
+    {
+      'title': 'Iran executes 3 men accused of carrying out operations for Israel, US during protests',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/six-arrested-for-threatening-telangana-mlc-with-deepfake-videos-demanding-5-crore/article71675257.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/iran-executes-3-men-accused-of-carrying-out-operations-for-israel-us-during-protests/articleshow/135652472.cms'
     },
     {
-      'title': 'Board gearing up for Deepavali celebrations at Indiramma houses in Telangana',
+      'title': 'Chained to bed, windows covered in foil: How ex-husband held US woman captive for 2 yrs',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
+      'summary': 'A woman was found in Fargo after allegedly being chained to a bed for two years and abused. She was discovered after a maintenance worker heard her cries for help in the apartment complex. Her ex-husband and his girlfriend have been charged with kidnapping and other crimes related to her captivity. Investigators revealed she was brought from Mexico...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/chained-to-bed-windows-covered-in-foil-how-ex-husband-held-us-woman-captive-for-2-years/articleshow/135652201.cms'
+    },
+    {
+      'title': '10-year-old Ukrainian boy tracks rare black stork from Chernobyl to Africa to expose threats to its survival',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Noah Beshto, a 10-year-old prodigy from Ukraine, embarked on an adventurous journey in a motorhome, tracking the migration of the black stork. Partnering with ornithologist Nika Paposhvili, he documented the hazards these birds face, such as electrocution and destruction of their habitats. Through his captivating series, Noah\'s Diary, he aspires to...',
+      'source_url': 'https://timesofindia.indiatimes.com/science/wildlife/at-just-10-ukrainian-boy-noah-beshto-turned-wildlife-detective-tracking-a-rare-black-stork-from-chernobyl-to-africa-in-a-motorhome-he-wants-to-save-the-bird-from-deadly-power-lines-poaching-and-habitat-loss/articleshow/135602105.cms'
+    },
+    {
+      'title': 'Tents Flooded In Gaza Rains: Torrential downpour inundates 70,000 shelters; fuel shortages stall aid',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'The recent heavy rains have led to catastrophic flooding in temporary shelters for displaced Palestinians across Gaza, impacting countless families. Reports from local authorities indicate that over 70,000 tents were submerged in a mere few hours. The civil defense teams are hampered by fuel shortages and damaged equipment, leaving many residents w...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/70000-tents-flooded-in-12-hours-as-heavy-rain-batters-displaced-palestinians-in-gaza/articleshow/135651825.cms'
+    },
+    {
+      'title': '\'Enemy will no longer dare attack\': Iran\'s navy issues warning to US forces',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Iran’s Northern Fleet Commander Rear Admiral Mohsen Razzaqi has warned the US against any aggression, saying the country’s armed forces are at their highest level of coordination and naval units remain ready round the clock. His remarks come as Washington establishes Task Force Iron Gate to disrupt Iran’s alleged weapons supply routes across land b...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/enemy-will-no-longer-dare-attack-irans-navy-issues-warning-to-us-forces/articleshow/135651481.cms'
+    },
+    {
+      'title': 'China to release Japanese pharma employee jailed for espionage after 3.5 years',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/board-gearing-up-for-deepavali-celebrations-at-indiramma-houses-in-telangana/article71675559.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/china/china-to-release-japanese-pharma-employee-jailed-for-espionage-after-3-5-years/articleshow/135651027.cms'
     },
     {
-      'title': 'Two more children of a school test positive for shigellosis in Keralam’s Kozhikode',
+      'title': 'UAE rescues 22 Arab nationals after fire breaks out aboard cargo ship',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/two-more-children-of-a-school-test-positive-for-shigellosis-in-keralams-kozhikode/article71677290.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/uae-rescues-22-arab-nationals-after-fire-breaks-out-aboard-cargo-ship/articleshow/135650778.cms'
     },
     {
-      'title': 'Why are flight tickets so expensive now? The truth behind rising airfares | Explained',
+      'title': 'Chinese Aircraft And Ships Detected: Taiwan tracks jets and PLAN vessels; warns of rising maritime pressure',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Have you noticed that domestic flight tickets in India have become significantly more expensive?  According to the Consumer Price Index, domestic airfares were nearly 30% higher in September compared to a year earlier. But what is driving this surge?  In this explainer, The Hindu’s aviation reporter Jagriti Chandra breaks down the factors behind ri...',
-      'source_url': 'https://www.thehindu.com/videos/why-are-flight-tickets-so-expensive-now-the-truth-behind-rising-airfares-explained/article71677303.ece'
+      'date': 'Nov 08, 2026',
+      'summary': 'Taiwan\'s Ministry of National Defence has observed a surge in Chinese military maneuvers surrounding the island, showcasing four separate sorties of aircraft and multiple naval vessels encroaching upon Taiwan\'s Air Defence Identification Zone. The Coast Guard has actively countered China\'s coast guard efforts, reaffirming Taiwan\'s sovereignty over ...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detects-4-chinese-military-aircraft-8-ships-around-island-in-24-hours/articleshow/135649926.cms'
     },
     {
-      'title': 'Efforts on to trace missing Telugu student in USA: Telangana Minister Komatireddy',
+      'title': 'Falling birth rates, fading faith? Pope Leo\'s message to Uruguay\'s youth',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
+      'summary': 'Pope Leo XIV urged young people in Uruguay to marry and start families as he continued his South American tour. He emphasized the importance of lifelong commitment and addressing declining birth rates in the country. The Pope also called on Uruguayans to strengthen their faith and build community bonds during his visit. Additionally, he visited nei...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/falling-birth-rates-fading-faith-pope-leos-message-to-uruguays-youth/articleshow/135649712.cms'
+    },
+    {
+      'title': 'Who is Qiulae Wong? New Zealand\'s potential kingmaker after cliffhanger election',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'Qiulae Wong, a 38-year-old politician who entered politics less than a year ago, could emerge as a kingmaker in New Zealand after the general election delivered no clear winner. Her centrist Opportunity Party is projected to win seven seats, potentially giving it a decisive role in government formation. Wong\'s party is pushing sweeping tax reforms,...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/who-is-qiulae-wong-new-zealands-potential-kingmaker-after-cliffhanger-election/articleshow/135649816.cms'
+    },
+    {
+      'title': 'Dozens Killed In Yemen Strikes: Saudi raids reportedly hit homes; UN truce collapse feared',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'On Saturday, a series of Saudi airstrikes struck a village near Sanaa, resulting in a tragic loss of life and numerous injuries. This marks one of the worst incidents since the resumption of hostilities between the Saudi coalition and the Houthis. Among the casualties were many women and children, with some victims still trapped under rubble. This ...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/at-least-33-killed-in-saudi-airstrikes-on-yemen-village-most-casualties-women-children/articleshow/135649654.cms'
+    },
+    {
+      'title': 'Fresh Houthi threat? Saudi Arabia issues potential danger alerts in 3 cities',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/telangana/efforts-on-to-trace-missing-telugu-student-in-usa-telangana-minister-komatireddy/article71675548.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-issues-danger-alerts-for-dammam-dhahran-and-abqaiq-amid-houthi-threats/articleshow/135649607.cms'
     },
     {
-      'title': 'Maharashtra to lease reservoir land for fodder cultivation in 304 drought-hit talukas',
+      'title': 'Yemen urges Lebanon to act against Hezbollah\'s military support to Houthis',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The decision is aimed at improving fodder availability for livestock in areas affected by rainfall deficiency during the 2026 kharif season.',
-      'source_url': 'https://www.thehindu.com/news/national/maharashtra/maharashtra-to-lease-reservoir-land-for-fodder-cultivation-in-304-drought-hit-talukas/article71675170.ece'
-    },
-    {
-      'title': 'Kerala rains: Yellow alert for 4 districts',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://www.thehindu.com/news/national/kerala/kerala-rains-yellow-alert-for-4-districts/article71675021.ece'
+      'source_url': 'https://timesofindia.indiatimes.com/world/middle-east/yemen-urges-lebanon-to-act-against-hezbollahs-military-support-to-houthis/articleshow/135649405.cms'
     },
     {
-      'title': ' How a love story grew into a deep belonging to India',
+      'title': 'Four of six endangered snakes survive Australia\'s artificial rock experiment',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Sonia Gandhi’s much-awaited Belonging is a personal memoir, with politics providing the background or “a kind of framework,” as she puts it in the book',
-      'source_url': 'https://www.thehindu.com/news/national/sonia-gandhis-belonging-a-journey-of-love-how-a-love-story-grew-into-a-deep-belonging-to-india/article71674214.ece'
-    },
-    {
-      'title': '‘Where I truly belong’: Sonia Gandhi on her memoir ‘Belonging: A Journey of Love’',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Ahead of the release of her much-discussed memoir, the senior Congress party leader talks about her journey from privacy to public life in India',
-      'source_url': 'https://www.thehindu.com/books/books-authors/sonia-gandhi-on-her-memoir-belonging-a-journey-of-love/article71655899.ece'
-    },
-    {
-      'title': 'Don’t confuse PM Modi, convince him for open debate with me: Rahul Gandhi to Amit Shah',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Congress president Mallikarjun Kharge has also said the Prime Minister should come forward and face the questions on vote theft that the nation was posing',
-      'source_url': 'https://www.thehindu.com/news/national/dont-confuse-pm-modi-convince-him-for-open-debate-with-me-rahul-gandhi-to-amit-shah/article71677239.ece'
-    },
-    {
-      'title': 'Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Ahead of the launch of her book, Sonia Gandhi speaks to The Hindu, answering a number of questions — personal and political',
-      'source_url': 'https://www.thehindu.com/news/national/sonia-gandhi-interview-great-damage-done-to-the-fabric-of-india-by-bjp/article71674284.ece'
-    },
-    {
-      'title': 'Als Nursing Hospital Opens: 14-year ALS drive builds specialised facility; 350,000 donors fund care',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'In March 2025, the Seungil Hope Nursing Hospital in Yongin welcomed its first ALS patients, marking a 14-year journey led by dedicated advocates Park Seung-il and Sean. This landmark facility, developed with the generosity of over 350,000 donors and government backing, aims to provide advanced care tailored to the unique needs of those with ALS, em...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/cha-eunwoo-donated-10-million-won-to-a-south-korean-als-charity-campaign-in-2023-two-years-later-a-23-9-billion-won-hospital-with-76-beds-opened-after-a-collective-fundraising-effort-backed-by-350000-donors/articleshow/135591788.cms'
-    },
-    {
-      'title': 'Republicans spent more, Democrats won more: Inside the costliest US midterm battle',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts. High turnout from Latino constituents significantly impacted voting dynamics nationwide, with many re...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms'
-    },
-    {
-      'title': 'France deploys 70,000 security personnel ahead of fresh nationwide protests',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'French trade unions and student groups are organizing a day of protests against rising living costs. The Yellow Vests movement plans a separate rally in central Paris, despite an official ban on gatherings. Nationwide demonstrations have been ongoing for weeks, with participants demanding wage increases and better conditions for youth. On Monday, P...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/europe/france-deploys-70000-security-personnel-ahead-of-fresh-nationwide-protests/articleshow/135624778.cms'
-    },
-    {
-      'title': 'Streamer Feud Over Halloween: Banks slams Plaqueboymax’s ‘whiteface’ stream; questions career slide',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Plaqueboymax’s Halloween livestream led to disagreements with Adin Ross and FaZe Banks. Adin suggested a blackface stream after seeing Max’s crew dressed as stereotypical white men. Max questioned Adin’s respect for Black culture, while Banks said Max’s costume showed disrespect towards white people. Banks also criticised Max’s content, career dire...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us-streamers/why-is-faze-banks-attacking-plaqueboymax-kai-cenat-comparison-halloween-controversy-and-super-bowl-halftime-challenge/articleshow/135619548.cms'
-    },
-    {
-      'title': 'US offers \$20 million reward for information on Iran\'s nuclear programme',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The United States has announced a reward of up to \$20 million for information regarding Iran\'s nuclear program. This reward aims to gather details about facilities, equipment, and personnel involved with the program. Diplomatic efforts are ongoing to resolve tensions and prevent further conflict. Iran has expressed the desire for negotiations but r...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/us-offers-20-million-reward-for-information-on-irans-nuclear-programme/articleshow/135624328.cms'
-    },
-    {
-      'title': 'US-China trade talks to continue as Washington presses Beijing to honour Busan deal',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'China and the US are engaged in ongoing dialogues to foster stable trade relations, with emphasis on prior commitments. US officials expressed concern regarding China\'s adherence to agreements related to rare earth materials and agricultural products. The latest discussions revealed the US\'s stance that China falls short in fulfilling its responsib...',
-      'source_url': 'https://timesofindia.indiatimes.com/business/international-business/us-china-agree-to-continue-trade-talks-as-washington-presses-beijing-to-fulfil-busan-deal-commitments/articleshow/135624178.cms'
-    },
-    {
-      'title': '\'Voices in head said to kill Trump\': Man with firearms and ammunition arrested near White House',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Secret Service took Ronny Yordrix Guanipa Chrinos into custody after he exhibited alarming conduct in his vehicle. When confronted by officers, he insisted that he heard voices commanding him to execute President Trump. A subsequent search of his stolen car revealed three guns and additional ammunition. A Venezuelan national without legal statu...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/voices-in-head-said-to-kill-president-man-with-firearms-and-ammunition-arrested-near-white-house/articleshow/135623981.cms'
-    },
-    {
-      'title': 'North Carolina student wins top award for free tool mapping wildlife roadkill hotspots',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Aaryan Ghorpade, a North Carolina student, has triumphed in a national competition with EcoRoute, a project that tracks wildlife-vehicle collision hotspots across the U.S. This innovative online tool gathers collision data and produces heat maps to assist transportation agencies in improving road safety. EcoRoute also encourages community involveme...',
-      'source_url': 'https://timesofindia.indiatimes.com/science/earth/meet-aaryan-ghorpade-the-north-carolina-student-who-built-a-prototype-for-a-free-roadkill-mapping-platform-and-has-now-won-a-first-place-award-for-his-plan-to-make-american-roads-safer-for-wildlife/articleshow/135619848.cms'
-    },
-    {
-      'title': 'Kimberly Guilfoyle back to US after shameful exit from Greece; moved in with ex-husband with a hit list: Report',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/kimberly-guilfoyle-back-to-us-after-shameful-exit-from-greece-moved-in-with-ex-husband-with-a-hit-list-report/articleshow/135617755.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/scientists-release-six-captive-bred-endangered-snakes-into-the-australian-wild-four-survive-a-world-first-conservation-experiment-using-artificial-rocks-to-give-the-reptiles-a-second-chance/articleshow/135649081.cms'
     },
     {
-      'title': 'Indian family seeks help to bring back man\'s body after he dies from burn injuries in New Zealand on birthday',
+      'title': 'Trump was blindsided by Vance\'s analysis of GOP\'s midterm washout blaming war, claims Laura Loomer; says Trump was even angry',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/indian-family-seeks-help-to-bring-back-mans-body-after-he-dies-from-burn-injuries-in-new-zealand-on-birthday/articleshow/135619909.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/trump-was-blindsided-by-vances-analysis-of-gops-midterm-washout-blaming-war-claims-laura-loomer-says-trump-was-even-angry/articleshow/135646134.cms'
     },
     {
-      'title': 'Stephen King\'s Maine mansion becomes a literary archive, with \$2,500 writers\' retreats next door',
+      'title': 'Who is UFC boss Dana White who gets surprising offer from Donald Trump to be White House press secretary?',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Stephen King and Tabitha have innovatively turned their Bangor residence into a unique archive and retreat for writers. This initiative offers aid and an inspiring atmosphere, allowing selected authors to immerse themselves in their work. The nearby Brown Mansion will serve as an additional haven, benefitting a variety of literary talents, includin...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-1980-stephen-king-bought-a-red-victorian-home-in-maine-for-135000-46-years-later-the-house-holds-his-literary-archives-while-a-neighbouring-mansion-offers-writers-10-day-residencies-and-2500-stipends/articleshow/135619089.cms'
-    },
-    {
-      'title': 'What led to Susie Wiles\' firing within 3 days of Trump\'s midterm loss? \'Ice maiden\' was Trump\'s longest serving chief of staff',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Susie Wiles fired: Within three days of midterm rout, President Donald Trump elevated Stephen Miller to the post of Chief of Staff replacing Susie Wiles, who served the longest on the post. The decision was not out of the blue as there were speculations which the president at that time dismissed.',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/what-led-to-susie-wiles-firing-within-3-days-of-trumps-midterm-loss-ice-maiden-was-trumps-longest-serving-chief-of-staff/articleshow/135619543.cms'
-    },
-    {
-      'title': 'Who is Navneet Alag? Meet husband of newly elected Indian-American congresswoman Pia Dandiya',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/who-is-navneet-alag-meet-husband-of-newly-elected-indian-american-congresswoman-pia-dandiya/articleshow/135617976.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/who-is-ufc-boss-dana-white-who-gets-surprising-offer-from-donald-trump-to-be-white-house-press-secretary/articleshow/135645732.cms'
     },
     {
-      'title': 'Meryl Streep backs women\'s history education as two teachers earn award for AP course campaign',
+      'title': '‘That stops when I’m governor’: Texas governor-elect Gina Hinojosa warns Elon Musk, Big Tech over data centres',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Kristen Kelly and Serene Williams from Sacred Heart Preparatory have pioneered an Advanced Placement course focused on women\'s history, garnering endorsement from 100 esteemed universities and colleges. This initiative underscores the vital role women have played throughout history. An eminent gala in Chicago on November 6, 2026, will unveil the in...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-march-2026-meryl-streep-made-a-seven-figure-gift-to-a-womens-history-museum-on-november-6-it-is-set-to-honour-two-teachers-whose-campaign-for-a-new-ap-history-course-has-backing-from-100-universities/articleshow/135618478.cms'
-    },
-    {
-      'title': 'Will you comply with Japanese laws? Japan plans new question for foreign visitors on entry form',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/rest-of-world/will-you-comply-with-japanese-laws-japan-plans-new-question-for-foreign-visitors-on-entry-form/articleshow/135616205.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/that-stops-when-im-governor-texas-governor-elect-gina-hinojosa-warns-elon-musk-big-tech-over-data-centres/articleshow/135645426.cms'
     },
     {
-      'title': 'London councillors reject Berkeley Homes plan after affordable housing offer falls from 40% to 12%',
+      'title': 'Houston mayor says \'elections matter\', won\'t help ICE as Democrats sweep Texas: \'I do this to begin a healing process\'',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Southwark Council\'s planning committee voted unanimously against Berkeley Homes\' revised plans for the Bermondsey Place development. The housebuilder proposed reducing affordable housing from 40 percent to just 12 percent, causing strong local opposition. Council members expressed concerns about the long timeline for home completion and questioned ...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/uk/berkeley-homes-proposed-1060-homes-in-later-phases-of-a-london-scheme-and-cut-the-developments-overall-affordable-housing-commitment-from-40-to-12-councillors-unanimously-rejected-the-revision/articleshow/135617920.cms'
-    },
-    {
-      'title': 'Court upholds sale of divorced Arkansas woman\'s property share after her bankruptcy filing.',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'In a landmark ruling, a federal appeals court upheld the sale of a divorced woman\'s stake in property located in Arkansas. The decision favored her bankruptcy trustee, overcoming objections posed by her ex-husband. He contended that the buyer\'s good faith was not adequately proven in prior hearings but failed to voice this concern earlier. Conseque...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/an-arkansas-couple-bought-property-together-in-2021-and-divorced-less-than-a-year-later-each-keeping-half-after-the-woman-remarried-and-filed-for-bankruptcy-a-court-dismissed-his-challenge-to-the-sale-of-her-share/articleshow/135615724.cms'
-    },
-    {
-      'title': 'Texas appeals court upholds \$619K judgment against beverage company co-owner',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': '',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/a-texas-beverage-company-borrowed-2-million-in-2021-and-its-co-owner-signed-a-limited-500000-personal-guaranty-after-a-default-an-appeals-court-upheld-a-619419-50-judgment-including-interest-on-oct-30/articleshow/135540236.cms'
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/houston-mayor-says-elections-matter-wont-help-ice-as-democrats-sweep-texas-i-do-this-to-begin-a-healing-process/articleshow/135644019.cms'
     },
     {
-      'title': '\'Dallas\' star Victoria Principal, 76, now rescues animals on her ranch; shares miniature horse Halo\'s recovery',
+      'title': 'Goldie Hawn\'s MindUP helps 7 million children manage stress across 48 countries',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Former actress Victoria Principal has found her true calling in animal rehabilitation, dedicating her life to caring for rescued creatures at her ranch. One notable resident is Halo, a miniature horse currently healing with her support. Principal passionately advocates for the role of love and patience in nurturing these animals back to health, mar...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/dallas-star-victoria-principal-stepped-away-from-hollywood-and-now-spends-her-time-caring-for-rescued-animals-on-a-ranch-at-76-she-has-shared-the-recovery-of-a-miniature-horse-named-halo-with-fans/articleshow/135566848.cms'
+      'date': 'Nov 08, 2026',
+      'summary': 'Goldie Hawn established the Goldie Hawn Foundation in 2003 to support emotional awareness among children. MindUP, developed in collaboration with experts, integrates neuroscience and mindfulness into education. The program has reached over 7 million children across 48 countries since its inception. Lessons focus on emotional regulation, empathy, an...',
+      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-2003-goldie-hawn-started-a-programme-to-help-children-manage-stress-and-understand-emotions-23-years-later-mindup-reports-reaching-more-than-7-million-children-across-48-countries-through-brain-based-lessons/articleshow/135601345.cms'
     },
     {
-      'title': '\'Jackass\' star Steve-O turns 44-acre Tennessee ranch into a home for rescued animals',
+      'title': '‘Had to accept her wish’: Row over Vedic rituals at wedding of DMK general secretary\'s granddaughter',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Steve-O, the famous Jackass star, has dedicated himself to animal welfare by establishing The Radical Ranch, a sanctuary for rescued animals situated near Nashville. Since its inception as a nonprofit in 2024, the ranch has provided a home for nine animals, including goats and pigs. Steve-O envisions expanding the sanctuary to include cows and chic...',
-      'source_url': 'https://timesofindia.indiatimes.com/world/us/in-2023-jackass-star-steve-o-bought-a-44-acre-property-outside-nashville-three-years-later-the-ranch-houses-rescued-goats-pigs-cats-and-dogs-as-he-looks-to-expand-its-animal-welfare-mission/articleshow/135577467.cms'
+      'date': 'Nov 08, 2026',
+      'summary': 'The wedding of DMK leader Duraimurugan\'s granddaughter drew objections from DK chief Veeramani, who questioned the use of religious rituals at the wedding.',
+      'source_url': 'https://www.hindustantimes.com/india-news/dmk-leader-duraimurugan-reacts-after-dk-chief-says-granddaughter-vedic-wedding-rituals-defied-dravidian-ideals-101794112978362.html'
     },
     {
-      'title': 'As tracks pierce isolated red region, Chhattisgarh’s Abujhmad finds a route to progress',
+      'title': 'JNU student attacks fellow student over friendship with woman; victim loses sight in one eye',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'A new railway line connecting Rowghat to Dallirajhara in Chhattisgarh’s Bastar region promises faster, cheaper travel, better access to education, healthcare',
-      'source_url': 'https://www.hindustantimes.com/india-news/as-tracks-pierce-isolated-red-region-chhattisgarh-s-abujhmad-finds-a-route-to-progress-101794030623822.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'According to the hospital, the student sustained severe injuries to his right eye, nose, face and shoulders, besides multiple fractures.',
+      'source_url': 'https://www.hindustantimes.com/india-news/jnu-student-attacks-fellow-student-over-friendship-with-woman-victim-loses-sight-in-one-eye-101794114536238.html'
     },
     {
-      'title': 'Former Excise Commissioner flags corruption in dept, CPI(M) alleges minister\'s involvement',
+      'title': '4 of family, including 2 children, killed in Odisha fire; short circuit suspected: Cops',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Former Excise Commissioner flags corruption in dept, CPI(M) alleges minister\'s involvement',
-      'source_url': 'https://www.hindustantimes.com/india-news/former-excise-commissioner-flags-corruption-in-dept-cpi-m-alleges-minister-s-involvement-101794030205402.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'The cause of the fire is yet to be ascertained, though a short circuit is suspected, the police said.',
+      'source_url': 'https://www.hindustantimes.com/india-news/4-of-family-including-2-children-killed-in-odisha-jajpur-fire-police-101794115050922.html'
     },
     {
-      'title': 'Bengaluru mass murder: Accused identifies wife and mother-in-law\'s bodies in a forest in Tamil Nadu\'s Salem',
+      'title': 'Assam governor, CM greet people on Kali Puja, Diwali',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The investigation has revealed that the accused allegedly killed seven members of his wife\'s family and subsequently disposed of bodies at different locations.',
-      'source_url': 'https://www.hindustantimes.com/india-news/bengaluru-mass-murder-accused-identifies-wife-and-mother-in-laws-bodies-in-forest-in-tamil-nadu-salem-101794029290592.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Assam governor, CM greet people on Kali Puja, Diwali',
+      'source_url': 'https://www.hindustantimes.com/india-news/assam-governor-cm-greet-people-on-kali-puja-diwali-101794114616162.html'
     },
     {
-      'title': '‘Must identify and support poor students wanting to build career in law’: CJI Surya Kant',
+      'title': 'Kannadigas form majority of workforce, will expand their hiring: Bengaluru airport amid calls for local hiring',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'At a national conference on B.R. Ambedkar, CJI Surya Kant urged organisers to identify poor students seeking careers in law and provide financial assistance.',
-      'source_url': 'https://www.hindustantimes.com/india-news/must-identify-and-support-poor-students-wanting-to-build-career-in-law-cji-surya-kant-101794029425208.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'The statement followed pro-Kannada organisation KRV\'s meeting with 14 airport companies on Friday, seeking more job opportunities for Kannadigas.',
+      'source_url': 'https://www.hindustantimes.com/india-news/bengaluru-airport-says-kannadigas-form-majority-of-workforce-amid-calls-for-local-hiring-101794109485875.html'
     },
     {
-      'title': 'Oil companies reject Karnataka’s claim of 26-31% ethanol in petrol, seek test reports',
+      'title': 'Diwali eve crackers leave Delhi under a toxic haze, air quality nears ‘severe’',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'State-run oil companies have disputed Karnataka’s claim of 26-31% ethanol in petrol, saying E20 fuel supplied across the state meets prescribed standards.',
-      'source_url': 'https://www.hindustantimes.com/india-news/oil-companies-reject-karnataka-s-claim-of-26-31-ethanol-in-petrol-seek-test-reports-101794029902539.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Twenty-four of the 54 monitoring stations across the city recorded “severe” air quality while the remaining stations stood in the “very poor” category.',
+      'source_url': 'https://www.hindustantimes.com/india-news/delhi-ncr-pollution-aqi-today-firecrackers-smog-haze-supreme-court-news-air-quality-101794111465710.html'
     },
     {
-      'title': 'Toll in Old Delhi\'s Chawri Bazar building collapse rises to 3 as another body pulled out',
+      'title': 'Bengal: Minor gives birth inside nursing home washroom, throws baby out of window',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The deceased was identified as Pankaj Sharma, a resident of Hanuman Nagar village in Bihar’s Khagaria district.',
-      'source_url': 'https://www.hindustantimes.com/india-news/toll-in-old-delhis-chawri-bazar-building-collapse-rises-to-3-as-another-body-pulled-out-101794027333177.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'A nurse rushed to the spot to take the baby inside but found it dead, the police officer said, adding that the newborn was a girl.',
+      'source_url': 'https://www.hindustantimes.com/india-news/bengal-minor-gives-birth-inside-nursing-home-washroom-throws-baby-out-of-window-101794108325588.html'
     },
     {
-      'title': 'Row erupts in Tamil Nadu over books in  ₹300-crore Coimbatore library; TVK, DMK blame each other',
+      'title': 'HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The row began after comments by noted writer, professor, and Sahityā Akademi winner Perumal Murugan alleging massive corruption and a book-procurement scam',
-      'source_url': 'https://www.hindustantimes.com/india-news/row-erupts-in-tamil-nadu-over-books-in-300-crore-coimbatore-library-tvk-dmk-blame-each-other-101794023536456.html'
-    },
-    {
-      'title': 'Eligible CAA applicants to get citizenship by December 31: West Bengal CM Suvendu',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The chief minister said his government had taken responsibility for expediting the process and initiated administrative steps to clear the backlog.',
-      'source_url': 'https://www.hindustantimes.com/india-news/eligible-caa-applicants-to-get-citizenship-by-december-31-west-bengal-cm-suvendu-101794024335627.html'
-    },
-    {
-      'title': 'HT Morning News Brief November 7: Blast in AC unit at Ghaziabad police outpost; Shami retires from Test cricket and more',
-      'category': 'National News',
-      'date': 'Nov 07, 2026',
+      'date': 'Nov 08, 2026',
       'summary': 'Here are today\'s top headlines from politics, national and global events, sports, and entertainment.',
-      'source_url': 'https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-7-blast-in-ac-unit-at-ghaziabad-police-outpost-shami-retires-from-test-cricket-and-more-101794023300224.html'
+      'source_url': 'https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-8-delhi-s-worst-diwali-eve-air-in-10-years-israel-prez-picks-netanyahu-rival-eisenkot-and-more-101794104992289.html'
     },
     {
-      'title': 'Darbhanga airport gets defence nod for pilot training institute, BJP MP hails move',
+      'title': 'Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'MP Gopal Jee Thakur, the chairman of the Darbhanga airport advisory committee and BJP\'s Lok Sabha whip, described the development as a significant milestone',
-      'source_url': 'https://www.hindustantimes.com/india-news/darbhanga-airport-gets-defence-nod-for-pilot-training-institute-bjp-mp-hails-move-101794022107013.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Gurwinder aka Afridi, against whom the Punjab government had announced a reward of  ₹5 lakh, landed at Delhi’s Indira Gandhi International (IGI) Airport',
+      'source_url': 'https://www.hindustantimes.com/india-news/punjab-police-brings-back-wanted-gangster-gurwinder-alias-afridi-from-ethiopia-extradition-africa-101794103211445.html'
     },
     {
-      'title': '‘We are all proud of her’: Thiruvananthapuram kin cheer Indian-origin Nithya Raman\'s historic win as Los Angeles mayor',
+      'title': 'HC restrains unauthorised use of Amitabh’s name, likeness',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Nithya Raman, 45, a member of the Los Angeles City Council representing District 4, defeated incumbent Karen Bass, 73, in the November 3 election.',
-      'source_url': 'https://www.hindustantimes.com/india-news/we-are-all-proud-of-her-thiruvananthapuram-kin-cheer-indian-origin-nithya-raman-historic-win-as-los-angeles-mayor-101794021563390.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'The Delhi high court has permanently protected the personality rights of veteran Bollywood actor Amitabh Bachchan, restraining entities from using his name, image, voice or other aspects of his persona without his consent',
+      'source_url': 'https://www.hindustantimes.com/india-news/hc-restrains-unauthorised-use-of-amitabh-s-name-likeness-101794077136112.html'
     },
     {
-      'title': 'Food delivery man injured in late-night explosion at Ghaziabad police outpost',
+      'title': 'Acquitted, but disarmed: SC orders cops to return bodyguard’s revolver',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Blast in AC unit at Ghaziabad\'s Vasundhara police outpost, probe underway',
-      'source_url': 'https://www.hindustantimes.com/india-news/blast-in-ac-unit-at-ghaziabads-vasundhara-police-outpost-probe-underway-101794021718430.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'For a private bodyguard, a revolver is more than a weapon — it can be the key to a job',
+      'source_url': 'https://www.hindustantimes.com/india-news/acquitted-but-disarmed-sc-orders-cops-to-return-bodyguard-s-revolver-101794076539013.html'
     },
     {
-      'title': 'BJP opts for caution as Centre set to tweak UGC equity rules',
+      'title': 'Ex-Tech Mahindra executive shot 15 times by neighbour in Faridabad, had come home for Diwali',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The government, which faced backlash from the upper castes over the regulations that were put in abeyance, told SC it will set up a committee to revisit them.',
-      'source_url': 'https://www.hindustantimes.com/india-news/bjp-opts-for-caution-as-centre-set-to-tweak-ugc-equity-rules-101794020931163.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Police say the suspect fired multiple rounds and was arrested the next day. Relatives say the families had argued over a dog and parking-related issues.',
+      'source_url': 'https://www.hindustantimes.com/india-news/singaporebased-executive-shot-dead-at-faridabad-home-after-disputes-over-parking-pet-dog-101794099604228.html'
     },
     {
-      'title': 'IIT to Rohini: 10 most polluted areas in Delhi amid ‘very poor’ AQI on Diwali eve',
+      'title': 'PM Modi extends Diwali wishes, to mark festival in Bastar: ‘Where Naxalism once held sway’',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'An analysis by the HT Pollution Dashboard showed that 21 stations recorded \'severe\' air quality, while 30 were in the \'very poor\' category.',
-      'source_url': 'https://www.hindustantimes.com/india-news/iit-punjabi-bagh-vivek-vihar-jahangirpuri-rohini-10-most-polluted-areas-in-delhi-amid-very-poor-aqi-on-diwali-eve-101794019398238.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'PM Modi extended Diwali greetings to people across the country on Sunday. He will be celebrating the festival with the security personnel in Bastar.',
+      'source_url': 'https://www.hindustantimes.com/india-news/pm-modi-extends-diwali-greetings-will-continue-tradition-to-celebrate-festival-with-our-jawans-101794099911884.html'
     },
     {
-      'title': 'Goa CM pitches for reopening of 153 iron ore mining leases in ecologically sensitive areas of Western Ghats',
+      'title': 'Delhi breathes worst air on Diwali eve in 10 years',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'CM Pramod Sawant also sought a “solution from the union ministry of environment and forests”, given that Goa has limited land for compensatory afforestation.',
-      'source_url': 'https://www.hindustantimes.com/india-news/goa-cm-pitches-for-reopening-of-153-iron-ore-mining-leases-in-ecologically-sensitive-areas-of-western-ghats-101794020026209.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Weak winds are forecast to trap pollution, with forecasts suggesting air quality could reach the severe category by Monday.',
+      'source_url': 'https://www.hindustantimes.com/india-news/delhi-breathes-worst-air-on-diwali-eve-in-10-years-101794098326901.html'
     },
     {
-      'title': 'Late-night clashes outside Abhishek Banerjee\'s Kolkata residence as party workers celebrate his birthday',
+      'title': 'Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The clashes allegedly occurred between MAITC workers preparing for Abhishek Banerjee\'s 39th birthday and BJP supporters, although police did not name any party.',
-      'source_url': 'https://www.hindustantimes.com/india-news/latenight-clashes-outside-abhishek-banerjees-kolkata-residence-as-party-workers-celebrate-his-birthday-101794018001076.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'A full emergency was declared at Bengaluru airport after a suspected hijack threat note was found in the washroom of a Lucknow-bound IndiGo flight.',
+      'source_url': 'https://www.hindustantimes.com/india-news/bengaluru-airport-declares-full-emergency-after-security-threat-on-lucknow-bound-indigo-flight-101794074544636.html'
     },
     {
-      'title': 'Officials assaulted in Rajasthan after cheetah attacks cattle',
+      'title': '‘Apologise to Ram Bhakts first’: Yogi Adityanath ahead of Akhilesh Yadav\'s visit to Ayodhya',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'According to the complaint, the cheetah’s movement was traced to an area under Chandelipura gram panchayat, within Mandrayal police station limits.',
-      'source_url': 'https://www.hindustantimes.com/india-news/rajasthan-madhya-pradesh-kuno-national-park-cheetah-escape-forest-human-wildlife-conflict-101794018405813.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'UP chief minister Yogi Adityanath said the same forces that had opposed the Ram temple movement were now trying to take political mileage from it.',
+      'source_url': 'https://www.hindustantimes.com/india-news/apologise-to-ram-bhakts-first-yogi-adityanath-ahead-of-akhilesh-yadavs-visit-to-ayodhya-101794070474178.html'
     },
     {
-      'title': 'Enforcement Directorate challenges closure of money laundering case against NewsClick',
+      'title': 'Defence minister Rajnath Singh reviews battle readiness, infra push along LAC in Sikkim',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The portal was probed by the Economic Offences Wing of the Delhi police on allegations of receiving foreign funding.',
-      'source_url': 'https://www.hindustantimes.com/india-news/enforcement-directorate-ed-newsclick-supreme-court-cji-surya-kant-delhi-high-court-101794018897623.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Singh asked the armed forces to strengthen cyber resilience, information integrity and domain awareness to boost combat readiness and tackle emerging threats.',
+      'source_url': 'https://www.hindustantimes.com/india-news/defence-minister-rajnath-singh-reviews-battle-readiness-infra-push-along-lac-in-sikkim-101794071197601.html'
     },
     {
-      'title': 'Ex-CJI Gavai to head panel vetting forest rights claims in Tamil Nadu',
+      'title': 'TDP-led alliance sweeps Andhra Pradesh MPTC, ZPTC elections, secures landslide victory; YSRCP lags behind',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Supreme Court on Friday appointed former Chief Justice of India (CJI) Bhushan R Gavai to head a special committee that will scrutinise orders passed by authorities in Tamil Nadu under the Forest Rights Act, 2006 (FRA), even as it came down hard on the state government for its prolonged failure to initiate the statutory process to identify and a...',
-      'source_url': 'https://www.hindustantimes.com/india-news/excji-gavai-to-head-panel-vetting-forest-rights-claims-in-tamil-nadu-101793990891943.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'The TDP emerged as the dominant party, winning 229 ZPTC seats and 4,823 MPTC seats, including those declared unopposed.',
+      'source_url': 'https://www.hindustantimes.com/india-news/tdpled-alliance-sweeps-andhra-pradesh-mptc-zptc-elections-secures-landslide-victory-ysrcp-lags-behind-101794069719147.html'
     },
     {
-      'title': 'BJP plans special event on Advani’s 99th birthday',
+      'title': 'CJP’s Abhijeet Dipke predicts ‘Modi govt’s defeat in 2029’ at anti-SIR rally in Kochi: ‘He will definitely go’',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Bharatiya Janata Party (BJP) has planned a special celebration for party patriarch Lal Krishna Advani’s 99th birthday on Sunday, people aware of the details said',
-      'source_url': 'https://www.hindustantimes.com/india-news/bjpplans-special-event-on-advani-s-99th-birthday-101793990686245.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Dipke alleged that the government was waging a war against the country\'s youth to protect Gyanesh Kumar and questioned why he was so important to the PM.',
+      'source_url': 'https://www.hindustantimes.com/india-news/cjps-abhijeet-dipke-predicts-modi-govt-s-defeat-in-2029-at-anti-sir-rally-in-kochi-he-will-definitely-go-101794067175680.html'
     },
     {
-      'title': 'SC rejects bail plea of doctor accused of prescribing cough syrup linked to 26 child deaths',
+      'title': 'Ayodhya lights up with over 30 lakh diyas on Diwali eve, CM Yogi attends 10th edition of Deepotsav',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'New Delhi: The Supreme Court on Friday refused to grant bail to paediatrician Praveen Soni, who was arrested in October 2025 for allegedly continuing to prescribe Coldrif cough syrup linked to the deaths of 26 children in Madhya Pradesh, observing that the case was too serious to warrant his release at this stage',
-      'source_url': 'https://www.hindustantimes.com/india-news/sc-rejects-bail-plea-of-doctor-accused-of-prescribing-cough-syrup-linked-to-26-child-deaths-101793990664102.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Ayodhya lit up with thousands of earthen lamps on Saturday as the city celebrated the 10th edition of Deepotsav.&nbsp;',
+      'source_url': 'https://www.hindustantimes.com/india-news/ayodhya-lights-up-with-over-30-lakh-diyas-on-diwali-eve-cm-yogi-attends-10th-edition-of-deepotsav-101794064290342.html'
     },
     {
-      'title': 'India, EU conclude negotiations over key scientific cooperation programme',
+      'title': 'Sonia Gandhi recalls pleading with Rajiv not to become PM after Indira’s assassination: ‘They will kill you’',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Once the agreement is signed and procedures are completed by both sides, Indian organisations will be able to receive funding directly from Horizon Europe.',
-      'source_url': 'https://www.hindustantimes.com/india-news/india-eu-conclude-negotiations-over-key-scientific-cooperation-programme-101793990652345.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Sonia said she was overwhelmed by anger and anguish at the prospect of Rajiv taking over as prime minister, fearing that he too could become a target.',
+      'source_url': 'https://www.hindustantimes.com/india-news/sonia-gandhi-book-belonging-recalls-pleading-with-rajiv-not-to-become-pm-after-indira-gandhi-assassination-101794057145123.html'
     },
     {
-      'title': 'Our fight is to restore democracy, not just form govt, says KC Venugopal',
+      'title': 'Ghaziabad outpost blast: Agencies conduct checks; social media account claims responsibility',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'The Centre is turning every democratic institution into a tool for anti-democratic actions, Congress general secretary (organisation) KC Venugopal told HT in an interview',
-      'source_url': 'https://www.hindustantimes.com/india-news/our-fight-is-to-restore-democracy-not-just-form-govt-says-kc-venugopal-101793990471446.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'The explosion that happened on Friday around 9pm at the rear wall of the Vasundhara police outpost cracked walls and shattered windowpanes',
+      'source_url': 'https://www.hindustantimes.com/india-news/ghaziabad-outpost-blast-agencies-conduct-checks-social-media-account-claims-responsibility-101794061410392.html'
     },
     {
-      'title': 'Maharashtra plans cochlear implant facility for patients with hearing impairment in all municipal hospitals',
+      'title': 'Biswajit Basu becomes fourth former Calcutta HC judge to quit Bengal SIR tribunal',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'At present, the Thane Municipal Corporation provides the facility, and the Maharashtra government is planning to expand it across other municipal corporations.',
-      'source_url': 'https://www.hindustantimes.com/india-news/maharashtra-plans-cochlear-implant-facility-for-patients-with-hearing-impairment-in-all-municipal-hospitals-101794016167090.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'The SIR tribunals were formed amid a controversy over the deletion of a few million names from Bengal’s electoral rolls',
+      'source_url': 'https://www.hindustantimes.com/india-news/biswajit-basu-becomes-fourth-former-calcutta-hc-judge-to-quit-bengal-sir-tribunal-101794057931590.html'
     },
     {
-      'title': 'CJP protest LIVE: ‘See you at 4 pm Kochi’, says Abhijeet Dipke ahead of protest against SIR in Kerala',
+      'title': 'HT Evening News Brief Nov 7: PM Modi’s Diwali message, IAF\'s historic landing in Ladakh and more',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'CJP protest LIVE: Abhijeet Dipke and actor-activist Prakash Raj are among those scheduled to attend CJP\'s protest march in Kerala\'s Kochi today, demanding the withdrawal of the Special Intensive Revision (SIR) of electoral rolls.',
-      'source_url': 'https://www.hindustantimes.com/india-news/cjp-protest-live-updates-cockroach-janta-party-kerala-kochi-march-sir-cec-gyanesh-kumar-eci-abhijeet-dipke-prakash-raj-101794012149826.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Here\'s a quick recap of the day\'s top headlines from India, the world and the field of sports and entertainment.',
+      'source_url': 'https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-7-pm-modi-diwali-wishes-firecracker-colours-iaf-historic-landing-tech-mahindra-murder-ind-vs-nz-101794054711716.html'
     },
     {
-      'title': 'Weather Bee: El Niño boosts eastern Pacific cyclone activity to record levels',
+      'title': '22-year-old kills father in Ghaziabad after he scolds him over quarrel with sister: Police',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'El Niño has driven accumulated cyclone energy in the eastern Pacific to its highest level since 1950, with 2026 already breaking previous records.',
-      'source_url': 'https://www.hindustantimes.com/india-news/weather-bee-el-ni-o-boosts-eastern-pacific-cyclone-activity-to-record-levels-101793985540168.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'Officers said the incident stemmed from a domestic dispute on Friday evening.',
+      'source_url': 'https://www.hindustantimes.com/india-news/15yearold-boy-kills-father-58-after-being-scolded-over-fight-with-sister-in-loni-police-101794055291415.html'
     },
     {
-      'title': 'Petrol pumps to check tanks for water ‘every 2-8 hours’: Officials',
+      'title': 'Dispute over parking, dog ended in ex-Tech Mahindra executive\'s murder in Faridabad; neighbour arrested',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Experts said frequent testing with an alcohol-resistant water-finding paste is essential because ethanol readily absorbs water from its surroundings.',
-      'source_url': 'https://www.hindustantimes.com/india-news/petrol-pumps-ethanol-blending-e-20-fuel-vehicles-hindustan-petroleum-corporation-ltd-indian-oil-bharat-petroleum-corporatio-ltd-101794010038415.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'The victim had arrived in India from Singapore on November 5 to celebrate Diwali with his family and was also scheduled to attend his nephew\'s wedding.',
+      'source_url': 'https://www.hindustantimes.com/india-news/parking-dog-poop-dispute-between-neighbours-led-to-murder-of-ex-tech-mahindra-head-in-faridabad-101794048957136.html'
     },
     {
-      'title': '\'He said we were going on a trip\': Boy narrates events after Bengaluru cab driver killed family',
+      'title': 'High fares, longer journeys, delays make special trains less attractive to passengers: Officials',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Indusekar, who also runs a Kannada-English monthly tabloid, allegedly confessed during interrogation, Bengaluru police commissioner Seemant Kumar Singh said.',
-      'source_url': 'https://www.hindustantimes.com/india-news/bengaluru-cab-driver-kills-in-laws-11-year-old-nephew-narrates-events-after-murder-101793984254081.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'High fares, longer journeys, delays make special trains less attractive to passengers: Officials',
+      'source_url': 'https://www.hindustantimes.com/india-news/high-fares-longer-journeys-delays-make-special-trains-less-attractive-to-passengers-officials-101794053798160.html'
     },
     {
-      'title': 'Agnipath scheme threatened national security, was introduced in haste: Congress’s Rohit Chaudhary',
+      'title': 'Hari Boxer, Lawrence Bishnoi gang member wanted in 22 cases, detained by ICE in US',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Congress demanded the scrapping of the Agnipath scheme, alleging that it weakens national security and disrupts military training and cadre management.',
-      'source_url': 'https://www.hindustantimes.com/india-news/agnipath-scheme-threatened-national-security-was-introduced-in-haste-congress-s-rohit-chaudhary-101793984109969.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'According to the AGTF, Boxer, a resident of Chatarpura village under Bansdayal police station in Rajasthan’s Kotputli-Behror district',
+      'source_url': 'https://www.hindustantimes.com/india-news/hari-boxer-lawrence-bishnoi-gang-member-wanted-in-22-cases-detained-in-us-101794053489412.html'
     },
     {
-      'title': 'Manipur’s CoTU pauses shutdown over 2 Kuki youths’ killing, gives government 7 days to act',
+      'title': 'PM Modi extends Diwali greeting to nation: ‘Festival of light reflects our resolve against darkness’',
       'category': 'National News',
-      'date': 'Nov 07, 2026',
-      'summary': 'Manipur’s Kuki-Zo body CoTU has suspended the Kangpokpi shutdown for seven days, giving the state government time to meet demands over the killing of two Kuki youths.',
-      'source_url': 'https://www.hindustantimes.com/india-news/manipurs-cotu-pauses-shutdown-over-2-kuki-youths-killing-gives-government-7-days-to-act-101793983330304.html'
+      'date': 'Nov 08, 2026',
+      'summary': 'In a 50-second video message shared on social media platforms including X, PM Modi appeared in traditional attire with a tilak and addressed people directly.',
+      'source_url': 'https://www.hindustantimes.com/india-news/pm-modi-extends-diwali-greetings-to-nation-wishes-happiness-and-prosperity-to-people-101794052304529.html'
+    },
+    {
+      'title': 'Indian Army debunks ‘unsubstantiated, false’ claims of Chinese troops advancing in Arunachal Pradesh',
+      'category': 'National News',
+      'date': 'Nov 08, 2026',
+      'summary': 'The Indian Army accused Pakistan-sponsored social media accounts of circulating \"unsubstantiated\" claims of Chinese troops advancing in Arunachal Pradesh',
+      'source_url': 'https://www.hindustantimes.com/india-news/indian-army-debunks-unsubstantiated-false-claims-of-chinese-troops-advancing-in-arunachal-pradesh-101794049568007.html'
     },
   ];
 }
